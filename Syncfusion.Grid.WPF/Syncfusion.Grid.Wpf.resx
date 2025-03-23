@@ -332,7 +332,7 @@
     <value>of {0}</value>
   </data>
   <data name="CurrentPageSuffix_TotalPageCountUnknown" xml:space="preserve">
-    <value>CurrentPageSuffix_TotalPageCountUnknown</value>
+    <value />
   </data>
   <data name="InvalidButtonPanelContent" xml:space="preserve">
     <value>The NumericButtonPanel contains invalid children.</value>

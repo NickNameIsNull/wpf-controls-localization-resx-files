@@ -322,39 +322,39 @@
     <value>AfterRefresh event</value>
   </data>
   <data name="OlapChart_AreaBorder_Exception" xml:space="preserve">
-    <value>OLAP Chart must have border with name \"PART_AreaBorder\" in the root of its template tree</value>
+    <value>The OLAP Chart must have a border named \"PART_AreaBorder\" at the root of its template tree.</value>
   </data>
   <data name="OlapChart_BeforeRefreshEvent" xml:space="preserve">
     <value>BeforeRefresh event</value>
   </data>
   <data name="OlapChart_ChartArea_Exception" xml:space="preserve">
-    <value>OlapChart template must contain OlapChartArea</value>
+    <value>The OlapChart template must contain an OlapChartArea.</value>
   </data>
   <data name="OlapChart_ColorModelProperty" xml:space="preserve">
     <value>ColorModel property</value>
   </data>
   <data name="OlapChart_LabelPanel_Exception" xml:space="preserve">
-    <value>Back conversion is not supported by OlapPanel</value>
+    <value>Back conversion is not supported by the OlapPanel.</value>
   </data>
   <data name="OlapChart_LabelPanel_OrientationException" xml:space="preserve">
-    <value>orientation is not supported by OlapPanel</value>
+    <value>Orientation is not supported by the OlapPanel.</value>
   </data>
   <data name="OlapChart_OnSaveCommand_Exception" xml:space="preserve">
-    <value>\"PART_OlapArea\" templated part of chart control cannot be retrieved.</value>
+    <value>\"PART_OlapArea\" templated part of the chart control cannot be retrieved.</value>
   </data>
   <data name="OlapChart_PrimaryAxis_Exception" xml:space="preserve">
-    <value>Use PrimaryOlapAxis property for OlapArea</value>
+    <value>Use the PrimaryOlapAxis property for the OlapArea.</value>
   </data>
   <data name="OlapChart_SeriesProperty" xml:space="preserve">
     <value>Series property</value>
   </data>
   <data name="OlapChart_SeriesToolTip_Converter_Exception" xml:space="preserve">
-    <value>Cannot convert ToolTip to corresponding chart type</value>
+    <value>Cannot convert the ToolTip to the corresponding chart type.</value>
   </data>
   <data name="OlapChart_VerifyAreaAccess_Exception" xml:space="preserve">
-    <value>OlapChart template should be applied before accessing</value>
+    <value>The OlapChart template must be applied before accessing.</value>
   </data>
   <data name="StackTrace_Exception_Description" xml:space="preserve">
-    <value>For more details, please refer the log file from : </value>
+    <value>For more details, please refer to the log file from:</value>
   </data>
 </root>

@@ -154,10 +154,10 @@
     <value>Duration</value>
   </data>
   <data name="DurationTooltip" xml:space="preserve">
-    <value>Duration:</value>
+    <value>Duration :</value>
   </data>
   <data name="EndTimeTooltip" xml:space="preserve">
-    <value>EndTime :</value>
+    <value>End Time :</value>
   </data>
   <data name="EndTooltip" xml:space="preserve">
     <value>End :</value>
@@ -178,7 +178,7 @@
     <value>Finish date mapping name is missing or mapping name is wrong.</value>
   </data>
   <data name="FinishDateTooltip" xml:space="preserve">
-    <value>Finish Date:</value>
+    <value>Finish Date :</value>
   </data>
   <data name="FinishPoint" xml:space="preserve">
     <value>Finish</value>
@@ -229,7 +229,7 @@
     <value>Start date mapping name is missing or mapping name is wrong.</value>
   </data>
   <data name="StartDateTooltip" xml:space="preserve">
-    <value>Start Date:</value>
+    <value>Start Date :</value>
   </data>
   <data name="StartFinishDurationMissing" xml:space="preserve">
     <value>Start/Finish/Duration mapping name is missing or mapping name is wrong.</value>
@@ -244,7 +244,7 @@
     <value>Start point mapping name is missing or mapping name is wrong.</value>
   </data>
   <data name="StartTimeTooltip" xml:space="preserve">
-    <value>StartTime:</value>
+    <value>Start Time :</value>
   </data>
   <data name="StartTooltip" xml:space="preserve">
     <value>Start :</value>
@@ -255,11 +255,14 @@
   <data name="TargetToolTip" xml:space="preserve">
     <value>Target :</value>
   </data>
+  <data name="TaskId" xml:space="preserve">
+    <value>Task Id</value>
+  </data>
   <data name="TaskName" xml:space="preserve">
     <value>Task Name</value>
   </data>
   <data name="TaskNameTooltip" xml:space="preserve">
-    <value>Task Name:</value>
+    <value>Task Name :</value>
   </data>
   <data name="XMLExport" xml:space="preserve">
     <value>XML Export</value>

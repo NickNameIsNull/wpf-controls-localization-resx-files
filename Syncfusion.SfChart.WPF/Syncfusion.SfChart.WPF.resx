@@ -169,7 +169,7 @@
     <value>Print</value>
   </data>
   <data name="PrintingExceptionMessage" xml:space="preserve">
-    <value>Element must be rendered, and must have a parent in order to print.</value>
+    <value>The element must be rendered and have a parent in order to print.</value>
   </data>
   <data name="PrintingMessage" xml:space="preserve">
     <value>is printing.</value>
@@ -190,7 +190,7 @@
     <value>Reset</value>
   </data>
   <data name="BoxSelectionZoom" xml:space="preserve">
-    <value>BoxSelection Zoom</value>
+    <value>Box Selection Zoom</value>
   </data>
   <data name="SignalLine" xml:space="preserve">
     <value>Signal Line</value>

@@ -249,6 +249,10 @@
     <value>Height :</value>
     <comment>Text for Height of page size in PrintDialog</comment>
   </data>
+  <data name="Items" xml:space="preserve">
+    <value>Items</value>
+    <comment>Items to Display</comment>
+  </data>
   <data name="LandScapeOrientation" xml:space="preserve">
     <value>LandScape Orientation</value>
     <comment>Text for LandScape Orientation of Print Dialog window</comment>
@@ -410,7 +414,7 @@
     <comment>Text for Cannot drop here in RowDragAndDrop popup</comment>
   </data>
   <data name="DraggingRowsCount" xml:space="preserve">
-    <value>Dragging rows count :  </value>
+    <value>Dragging rows count : </value>
     <comment>Text for Dragging rows count in DragAndDrop popup</comment>
   </data>
   <data name="DropAbove" xml:space="preserve">

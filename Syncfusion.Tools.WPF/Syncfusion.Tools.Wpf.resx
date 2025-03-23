@@ -370,7 +370,7 @@
     <value>Ribbon Menu</value>
   </data>
   <data name="QATTabCaption" xml:space="preserve">
-    <value>Tab</value>
+    <value>{0} Tab</value>
   </data>
   <data name="MenuItemCancel" xml:space="preserve">
     <value>Cancel</value>

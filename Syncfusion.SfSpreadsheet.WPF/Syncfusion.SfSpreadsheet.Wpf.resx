@@ -454,19 +454,19 @@
   <data name="CellStyles" xml:space="preserve">
     <value>Cell Styles</value>
   </data>
-  <data name="FillSeries" xml:space="preserve">
+	<data name="FillSeries" xml:space="preserve">
     <value>Fill</value>
   </data>
-  <data name="Fill_Left" xml:space="preserve">
+	<data name="Fill_Left" xml:space="preserve">
     <value>Left</value>
   </data>
-  <data name="Fill_Right" xml:space="preserve">
+	<data name="Fill_Right" xml:space="preserve">
     <value>Right</value>
   </data>
-  <data name="Fill_Up" xml:space="preserve">
+	<data name="Fill_Up" xml:space="preserve">
     <value>Up</value>
   </data>
-  <data name="Fill_Down" xml:space="preserve">
+	<data name="Fill_Down" xml:space="preserve">
     <value>Down</value>
   </data>
   <data name="DocumentProperties" xml:space="preserve">
@@ -1151,10 +1151,10 @@
     <value>Delete Cells...</value>
   </data>
   <data name="EntireColumn" xml:space="preserve">
-    <value>Entire column</value>
+    <value>Entire Column</value>
   </data>
   <data name="EntireRow" xml:space="preserve">
-    <value>Entire row</value>
+    <value>Entire Row</value>
   </data>
   <data name="InsertCells" xml:space="preserve">
     <value>Insert Cells...</value>
@@ -1439,7 +1439,7 @@
     <value>We can't paste because the Copy area and paste area aren't the same size</value>
   </data>
   <data name="ValidationMessage_ReadOnlyCells" xml:space="preserve">
-    <value>The cell that you are trying to change is on a protected sheet and therefore readonly.</value>
+    <value>The cell you are trying to change is on a protected sheet. Therefore, read only.</value>
   </data>
   <data name="FreezeFirstColumnDescription" xml:space="preserve">
     <value>Keep the first column visible while scrolling through the rest of the worksheet.</value>
@@ -1587,7 +1587,7 @@ A user has restricted value that can be entered into this cell.</value>
     <value>Paste Options:</value>
   </data>
   <data name="String1" xml:space="preserve">
-    <value>String1</value>
+    <value />
   </data>
   <data name="Context_PasteAll" xml:space="preserve">
     <value>Paste</value>
@@ -1710,7 +1710,7 @@ A user has restricted value that can be entered into this cell.</value>
     <value>Formulas</value>
   </data>
   <data name="Context_PasteOptions" xml:space="preserve">
-    <value>PasteOptions</value>
+    <value>Paste Options:</value>
   </data>
   <data name="Context_FormatCells" xml:space="preserve">
     <value>Format Cells...</value>
@@ -1974,7 +1974,7 @@ A user has restricted value that can be entered into this cell.</value>
     <value>Degrees</value>
   </data>
   <data name="Spreadsheet" xml:space="preserve">
-    <value>Spreadsheet</value>
+    <value />
   </data>
   <data name="ValidationMessage_MergeAndCenter" xml:space="preserve">
     <value>Merging cells only keeps the upper-left cell value, and discards the other values.</value>
@@ -2135,7 +2135,7 @@ FYI: It's possible the data you're trying to replace is in a protected sheet. Ca
     <value>Scope</value>
   </data>
   <data name="ThemeColorsText" xml:space="preserve">
-    <value>Theme Colors Text</value>
+    <value />
   </data>
   <data name="CellStyles_Accent" xml:space="preserve">
     <value>Accent</value>
@@ -2263,7 +2263,7 @@ FYI: It's possible the data you're trying to replace is in a protected sheet. Ca
   <data name="NumberFormat" xml:space="preserve">
     <value>Number Format</value>
   </data>
-  <data name="NumberSettingsToolTip" xml:space="preserve">
+	<data name="NumberSettingsToolTip" xml:space="preserve">
     <value>See the number formatting options.</value>
   </data>
   <data name="Text" xml:space="preserve">
@@ -2281,26 +2281,25 @@ FYI: It's possible the data you're trying to replace is in a protected sheet. Ca
   <data name="EditCommentToolTip" xml:space="preserve">
     <value>Edit the comment on selected cell.</value>
   </data>
-  <data name="GridlinesToolTip" xml:space="preserve">
+	<data name="GridlinesToolTip" xml:space="preserve">
     <value>Show the lines in the sheet between rows and columns to make the sheet easier to read.</value>
   </data>
-  <data name="FormulaBarToolTip" xml:space="preserve">
+	<data name="FormulaBarToolTip" xml:space="preserve">
     <value>Show the Formula bar to see the formulas in the cells.</value>
   </data>
-  <data name="ShowHeadingsToolTip" xml:space="preserve">
+	<data name="ShowHeadingsToolTip" xml:space="preserve">
     <value>Show column headers and row numbers.</value>
   </data>
-  <data name="FreezePanesToolTip" xml:space="preserve">
+	<data name="FreezePanesToolTip" xml:space="preserve">
     <value>Freeze a portion of the sheet to keep it visible while scrolling through the rest of the sheet. </value>
   </data>
-  <data name="ProtectWorksheetToolTip" xml:space="preserve">
-    <value>All cells are locked while you protect a sheet, except those that you have specifically unlocked.
-For Example you are preventing the user from changing values in cells and making other changes to the worksheet.</value>
+    <data name="ProtectWorksheetToolTip" xml:space="preserve">
+    <value>All cells are locked while you protect a sheet, except those that you have specifically unlocked.&#x0a;For Example you are preventing the user from changing values in cells and making other changes to the worksheet.</value>
   </data>
-  <data name="ProtectWorkBookToolTip" xml:space="preserve">
+    <data name="ProtectWorkBookToolTip" xml:space="preserve">
     <value>Protect the structure of workbook by prevent a user from adding or deleting worksheets or from displaying hidden worksheets.</value>
   </data>
-  <data name="HyperLinksToolTip" xml:space="preserve">
+   <data name="HyperLinksToolTip" xml:space="preserve">
     <value>Create a link in your document for quick access to webpages and files.</value>
   </data>
   <data name="GroupToolTip" xml:space="preserve">
@@ -2313,105 +2312,102 @@ For Example you are preventing the user from changing values in cells and making
     <value>Pick from a list of rules to limit the type of data that can be entered in a cell.</value>
   </data>
   <data name="NameManagerToolTip" xml:space="preserve">
-    <value>Create, edit, delete, and find other names in workbook.
-Names can be used as substitutes for cell references in formulas.
-For example, =SUM(Sales) instead of =SUM (C20:C30).</value>
+    <value>Create, edit, delete, and find other names in workbook.&#x0a;Names can be used as substitutes for cell references in formulas.&#x0a;For example, =SUM(Sales) instead of =SUM (C20:C30).</value>
   </data>
   <data name="FilterToolTip" xml:space="preserve">
-    <value>Enable filtering for the selected cells.
-Then, click the arrow in the column header to narrow down the data.</value>
+    <value>Enable filtering for the selected cells.&#x0a;Then, click the arrow in the column header to narrow down the data.</value>
   </data>
-  <data name="OutlineToolTip" xml:space="preserve">
+	<data name="OutlineToolTip" xml:space="preserve">
     <value>Checkout advanced options to create outlines.</value>
   </data>
-  <data name="PasteToolTipHeader" xml:space="preserve">
+	<data name="PasteToolTipHeader" xml:space="preserve">
     <value>Paste (Ctrl+V)</value>
   </data>
-  <data name="CopyToolTipHeader" xml:space="preserve">
+	<data name="CopyToolTipHeader" xml:space="preserve">
     <value>Copy (Ctrl+C)</value>
   </data>
-  <data name="CutToolTipHeader" xml:space="preserve">
+	<data name="CutToolTipHeader" xml:space="preserve">
     <value>Cut (Ctrl+X)</value>
   </data>
-  <data name="BoldToolTipHeader" xml:space="preserve">
+	<data name="BoldToolTipHeader" xml:space="preserve">
     <value>Bold</value>
   </data>
-  <data name="ItalicToolTipHeader" xml:space="preserve">
+	<data name="ItalicToolTipHeader" xml:space="preserve">
     <value>Italic</value>
   </data>
-  <data name="UnderLineToolTipHeader" xml:space="preserve">
+	<data name="UnderLineToolTipHeader" xml:space="preserve">
     <value>UnderLine</value>
   </data>
-  <data name="BottomBorderToolTipHeader" xml:space="preserve">
+	<data name="BottomBorderToolTipHeader" xml:space="preserve">
     <value>Bottom Border</value>
   </data>
-  <data name="FontToolTipHeader" xml:space="preserve">
+	<data name="FontToolTipHeader" xml:space="preserve">
     <value>Font</value>
   </data>
-  <data name="FontSizeToolTipHeader" xml:space="preserve">
+	<data name="FontSizeToolTipHeader" xml:space="preserve">
     <value>Font Size</value>
   </data>
-  <data name="IncreaseFontSizeToolTipHeader" xml:space="preserve">
+	<data name="IncreaseFontSizeToolTipHeader" xml:space="preserve">
     <value>Increase Font Size</value>
   </data>
-  <data name="DecreaseFontSizeToolTipHeader" xml:space="preserve">
+	<data name="DecreaseFontSizeToolTipHeader" xml:space="preserve">
     <value>Decrease Font Size</value>
   </data>
-  <data name="FillColorToolTipHeader" xml:space="preserve">
+	<data name="FillColorToolTipHeader" xml:space="preserve">
     <value>Fill Color</value>
   </data>
-  <data name="FontColorToolTipHeader" xml:space="preserve">
+	<data name="FontColorToolTipHeader" xml:space="preserve">
     <value>Font Color</value>
   </data>
-  <data name="AlignmentSettingsToolTipHeader" xml:space="preserve">
+	<data name="AlignmentSettingsToolTipHeader" xml:space="preserve">
     <value>Alignment Settings</value>
   </data>
-  <data name="TopAlignToolTipHeader" xml:space="preserve">
+	<data name="TopAlignToolTipHeader" xml:space="preserve">
     <value>Top Align</value>
   </data>
-  <data name="BottomAlignToolTipHeader" xml:space="preserve">
+	<data name="BottomAlignToolTipHeader" xml:space="preserve">
     <value>Bottom Align</value>
   </data>
-  <data name="MiddleAlignToolTipHeader" xml:space="preserve">
+	<data name="MiddleAlignToolTipHeader" xml:space="preserve">
     <value>Middle Align</value>
   </data>
-  <data name="LeftAlignToolTipHeader" xml:space="preserve">
+	<data name="LeftAlignToolTipHeader" xml:space="preserve">
     <value>Left Align</value>
   </data>
-  <data name="RightAlignToolTipHeader" xml:space="preserve">
+	<data name="RightAlignToolTipHeader" xml:space="preserve">
     <value>Right Align</value>
   </data>
-  <data name="CenterAlignToolTipHeader" xml:space="preserve">
+	<data name="CenterAlignToolTipHeader" xml:space="preserve">
     <value>Center Align</value>
   </data>
-  <data name="OrientationToolTipHeader" xml:space="preserve">
+	<data name="OrientationToolTipHeader" xml:space="preserve">
     <value>Orientation</value>
   </data>
-  <data name="FontSettingsToolTipHeader" xml:space="preserve">
+	<data name="FontSettingsToolTipHeader" xml:space="preserve">
     <value>Font Settings</value>
   </data>
-  <data name="DecreaseIndentToolTipHeader" xml:space="preserve">
+	<data name="DecreaseIndentToolTipHeader" xml:space="preserve">
     <value>Decrease Indent</value>
   </data>
-  <data name="IncreaseIndentToolTipHeader" xml:space="preserve">
+	<data name="IncreaseIndentToolTipHeader" xml:space="preserve">
     <value>Increase Indent</value>
   </data>
-  <data name="NumberFormatToolTipHeader" xml:space="preserve">
+	<data name="NumberFormatToolTipHeader" xml:space="preserve">
     <value>Number Format</value>
   </data>
-  <data name="AccountingNumberFormatToolTipHeader" xml:space="preserve">
+	<data name="AccountingNumberFormatToolTipHeader" xml:space="preserve">
     <value>Accounting Number Format</value>
   </data>
-  <data name="PercentageFormatToolTipHeader" xml:space="preserve">
+	<data name="PercentageFormatToolTipHeader" xml:space="preserve">
     <value>Percentage Format</value>
   </data>
-  <data name="CommaStyleToolTipHeader" xml:space="preserve">
+	<data name="CommaStyleToolTipHeader" xml:space="preserve">
     <value>Comma Style</value>
   </data>
-  <data name="IncreaseDecimalToolTipHeader" xml:space="preserve">
+	<data name="IncreaseDecimalToolTipHeader" xml:space="preserve">
     <value>Increase Decimal</value>
   </data>
-  <data name="DecreaseDecimalToolTipHeader" xml:space="preserve">
+	<data name="DecreaseDecimalToolTipHeader" xml:space="preserve">
     <value>Decrease Decimal</value>
   </data>
   <data name="PasteToolTip" xml:space="preserve">
@@ -2426,143 +2422,160 @@ Then, click the arrow in the column header to narrow down the data.</value>
   <data name="BoldToolTip" xml:space="preserve">
     <value>Make the selected text bold.</value>
   </data>
-  <data name="ItalicToolTip" xml:space="preserve">
+	<data name="ItalicToolTip" xml:space="preserve">
     <value>Italicize the selected text.</value>
   </data>
   <data name="UnderLineToolTip" xml:space="preserve">
     <value>Underline the selected text.</value>
   </data>
-  <data name="BottomBorderToolTip" xml:space="preserve">
+	<data name="BottomBorderToolTip" xml:space="preserve">
     <value>Apply borders to the selected cells.</value>
   </data>
-  <data name="FontToolTip" xml:space="preserve">
+	<data name="FontToolTip" xml:space="preserve">
     <value>Choose a new font for text.</value>
   </data>
-  <data name="FontSizeToolTip" xml:space="preserve">
+	<data name="FontSizeToolTip" xml:space="preserve">
     <value>Change the size of text.</value>
   </data>
-  <data name="IncreaseFontSizeToolTip" xml:space="preserve">
+	<data name="IncreaseFontSizeToolTip" xml:space="preserve">
     <value>Increase the text size.</value>
   </data>
-  <data name="DecreaseFontSizeToolTip" xml:space="preserve">
+	<data name="DecreaseFontSizeToolTip" xml:space="preserve">
     <value>Decrease the text size.</value>
   </data>
-  <data name="FillColorToolTip" xml:space="preserve">
+	<data name="FillColorToolTip" xml:space="preserve">
     <value>Change the color of the background of the selected cells.</value>
   </data>
-  <data name="FontColorToolTip" xml:space="preserve">
+	<data name="FontColorToolTip" xml:space="preserve">
     <value>Change the color of text.</value>
   </data>
-  <data name="FontSettingsToolTip" xml:space="preserve">
+	<data name="FontSettingsToolTip" xml:space="preserve">
     <value>Customize the text so that it looks exactly what you want.</value>
   </data>
-  <data name="TopAlignToolTip" xml:space="preserve">
+	<data name="TopAlignToolTip" xml:space="preserve">
     <value>Align text to the top of the cell.</value>
   </data>
-  <data name="BottomAlignToolTip" xml:space="preserve">
+	<data name="BottomAlignToolTip" xml:space="preserve">
     <value>Align text to the bottom of the cell.</value>
   </data>
-  <data name="MiddleAlignToolTip" xml:space="preserve">
+	<data name="MiddleAlignToolTip" xml:space="preserve">
     <value>Align the text to be centered between the top and bottom of the cell.</value>
   </data>
-  <data name="LeftAlignToolTip" xml:space="preserve">
+	<data name="LeftAlignToolTip" xml:space="preserve">
     <value>Align the contents to the left.</value>
   </data>
-  <data name="RightAlignToolTip" xml:space="preserve">
+	<data name="RightAlignToolTip" xml:space="preserve">
     <value>Align the contents to the right.</value>
   </data>
-  <data name="CenterAlignToolTip" xml:space="preserve">
+	<data name="CenterAlignToolTip" xml:space="preserve">
     <value>Center content.</value>
   </data>
-  <data name="OrientationToolTip" xml:space="preserve">
+	<data name="OrientationToolTip" xml:space="preserve">
     <value>Rotate the text diagonally and vertically.</value>
   </data>
-  <data name="DecreaseIndentToolTip" xml:space="preserve">
+	<data name="DecreaseIndentToolTip" xml:space="preserve">
     <value>Decrease the margin between the border and the text in the cell.</value>
   </data>
-  <data name="IncreaseIndentToolTip" xml:space="preserve">
+	<data name="IncreaseIndentToolTip" xml:space="preserve">
     <value>Increase the margin between the border and the text in the cell.</value>
   </data>
-  <data name="WrapTextToolTip" xml:space="preserve">
+	<data name="WrapTextToolTip" xml:space="preserve">
     <value>Make the long text visible by wrapping it into multiple lines.</value>
   </data>
-  <data name="MergeAndCenterToolTip" xml:space="preserve">
+	<data name="MergeAndCenterToolTip" xml:space="preserve">
     <value>Merge two or more cells or split the merged cells into individual cells.</value>
   </data>
-  <data name="NumberFormatToolTip" xml:space="preserve">
+	<data name="NumberFormatToolTip" xml:space="preserve">
     <value>Choose the cell format, such as percentage, currency, date or time.</value>
   </data>
-  <data name="AccountingNumberFormatToolTip" xml:space="preserve">
+	<data name="AccountingNumberFormatToolTip" xml:space="preserve">
     <value>Set the currency format for the selected cell.</value>
   </data>
-  <data name="PercentageStyleToolTip" xml:space="preserve">
+	<data name="PercentageStyleToolTip" xml:space="preserve">
     <value>Set the percentage format for the selected cell.</value>
   </data>
-  <data name="CommaStyleToolTip" xml:space="preserve">
+	<data name="CommaStyleToolTip" xml:space="preserve">
     <value>Shows the text with a thousands separator.</value>
   </data>
-  <data name="IncreaseDecimalToolTip" xml:space="preserve">
+	<data name="IncreaseDecimalToolTip" xml:space="preserve">
     <value>Shows more decimal places for a more precise value.</value>
   </data>
-  <data name="DecreaseDecimalToolTip" xml:space="preserve">
+	<data name="DecreaseDecimalToolTip" xml:space="preserve">
     <value>Shows fewer decimal places.</value>
   </data>
-  <data name="ConditionalFormattingToolTip" xml:space="preserve">
+	<data name="ConditionalFormattingToolTip" xml:space="preserve">
     <value>Highlight the cells and visualize the data using bars, colors and icons based on criteria.</value>
   </data>
-  <data name="FormatAsTableToolTip" xml:space="preserve">
+	<data name="FormatAsTableToolTip" xml:space="preserve">
     <value>Quickly convert a range of cells to a table of its own style.</value>
   </data>
-  <data name="CellStylesToolTip" xml:space="preserve">
+	<data name="CellStylesToolTip" xml:space="preserve">
     <value>Quickly format the cells by choosing from predefined styles.</value>
   </data>
-  <data name="InsertCellsToolTip" xml:space="preserve">
+	<data name="InsertCellsToolTip" xml:space="preserve">
     <value>Insert cells, rows, or columns into the sheet or table, or add a sheet to the workbook.</value>
   </data>
-  <data name="DeleteCellsToolTip" xml:space="preserve">
+	<data name="DeleteCellsToolTip" xml:space="preserve">
     <value>Delete cells, rows, or columns from the sheet or table, or remove a sheet from the workbook.</value>
   </data>
-  <data name="FormatCellsToolTip" xml:space="preserve">
+	<data name="FormatCellsToolTip" xml:space="preserve">
     <value>Change the row height or column width, organize sheets, or protect or hide cells.</value>
   </data>
-  <data name="FindAndSelectToolTip" xml:space="preserve">
-    <value>Click to see the options for finding text in  document.
-
-You can also replace the existing text with a new text or format.</value>
+	<data name="FindAndSelectToolTip" xml:space="preserve">
+    <value>Click to see the options for finding text in  document.&#x0a;&#x0a;You can also replace the existing text with a new text or format.</value>
   </data>
-  <data name="FindToolTip" xml:space="preserve">
+	<data name="FindToolTip" xml:space="preserve">
     <value>Find and select the specific text.</value>
   </data>
-  <data name="FillToolTip" xml:space="preserve">
+	<data name="FillToolTip" xml:space="preserve">
     <value>Fills your data or formula into adjacent cells.</value>
   </data>
-  <data name="ReplaceToolTip" xml:space="preserve">
+	<data name="ReplaceToolTip" xml:space="preserve">
     <value>Find and select the specific text, and replace it new text or formatting.</value>
   </data>
-  <data name="GoToToolTip" xml:space="preserve">
+	<data name="GoToToolTip" xml:space="preserve">
     <value>Go To lets you jump right to a specific cell range in your document.</value>
   </data>
-  <data name="GoToFormulasToolTip" xml:space="preserve">
+	<data name="GoToFormulasToolTip" xml:space="preserve">
     <value>Go To Formulas</value>
   </data>
   <data name="GoToConditionalFormattingToolTip" xml:space="preserve">
     <value>Go To Conditional Formatting</value>
   </data>
-  <data name="GoToConstantsToolTip" xml:space="preserve">
+	<data name="GoToConstantsToolTip" xml:space="preserve">
     <value>Go To Constants</value>
   </data>
-  <data name="GoToDataValidationToolTip" xml:space="preserve">
+	<data name="GoToDataValidationToolTip" xml:space="preserve">
     <value>Go To Data Validation</value>
   </data>
-  <data name="LockCellToolTip" xml:space="preserve">
-    <value>Lock the selected cells to keep people from making changes to them.
-
-You must turn on Protect Sheet in order for this feature to work.</value>
+	<data name="LockCellToolTip" xml:space="preserve">
+    <value>Lock the selected cells to keep people from making changes to them.&#x0a;&#x0a;You must turn on Protect Sheet in order for this feature to work.</value>
   </data>
-  <data name="CellsToolTip" xml:space="preserve">
+	<data name="CellsToolTip" xml:space="preserve">
     <value>Insert or delete the cells, rows or columns or table and organize the sheets.</value>
   </data>
   <data name="AlignmentSettingsToolTip" xml:space="preserve">
     <value>See the cell alignment options.</value>
+  </data>
+<data name="ValidationMessage_IntersectCells" xml:space="preserve">
+    <value>This selection isn't valid. Make sure the copy and paste areas don't overlap unless they are the same size and shape.</value>
+  </data>
+<data name="InsertCutCells" xml:space="preserve">
+    <value>Insert Cut Cells</value>
+  </data>
+<data name="InsertCopiedCells" xml:space="preserve">
+    <value>Insert Copied Cells</value>
+  </data>
+<data name="ShiftCellsRight" xml:space="preserve">
+    <value>Shift Cells Right</value>
+  </data>
+<data name="ShiftCellsDown" xml:space="preserve">
+    <value>Shift Cells Down</value>
+  </data>
+<data name="ShiftCellsLeft" xml:space="preserve">
+    <value>Shift Cells Left</value>
+  </data>
+<data name="ShiftCellsUp" xml:space="preserve">
+    <value>Shift Cells Up</value>
   </data>
 </root>

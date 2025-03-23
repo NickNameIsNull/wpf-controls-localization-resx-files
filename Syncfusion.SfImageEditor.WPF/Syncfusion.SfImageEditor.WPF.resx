@@ -261,4 +261,7 @@
     <data name="Ellipse" xml:space="preserve">
     <value>Ellipse</value>
   </data>
+  <data name="Background" xml:space="preserve">
+    <value>Background</value>
+  </data>
 </root>

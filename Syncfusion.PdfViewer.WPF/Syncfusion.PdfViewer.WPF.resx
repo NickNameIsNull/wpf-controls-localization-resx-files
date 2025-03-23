@@ -145,10 +145,10 @@
     <value>Rectangle</value>
   </data>
   <data name="FitPage" xml:space="preserve">
-    <value>Click to show one page at a time.</value>
+    <value>Fit to Page</value>
   </data>
   <data name="FitWidth" xml:space="preserve">
-    <value>Click to fill the window with each page and scroll through pages continuously.</value>
+    <value>Fit to Width</value>
   </data>
   <data name="GoToFirstPage" xml:space="preserve">
     <value>Click to go to first page in the document.</value>
@@ -462,6 +462,12 @@
   <data name="HandwrittenSignatureMessage" xml:space="preserve">
     <value>Sign document by drawing a signature.</value>
   </data>
+  <data name="Annotations" xml:space="preserve">
+    <value>Show Annotations</value>
+  </data>
+  <data name="CloseAnnotationsToolbarMessage" xml:space="preserve">
+    <value>Click to close annotations toolbar.</value>
+  </data>
   <data name="AddStampMessage" xml:space="preserve">
     <value>Click to add stamp</value>
   </data>
@@ -568,7 +574,7 @@
     <value>Polygon line properties</value>
   </data>
   <data name="MarqueeZoom" xml:space="preserve">
-    <value>Zoom to selected area</value>
+    <value>Zoom Select Area</value>
   </data>
   <data name="MoreActions" xml:space="preserve">
     <value>Click to view more actions</value>
@@ -712,10 +718,10 @@
     <value>Locked</value>
   </data>
   <data name="FormNameRequestDialogTitle" xml:space="preserve">
-    <value>Form Name</value>
+    <value>File Name</value>
   </data>
   <data name="FormNameRequestText" xml:space="preserve">
-    <value>Enter Form name</value>
+    <value>Enter the name of the loaded PDF file</value>
   </data>
   <data name="PasswordRequestDialogTitle" xml:space="preserve">
     <value>Password</value>
@@ -728,5 +734,50 @@
   </data>
   <data name="TextMarkupAnnotation" xml:space="preserve">
     <value>Text Markup Annotation</value>
+  </data>
+  <data name="Accepted" xml:space="preserve">
+    <value>Accepted</value>
+  </data>
+  <data name="AddReply" xml:space="preserve">
+    <value>Add Reply</value>
+  </data>
+  <data name="Cancelled" xml:space="preserve">
+    <value>Cancelled</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>Comments</value>
+  </data>
+  <data name="CommentsPanel" xml:space="preserve">
+    <value>Comments Panel</value>
+  </data>
+  <data name="Completed" xml:space="preserve">
+    <value>Completed</value>
+  </data>
+  <data name="Edit" xml:space="preserve">
+    <value>Edit</value>
+  </data>
+  <data name="Export annotation to JSON file" xml:space="preserve">
+    <value>Export annotation to JSON file</value>
+  </data>
+  <data name="Export annotation to XFDF file" xml:space="preserve">
+    <value>Export annotation to XFDF file</value>
+  </data>
+  <data name="Import annotation from JSON file" xml:space="preserve">
+    <value>Import annotation from JSON file</value>
+  </data>
+  <data name="Import annotation from XFDF file" xml:space="preserve">
+    <value>Import annotation from XFDF file</value>
+  </data>
+  <data name="Page" xml:space="preserve">
+    <value>Page</value>
+  </data>
+  <data name="Post" xml:space="preserve">
+    <value>Post</value>
+  </data>
+  <data name="Rejected" xml:space="preserve">
+    <value>Rejected</value>
+  </data>
+  <data name="SetStatus" xml:space="preserve">
+    <value>Set Status</value>
   </data>
 </root>

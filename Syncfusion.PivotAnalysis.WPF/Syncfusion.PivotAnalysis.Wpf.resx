@@ -145,7 +145,7 @@
     <value>_Reload Data</value>
   </data>
   <data name="PivotGrid_BusyIndicator" xml:space="preserve">
-    <value>PivotGrid BusyIndicator</value>
+    <value />
   </data>
   <data name="PivotGrid_BusyIndicator_Loading" xml:space="preserve">
     <value> Waiting for pivot to load. This window will close when the operation is complete.</value>
