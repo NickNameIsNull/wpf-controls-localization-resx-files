@@ -1,0 +1,893 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="A3" xml:space="preserve">
+    <value>A3</value>
+  </data>
+  <data name="A4" xml:space="preserve">
+    <value>A4</value>
+  </data>
+  <data name="A5" xml:space="preserve">
+    <value>A5</value>
+  </data>
+  <data name="Abc" xml:space="preserve">
+    <value>Abc</value>
+  </data>
+  <data name="Align" xml:space="preserve">
+    <value>對齊</value>
+  </data>
+  <data name="AlignBottomScreenTipText" xml:space="preserve">
+    <value>底部对齐</value>
+  </data>
+  <data name="AlignBottomText" xml:space="preserve">
+    <value>将文本与文本块的底部对齐。</value>
+  </data>
+  <data name="AlignCenterScreenTipText" xml:space="preserve">
+    <value>居中对齐</value>
+  </data>
+  <data name="AlignCenterText" xml:space="preserve">
+    <value>使内容居中。</value>
+  </data>
+  <data name="AlignLeftScreenTipText" xml:space="preserve">
+    <value>左对齐</value>
+  </data>
+  <data name="AlignLeftText" xml:space="preserve">
+    <value>将内容向左对齐。</value>
+  </data>
+  <data name="Alignment" xml:space="preserve">
+    <value>对准</value>
+  </data>
+  <data name="AlignmentHeader" xml:space="preserve">
+    <value>对准</value>
+  </data>
+  <data name="AlignMiddleScreenTipText" xml:space="preserve">
+    <value>中间对齐</value>
+  </data>
+  <data name="AlignMiddleText" xml:space="preserve">
+    <value>对齐文本，使其在文本块的顶部和底部之间居中。</value>
+  </data>
+  <data name="AlignRightScreenTipText" xml:space="preserve">
+    <value>右对齐</value>
+  </data>
+  <data name="AlignRightText" xml:space="preserve">
+    <value>将内容向右对齐。</value>
+  </data>
+  <data name="AlignText" xml:space="preserve">
+    <value>通过更改形状的对齐方式在页面上定位形状。</value>
+  </data>
+  <data name="AlignTopScreenTipText" xml:space="preserve">
+    <value>对齐顶部</value>
+  </data>
+  <data name="AlignTopText" xml:space="preserve">
+    <value>将文本与文本块的顶部对齐。</value>
+  </data>
+  <data name="All" xml:space="preserve">
+    <value>都</value>
+  </data>
+  <data name="AllowThemes" xml:space="preserve">
+    <value>允许主题</value>
+  </data>
+  <data name="ApplyThemesShapes" xml:space="preserve">
+    <value>将主题应用于新形状</value>
+  </data>
+  <data name="Arrange" xml:space="preserve">
+    <value>排列</value>
+  </data>
+  <data name="Arrows" xml:space="preserve">
+    <value>箭头</value>
+  </data>
+  <data name="Background" xml:space="preserve">
+    <value>背景</value>
+  </data>
+  <data name="Backgrounds" xml:space="preserve">
+    <value>背景</value>
+  </data>
+  <data name="BackgroundTooltipText" xml:space="preserve">
+    <value>将背景样式应用于页面。</value>
+  </data>
+  <data name="BalancedAccent1" xml:space="preserve">
+    <value>平衡效果，变体符号1</value>
+  </data>
+  <data name="BalancedAccent2" xml:space="preserve">
+    <value>平衡效果，变体符号2</value>
+  </data>
+  <data name="BalancedAccent3" xml:space="preserve">
+    <value>平衡效果，变体符号3</value>
+  </data>
+  <data name="BalancedAccent4" xml:space="preserve">
+    <value>平衡效果，变体符号4</value>
+  </data>
+  <data name="BalancedAccent5" xml:space="preserve">
+    <value>平衡效果，变体符号5</value>
+  </data>
+  <data name="BalancedAccent6" xml:space="preserve">
+    <value>平衡效果，变体符号6</value>
+  </data>
+  <data name="BalancedAccent7" xml:space="preserve">
+    <value>平衡效果，变体符号7</value>
+  </data>
+  <data name="Bezier" xml:space="preserve">
+    <value>贝塞尔</value>
+  </data>
+  <data name="BoldScreenTip" xml:space="preserve">
+    <value>加粗</value>
+  </data>
+  <data name="BoldToolTip" xml:space="preserve">
+    <value>将文本设为粗体</value>
+  </data>
+  <data name="Bridging" xml:space="preserve">
+    <value>桥接</value>
+  </data>
+  <data name="BringForward" xml:space="preserve">
+    <value>向前推进</value>
+  </data>
+  <data name="BringForwardTooltipText" xml:space="preserve">
+    <value>将所选对象向前移动一级，以便将其隐藏在较少的对象后面。</value>
+  </data>
+  <data name="BringToFront" xml:space="preserve">
+    <value>置于前台</value>
+  </data>
+  <data name="BringToFrontTooltipText" xml:space="preserve">
+    <value>将所选对象置于所有其他对象的前面。</value>
+  </data>
+  <data name="BubbleTheme" xml:space="preserve">
+    <value>气泡主题</value>
+  </data>
+  <data name="Clipboard" xml:space="preserve">
+    <value>剪贴板</value>
+  </data>
+  <data name="ClipboardHeader" xml:space="preserve">
+    <value>剪贴板</value>
+  </data>
+  <data name="Close" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="CloudsTheme" xml:space="preserve">
+    <value>“云”主题</value>
+  </data>
+  <data name="Connector" xml:space="preserve">
+    <value>连接器</value>
+  </data>
+  <data name="Connectors" xml:space="preserve">
+    <value>连接</value>
+  </data>
+  <data name="ConnectorsText" xml:space="preserve">
+    <value>更改关系图中连接器的外观。</value>
+  </data>
+  <data name="ConnectorText" xml:space="preserve">
+    <value>在对象之间绘制连接线。</value>
+  </data>
+  <data name="ConnectorTooltipText" xml:space="preserve">
+    <value>将一个连接器添加到页面。</value>
+  </data>
+  <data name="Copy" xml:space="preserve">
+    <value>复制</value>
+  </data>
+  <data name="CopyScreenTip" xml:space="preserve">
+    <value>复制 （Ctrl+C）</value>
+  </data>
+  <data name="CopyText" xml:space="preserve">
+    <value>将所选内容的副本放在剪贴板上，以便将其粘贴到其他位置。</value>
+  </data>
+  <data name="Custom" xml:space="preserve">
+    <value>自定义</value>
+  </data>
+  <data name="Custom1Theme" xml:space="preserve">
+    <value>自定义 1 主题</value>
+  </data>
+  <data name="Custom2Theme" xml:space="preserve">
+    <value>自定义 2 主题</value>
+  </data>
+  <data name="Cut" xml:space="preserve">
+    <value>剪切</value>
+  </data>
+  <data name="CutScreenTip" xml:space="preserve">
+    <value>剪切 （Ctrl+X）</value>
+  </data>
+  <data name="CutText" xml:space="preserve">
+    <value>删除所选内容并将其放在剪贴板上，以便将其粘贴到其他位置。</value>
+  </data>
+  <data name="Dashes" xml:space="preserve">
+    <value>破折号</value>
+  </data>
+  <data name="DaybreakTheme" xml:space="preserve">
+    <value>明亮主题</value>
+  </data>
+  <data name="Design" xml:space="preserve">
+    <value>设计</value>
+  </data>
+  <data name="DiagramParts" xml:space="preserve">
+    <value>图表部件</value>
+  </data>
+  <data name="DrawingTools" xml:space="preserve">
+    <value>绘制工具</value>
+  </data>
+  <data name="DrawingToolsText" xml:space="preserve">
+    <value>使用基本的绘图工具，如矩形，椭圆和线条。</value>
+  </data>
+  <data name="Editing" xml:space="preserve">
+    <value>编辑</value>
+  </data>
+  <data name="Ellipse" xml:space="preserve">
+    <value>椭圆</value>
+  </data>
+  <data name="Executive" xml:space="preserve">
+    <value>执行的</value>
+  </data>
+  <data name="Export" xml:space="preserve">
+    <value>导出</value>
+  </data>
+  <data name="FacetTheme" xml:space="preserve">
+    <value>面部主题</value>
+  </data>
+  <data name="File" xml:space="preserve">
+    <value>文件</value>
+  </data>
+  <data name="Fill" xml:space="preserve">
+    <value>填充</value>
+  </data>
+  <data name="FillText" xml:space="preserve">
+    <value>用纯色，渐变或图案填充所选形状。</value>
+  </data>
+  <data name="FitToPage" xml:space="preserve">
+    <value>适合窗口</value>
+  </data>
+  <data name="FitToPageTooltipText" xml:space="preserve">
+    <value>使页面适合当前窗口。</value>
+  </data>
+  <data name="FitToWidth" xml:space="preserve">
+    <value>适合宽度</value>
+  </data>
+  <data name="FitToWidthTooltipText" xml:space="preserve">
+    <value>使页面适应窗口的当前宽度。</value>
+  </data>
+  <data name="FocusedAccent1" xml:space="preserve">
+    <value>聚焦效果，变体符号1</value>
+  </data>
+  <data name="FocusedAccent2" xml:space="preserve">
+    <value>聚焦效果，变体符号2</value>
+  </data>
+  <data name="FocusedAccent3" xml:space="preserve">
+    <value>聚焦效果，变体符号3</value>
+  </data>
+  <data name="FocusedAccent4" xml:space="preserve">
+    <value>聚焦效果，变体符号4</value>
+  </data>
+  <data name="FocusedAccent5" xml:space="preserve">
+    <value>聚焦效果，变体符号5</value>
+  </data>
+  <data name="FocusedAccent6" xml:space="preserve">
+    <value>聚焦效果，变体符号6</value>
+  </data>
+  <data name="FocusedAccent7" xml:space="preserve">
+    <value>聚焦效果，变体符号7</value>
+  </data>
+  <data name="FontColorScreenTipText" xml:space="preserve">
+    <value>字体颜色</value>
+  </data>
+  <data name="FontColorTooltipText" xml:space="preserve">
+    <value>更改文本的颜色。</value>
+  </data>
+  <data name="FontHeader" xml:space="preserve">
+    <value>字体</value>
+  </data>
+  <data name="FontSizeScreenTip" xml:space="preserve">
+    <value>字体大小</value>
+  </data>
+  <data name="FontSizeToolTipText" xml:space="preserve">
+    <value>更改文本的字体大小。</value>
+  </data>
+  <data name="FontToolTipText" xml:space="preserve">
+    <value>为文本选择新的字体系列。</value>
+  </data>
+  <data name="FreeHand" xml:space="preserve">
+    <value>写意</value>
+  </data>
+  <data name="GemstoneTheme" xml:space="preserve">
+    <value>宝石主题</value>
+  </data>
+  <data name="GridLines" xml:space="preserve">
+    <value>网格线</value>
+  </data>
+  <data name="GridlinesTooltipText" xml:space="preserve">
+    <value>网格线使您可以轻松地将对象与文本，其他对象或特定对象对齐。</value>
+  </data>
+  <data name="Group" xml:space="preserve">
+    <value>分组</value>
+  </data>
+  <data name="GroupObjects" xml:space="preserve">
+    <value>分组对象</value>
+  </data>
+  <data name="GroupObjectsTooltipText" xml:space="preserve">
+    <value>将对象连接在一起，以移动和格式化它们，就好像它们是单个对象一样。</value>
+  </data>
+  <data name="GrowFontScreenTipText" xml:space="preserve">
+    <value>增加字体大小</value>
+  </data>
+  <data name="GrowFontTooltipText" xml:space="preserve">
+    <value>使文本稍大一些。</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>开始</value>
+  </data>
+  <data name="HomeCaption" xml:space="preserve">
+    <value>开始</value>
+  </data>
+  <data name="HorizontalFlip" xml:space="preserve">
+    <value>水平翻转</value>
+  </data>
+  <data name="Insert" xml:space="preserve">
+    <value>插入</value>
+  </data>
+  <data name="IntegralTheme" xml:space="preserve">
+    <value>整体主题</value>
+  </data>
+  <data name="IntenseAccent1" xml:space="preserve">
+    <value>强烈效果，变体符号1</value>
+  </data>
+  <data name="IntenseAccent2" xml:space="preserve">
+    <value>强烈的效果，变体符号2</value>
+  </data>
+  <data name="IntenseAccent3" xml:space="preserve">
+    <value>强烈的效果，变体符号3</value>
+  </data>
+  <data name="IntenseAccent4" xml:space="preserve">
+    <value>强烈的效果，变体符号4</value>
+  </data>
+  <data name="IntenseAccent5" xml:space="preserve">
+    <value>强烈的效果，变体符号5</value>
+  </data>
+  <data name="IntenseAccent6" xml:space="preserve">
+    <value>强烈的效果，变体符号6</value>
+  </data>
+  <data name="IntenseAccent7" xml:space="preserve">
+    <value>强烈的效果，变体符号7</value>
+  </data>
+  <data name="IonTheme" xml:space="preserve">
+    <value>Ion主题</value>
+  </data>
+  <data name="ItalicScreenTipText" xml:space="preserve">
+    <value>斜体</value>
+  </data>
+  <data name="ItalicTooltipText" xml:space="preserve">
+    <value>将文本设为斜体。</value>
+  </data>
+  <data name="JustifyScreenTipText" xml:space="preserve">
+    <value>两端对齐</value>
+  </data>
+  <data name="JustifyTooltipText" xml:space="preserve">
+    <value>在边距之间均匀分布文本。</value>
+  </data>
+  <data name="Landscape" xml:space="preserve">
+    <value>横向</value>
+  </data>
+  <data name="Legal" xml:space="preserve">
+    <value>图例</value>
+  </data>
+  <data name="Letter" xml:space="preserve">
+    <value>信纸</value>
+  </data>
+  <data name="Line" xml:space="preserve">
+    <value>线条</value>
+  </data>
+  <data name="LinearTheme" xml:space="preserve">
+    <value>线条主题</value>
+  </data>
+  <data name="LineText" xml:space="preserve">
+    <value>指定所选形状的颜色、宽度和线条样式。</value>
+  </data>
+  <data name="LoadToolTip" xml:space="preserve">
+    <value>加载</value>
+  </data>
+  <data name="ModerateAccent1" xml:space="preserve">
+    <value>中等效果，变体符号1</value>
+  </data>
+  <data name="ModerateAccent2" xml:space="preserve">
+    <value>中等效果，变体符号2</value>
+  </data>
+  <data name="ModerateAccent3" xml:space="preserve">
+    <value>中等效果，变体符号3</value>
+  </data>
+  <data name="ModerateAccent4" xml:space="preserve">
+    <value>中等效果，变体符号4</value>
+  </data>
+  <data name="ModerateAccent5" xml:space="preserve">
+    <value>中等效果，变体符号5</value>
+  </data>
+  <data name="ModerateAccent6" xml:space="preserve">
+    <value>中等效果，变体符号6</value>
+  </data>
+  <data name="ModerateAccent7" xml:space="preserve">
+    <value>中等效果，变体符号7</value>
+  </data>
+  <data name="Modern" xml:space="preserve">
+    <value>现代的</value>
+  </data>
+  <data name="MultiplePages" xml:space="preserve">
+    <value>多页</value>
+  </data>
+  <data name="MultiplePagesTooltipText" xml:space="preserve">
+    <value>帮助您创建多个页面取决于页面宽度和页面高度。</value>
+  </data>
+  <data name="NewToolTip" xml:space="preserve">
+    <value>新增</value>
+  </data>
+  <data name="OfficeTheme" xml:space="preserve">
+    <value>Office 主题</value>
+  </data>
+  <data name="Open" xml:space="preserve">
+    <value>打开</value>
+  </data>
+  <data name="Orientation" xml:space="preserve">
+    <value>方向</value>
+  </data>
+  <data name="Orthogonal" xml:space="preserve">
+    <value>正交</value>
+  </data>
+  <data name="OverviewTitle" xml:space="preserve">
+    <value>概述</value>
+  </data>
+  <data name="PageBreaks" xml:space="preserve">
+    <value>分页符</value>
+  </data>
+  <data name="PageBreaksTooltipText" xml:space="preserve">
+    <value>打开分页符以查看将在文档的每一页上打印的内容。</value>
+  </data>
+  <data name="PageOrientation" xml:space="preserve">
+    <value>页面方向</value>
+  </data>
+  <data name="PageOrientationTooltipText" xml:space="preserve">
+    <value>在 potrait 和横向布局之间切换页面。</value>
+  </data>
+  <data name="PageSetup" xml:space="preserve">
+    <value>页面设置</value>
+  </data>
+  <data name="PageSize" xml:space="preserve">
+    <value>页面大小</value>
+  </data>
+  <data name="PageSizeTooltipText" xml:space="preserve">
+    <value>选择页面大小。</value>
+  </data>
+  <data name="PanTool" xml:space="preserve">
+    <value>平移工具</value>
+  </data>
+  <data name="PanToolText" xml:space="preserve">
+    <value>平移关系图。</value>
+  </data>
+  <data name="SelectAnnotation" xml:space="preserve">
+    <value>选择批注</value>
+  </data>
+  <data name="SelectAnnotationText" xml:space="preserve">
+    <value>在节点/连接器内选择、移动、调整大小或旋转注释。</value>
+  </data>
+  <data name="PanZoom" xml:space="preserve">
+    <value>平移缩放</value>
+  </data>
+  <data name="PanZoomTooltipText" xml:space="preserve">
+    <value>显示平移缩放窗口。</value>
+  </data>
+  <data name="ParallelTheme" xml:space="preserve">
+    <value>平行主题</value>
+  </data>
+  <data name="Paste" xml:space="preserve">
+    <value>粘贴</value>
+  </data>
+  <data name="PasteScreenTip" xml:space="preserve">
+    <value>粘贴 （Ctrl+V）</value>
+  </data>
+  <data name="PasteText" xml:space="preserve">
+    <value>将剪贴板上的内容添加到文档中。</value>
+  </data>
+  <data name="Picture" xml:space="preserve">
+    <value>图片</value>
+  </data>
+  <data name="Pictures" xml:space="preserve">
+    <value>图片</value>
+  </data>
+  <data name="PicturesTooltipText" xml:space="preserve">
+    <value>插入来自您的计算机或您连接到的其他计算机的图片。</value>
+  </data>
+  <data name="PointerTool" xml:space="preserve">
+    <value>指针工具</value>
+  </data>
+  <data name="PointerToolText" xml:space="preserve">
+    <value>选择、移动对象并调整对象大小。</value>
+  </data>
+  <data name="Polyline" xml:space="preserve">
+    <value>折线</value>
+  </data>
+  <data name="Portrait" xml:space="preserve">
+    <value>纵向</value>
+  </data>
+  <data name="PortVisibilityText" xml:space="preserve">
+    <value>连接点</value>
+  </data>
+  <data name="PortVisibilityToolTipText" xml:space="preserve">
+    <value>添加、移动和控制形状上连接点的可见性。
+
+按住 Ctrl 键可在形状上添加连接点。</value>
+  </data>
+  <data name="Position" xml:space="preserve">
+    <value>位置</value>
+  </data>
+  <data name="PositionText" xml:space="preserve">
+    <value>通过更改形状的对齐方式，间距和旋转在页面上定位形状。</value>
+  </data>
+  <data name="Print" xml:space="preserve">
+    <value>打印</value>
+  </data>
+  <data name="Professional" xml:space="preserve">
+    <value>专业的</value>
+  </data>
+  <data name="ProminenceTheme" xml:space="preserve">
+    <value>突出主题</value>
+  </data>
+  <data name="RadianceTheme" xml:space="preserve">
+    <value>光辉主题</value>
+  </data>
+  <data name="Rectangle" xml:space="preserve">
+    <value>矩形</value>
+  </data>
+  <data name="RedoToolTip" xml:space="preserve">
+    <value>重做</value>
+  </data>
+  <data name="RefinedAccent1" xml:space="preserve">
+    <value>精致的效果，变体符号1</value>
+  </data>
+  <data name="RefinedAccent2" xml:space="preserve">
+    <value>精致的效果，变体符号2</value>
+  </data>
+  <data name="RefinedAccent3" xml:space="preserve">
+    <value>精致的效果，变体符号3</value>
+  </data>
+  <data name="RefinedAccent4" xml:space="preserve">
+    <value>精致的效果，变体符号4</value>
+  </data>
+  <data name="RefinedAccent5" xml:space="preserve">
+    <value>精致的效果，变体符号5</value>
+  </data>
+  <data name="RefinedAccent6" xml:space="preserve">
+    <value>精致的效果，变体符号6</value>
+  </data>
+  <data name="RefinedAccent7" xml:space="preserve">
+    <value>精致的效果，变体符号7</value>
+  </data>
+  <data name="RemoveThemes" xml:space="preserve">
+    <value>删除主题</value>
+  </data>
+  <data name="RetrospectTheme" xml:space="preserve">
+    <value>回顾主题</value>
+  </data>
+  <data name="RotateCounterClockwise" xml:space="preserve">
+    <value>逆时针旋转</value>
+  </data>
+  <data name="RotateClockwise" xml:space="preserve">
+    <value>顺时针旋转</value>
+  </data>
+  <data name="Ruler" xml:space="preserve">
+    <value>统治者</value>
+  </data>
+  <data name="RulerText" xml:space="preserve">
+    <value>查看用于测量和排列文档中对象的标尺。</value>
+  </data>
+  <data name="SaveMessage" xml:space="preserve">
+    <value>是否要保存图表？</value>
+  </data>
+  <data name="SaveTitle" xml:space="preserve">
+    <value>SfDiagram</value>
+  </data>
+  <data name="SaveToolTip" xml:space="preserve">
+    <value>保存</value>
+  </data>
+  <data name="Select" xml:space="preserve">
+    <value>选择</value>
+  </data>
+  <data name="SelectAll" xml:space="preserve">
+    <value>全选</value>
+  </data>
+  <data name="SelectConnectors" xml:space="preserve">
+    <value>选择连接器</value>
+  </data>
+  <data name="SelectNodes" xml:space="preserve">
+    <value>选择节点</value>
+  </data>
+  <data name="SelectText" xml:space="preserve">
+    <value>选择关系图中的所有对象。</value>
+  </data>
+  <data name="SendBackward" xml:space="preserve">
+    <value>向后发送</value>
+  </data>
+  <data name="SendBackwardTooltipText" xml:space="preserve">
+    <value>将所选对象发送回一个级别，以便将其隐藏在更多对象后面。</value>
+  </data>
+  <data name="SendToBack" xml:space="preserve">
+    <value>返回发送</value>
+  </data>
+  <data name="SendToBackTooltipText" xml:space="preserve">
+    <value>将所选对象发送到所有其他对象后面。</value>
+  </data>
+  <data name="SequenceTheme" xml:space="preserve">
+    <value>序列主题</value>
+  </data>
+  <data name="ShapeStyles" xml:space="preserve">
+    <value>形状样式</value>
+  </data>
+  <data name="Show" xml:space="preserve">
+    <value>显示</value>
+  </data>
+  <data name="ShrinkFontScreenTipText" xml:space="preserve">
+    <value>减小字体大小</value>
+  </data>
+  <data name="ShrinkFontTooltipText" xml:space="preserve">
+    <value>使文本变小一点。</value>
+  </data>
+  <data name="SimpleTheme" xml:space="preserve">
+    <value>简单主题</value>
+  </data>
+  <data name="Size" xml:space="preserve">
+    <value>大小</value>
+  </data>
+  <data name="SliceTheme" xml:space="preserve">
+    <value>切片主题</value>
+  </data>
+  <data name="SmokeTheme" xml:space="preserve">
+    <value>烟雾主题</value>
+  </data>
+  <data name="SnapToGrid" xml:space="preserve">
+    <value>与网格对齐</value>
+  </data>
+  <data name="SnapToGridTooltipText" xml:space="preserve">
+    <value>帮助使对象相对于关系图中的网格线对齐。</value>
+  </data>
+  <data name="SnapToObject" xml:space="preserve">
+    <value>与对象对齐</value>
+  </data>
+  <data name="SnapToObjectTooltipText" xml:space="preserve">
+    <value>打开有助于对齐文档中对象的参考线。准则从水平和垂直标尺中拖出。</value>
+  </data>
+  <data name="SpaceAcross" xml:space="preserve">
+    <value>横跨空间</value>
+  </data>
+  <data name="SpaceDown" xml:space="preserve">
+    <value>空间缩小</value>
+  </data>
+  <data name="Statement" xml:space="preserve">
+    <value>陈述</value>
+  </data>
+  <data name="StraightLine" xml:space="preserve">
+    <value>直线</value>
+  </data>
+  <data name="StrikeScreenTipText" xml:space="preserve">
+    <value>删除线</value>
+  </data>
+  <data name="StrikeTooltipText" xml:space="preserve">
+    <value>通过划一条线穿过它来划掉某些东西。</value>
+  </data>
+  <data name="SubtlyAccent1" xml:space="preserve">
+    <value>微妙的效果，变体符号1</value>
+  </data>
+  <data name="SubtlyAccent2" xml:space="preserve">
+    <value>微妙效果，变体符号2</value>
+  </data>
+  <data name="SubtlyAccent3" xml:space="preserve">
+    <value>微妙效果，变体符号3</value>
+  </data>
+  <data name="SubtlyAccent4" xml:space="preserve">
+    <value>微妙效果，变体符号4</value>
+  </data>
+  <data name="SubtlyAccent5" xml:space="preserve">
+    <value>微妙的效果，变体符号5</value>
+  </data>
+  <data name="SubtlyAccent6" xml:space="preserve">
+    <value>微妙效果，变体符号6</value>
+  </data>
+  <data name="SubtlyAccent7" xml:space="preserve">
+    <value>微妙效果，变体符号7</value>
+  </data>
+  <data name="Tabloid" xml:space="preserve">
+    <value>小报</value>
+  </data>
+  <data name="TaskPanes" xml:space="preserve">
+    <value>任务窗格</value>
+  </data>
+  <data name="TaskPanesTooltipText" xml:space="preserve">
+    <value>显示窗口以查看形状和形状数据，并在关系图中轻松移动。</value>
+  </data>
+  <data name="Text" xml:space="preserve">
+    <value>文本</value>
+  </data>
+  <data name="TextTooltipText" xml:space="preserve">
+    <value>添加文本形状.</value>
+  </data>
+  <data name="Themes" xml:space="preserve">
+    <value>主题</value>
+  </data>
+  <data name="ThemeStyle" xml:space="preserve">
+    <value>主题风格</value>
+  </data>
+  <data name="ToolsHeader" xml:space="preserve">
+    <value>工具</value>
+  </data>
+  <data name="Trendy" xml:space="preserve">
+    <value>时尚</value>
+  </data>
+  <data name="UnderlineScreenTipText" xml:space="preserve">
+    <value>下划线（Ctrl+U）</value>
+  </data>
+  <data name="UnderlineTooltipText" xml:space="preserve">
+    <value>为文本加下划线。</value>
+  </data>
+  <data name="UndoToolTip" xml:space="preserve">
+    <value>撤消</value>
+  </data>
+  <data name="UnGroup" xml:space="preserve">
+    <value>取消分组</value>
+  </data>
+  <data name="UnGroupObjectsTooltipText" xml:space="preserve">
+    <value>断开连接对象之间的连接，以便可以单独移动它们。</value>
+  </data>
+  <data name="Variant1" xml:space="preserve">
+    <value>变体1</value>
+  </data>
+  <data name="Variant2" xml:space="preserve">
+    <value>变体2</value>
+  </data>
+  <data name="Variant3" xml:space="preserve">
+    <value>变体3</value>
+  </data>
+  <data name="Variant4" xml:space="preserve">
+    <value>变体4</value>
+  </data>
+  <data name="Variants" xml:space="preserve">
+    <value>变种</value>
+  </data>
+  <data name="VariantStyle" xml:space="preserve">
+    <value>变体样式</value>
+  </data>
+  <data name="VerticalFlip" xml:space="preserve">
+    <value>垂直翻转</value>
+  </data>
+  <data name="View" xml:space="preserve">
+    <value>视图</value>
+  </data>
+  <data name="Weight" xml:space="preserve">
+    <value>重量</value>
+  </data>
+  <data name="WhispTheme" xml:space="preserve">
+    <value>Whisp 主题</value>
+  </data>
+  <data name="ZephyrTheme" xml:space="preserve">
+    <value>Zephyr 主题</value>
+  </data>
+  <data name="Zoom" xml:space="preserve">
+    <value>缩放</value>
+  </data>
+  <data name="ZoomIn" xml:space="preserve">
+    <value>放大</value>
+  </data>
+  <data name="ZoomInTooltipText" xml:space="preserve">
+    <value>放大到适合您的级别。</value>
+  </data>
+  <data name="ZoomOut" xml:space="preserve">
+    <value>缩小</value>
+  </data>
+  <data name="ZoomOutTooltipText" xml:space="preserve">
+    <value>缩小到适合您的水平。</value>
+  </data>
+</root>

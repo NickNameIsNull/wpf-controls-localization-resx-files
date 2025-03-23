@@ -1,0 +1,951 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AddTableToolTip" xml:space="preserve">
+    <value>表格是在文档中组织信息的好方法。</value>
+  </data>
+  <data name="AddTableToolTipHeader" xml:space="preserve">
+    <value>添加表格</value>
+  </data>
+  <data name="AlignCenter" xml:space="preserve">
+    <value>居中</value>
+  </data>
+  <data name="AlignCenterToolTip" xml:space="preserve">
+    <value>在页面上使内容居中。</value>
+  </data>
+  <data name="AlignCenterToolTipHeader" xml:space="preserve">
+    <value>居中 （Ctrl+E）</value>
+  </data>
+  <data name="AlignJustify" xml:space="preserve">
+    <value>两端对齐</value>
+  </data>
+  <data name="AlignJustifyToolTip" xml:space="preserve">
+    <value>在边距之间均匀分布文本。</value>
+  </data>
+  <data name="AlignJustifyToolTipHeader" xml:space="preserve">
+    <value>两端对齐 （Ctrl+J）</value>
+  </data>
+  <data name="AlignLeft" xml:space="preserve">
+    <value>左</value>
+  </data>
+  <data name="AlignLeftToolTip" xml:space="preserve">
+    <value>将内容与左边距对齐。</value>
+  </data>
+  <data name="AlignLeftToolTipHeader" xml:space="preserve">
+    <value>左对齐（Ctrl+L）</value>
+  </data>
+  <data name="AlignRight" xml:space="preserve">
+    <value>右</value>
+  </data>
+  <data name="AlignRightToolTip" xml:space="preserve">
+    <value>将内容与右边距对齐。</value>
+  </data>
+  <data name="AlignRightToolTipHeader" xml:space="preserve">
+    <value>右对齐 （Ctrl+R）</value>
+  </data>
+  <data name="AvailableTemplates" xml:space="preserve">
+    <value>可用模板</value>
+  </data>
+  <data name="BlankDocument" xml:space="preserve">
+    <value>空白文档</value>
+  </data>
+  <data name="BlankDocumentToolTip" xml:space="preserve">
+    <value>它将创建新的空文档。</value>
+  </data>
+  <data name="BlueHighlightToolTip" xml:space="preserve">
+    <value>蓝色</value>
+  </data>
+  <data name="Bold" xml:space="preserve">
+    <value>加粗</value>
+  </data>
+  <data name="BoldToolTip" xml:space="preserve">
+    <value>将文本设为粗体。</value>
+  </data>
+  <data name="BoldToolTipHeader" xml:space="preserve">
+    <value>粗体（Ctrl+B）</value>
+  </data>
+  <data name="BrightGreenHighlightToolTip" xml:space="preserve">
+    <value>亮绿色</value>
+  </data>
+  <data name="BulletLibrary" xml:space="preserve">
+    <value>Bullet Library</value>
+  </data>
+  <data name="BulletsToolTip" xml:space="preserve">
+    <value>创建项目符号列表.</value>
+  </data>
+  <data name="BulletsToolTipHeader" xml:space="preserve">
+    <value>Bullets</value>
+  </data>
+  <data name="BulletsToolTipMore" xml:space="preserve">
+    <value>单击箭头可更改项目符号的外观。</value>
+  </data>
+  <data name="Clipboard" xml:space="preserve">
+    <value>剪贴板</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>评论</value>
+  </data>
+  <data name="Copy" xml:space="preserve">
+    <value>复制</value>
+  </data>
+  <data name="CopyToolTip" xml:space="preserve">
+    <value>将所选内容的副本放在剪贴板上，以便将其粘贴到其他位置。</value>
+  </data>
+  <data name="CopyToolTipHeader" xml:space="preserve">
+    <value>复制 （Ctrl+C）</value>
+  </data>
+  <data name="Create" xml:space="preserve">
+    <value>创建</value>
+  </data>
+  <data name="Cut" xml:space="preserve">
+    <value>剪切</value>
+  </data>
+  <data name="CutToolTip" xml:space="preserve">
+    <value>删除所选内容并将其放在剪贴板上，以便可以将其粘贴到其他位置。</value>
+  </data>
+  <data name="CutToolTipHeader" xml:space="preserve">
+    <value>剪切 （Ctrl+X）</value>
+  </data>
+  <data name="DarkBlueHighlightToolTip" xml:space="preserve">
+    <value>深蓝色</value>
+  </data>
+  <data name="DarkRedHighlightToolTip" xml:space="preserve">
+    <value>深红色</value>
+  </data>
+  <data name="DarkYellowHighlightToolTip" xml:space="preserve">
+    <value>深黄色</value>
+  </data>
+  <data name="DecreaseFont" xml:space="preserve">
+    <value>减少字体</value>
+  </data>
+  <data name="DecreaseFontSizeToolTip" xml:space="preserve">
+    <value>使文本变小一点。</value>
+  </data>
+  <data name="DecreaseFontSizeToolTipHeader" xml:space="preserve">
+    <value>减小字体大小（Ctrl+Shift+&lt;） </value>
+  </data>
+  <data name="DecreaseIndentToolTip" xml:space="preserve">
+    <value>将段落移到靠近边缘的位置。</value>
+  </data>
+  <data name="DecreaseIndentToolTipHeader" xml:space="preserve">
+    <value>减少缩进</value>
+  </data>
+  <data name="DefineList" xml:space="preserve">
+    <value>定义新的多级列表...</value>
+  </data>
+  <data name="DeleteComment" xml:space="preserve">
+    <value>删除</value>
+  </data>
+  <data name="DeleteCommentToolTip" xml:space="preserve">
+    <value>删除所选注释。</value>
+  </data>
+  <data name="DeleteCommentToolTipHeader" xml:space="preserve">
+    <value>删除评论</value>
+  </data>
+  <data name="Editing" xml:space="preserve">
+    <value>编辑</value>
+  </data>
+  <data name="EncryptWithPassword" xml:space="preserve">
+    <value>使用密码加密</value>
+  </data>
+  <data name="EncryptWithPasswordToolTip" xml:space="preserve">
+    <value>使用密码保护本文档。</value>
+  </data>
+  <data name="Find" xml:space="preserve">
+    <value>查找</value>
+  </data>
+  <data name="FindToolTip" xml:space="preserve">
+    <value>在文档中查找文本或其他内容。</value>
+  </data>
+  <data name="FindToolTipHeader" xml:space="preserve">
+    <value>查找 （Ctrl+F）</value>
+  </data>
+  <data name="Font" xml:space="preserve">
+    <value>字体</value>
+  </data>
+  <data name="FontColor" xml:space="preserve">
+    <value>字体颜色</value>
+  </data>
+  <data name="FontColorToolTip" xml:space="preserve">
+    <value>更改文本的颜色。</value>
+  </data>
+  <data name="FontSizeToolTip" xml:space="preserve">
+    <value>更改文本的大小。</value>
+  </data>
+  <data name="FontSizeToolTipHeader" xml:space="preserve">
+    <value>字体大小（Ctrl+Shift+P）</value>
+  </data>
+  <data name="FontToolTip" xml:space="preserve">
+    <value>为文本选择新字体。</value>
+  </data>
+  <data name="FontToolTipHeader" xml:space="preserve">
+    <value>字体（Ctrl+Shift+F）</value>
+  </data>
+  <data name="GettingStarted" xml:space="preserve">
+    <value>开始</value>
+  </data>
+  <data name="GettingStartedToolTip" xml:space="preserve">
+    <value>有关 Syncfusion RichTextBox 控件及其用法的完整信息。</value>
+  </data>
+  <data name="Gray25HighlightToolTip" xml:space="preserve">
+    <value>灰色-25%</value>
+  </data>
+  <data name="Gray50HighlightToolTip" xml:space="preserve">
+    <value>灰色-50%</value>
+  </data>
+  <data name="GreenHighlightToolTip" xml:space="preserve">
+    <value>绿色</value>
+  </data>
+  <data name="GrowFont" xml:space="preserve">
+    <value>增加字体</value>
+  </data>
+  <data name="Help" xml:space="preserve">
+    <value>帮助</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>开始</value>
+  </data>
+  <data name="HtmlDocument" xml:space="preserve">
+    <value>文档</value>
+  </data>
+  <data name="HtmlDocumentToolTip" xml:space="preserve">
+    <value>将文件另存为 Html 文档</value>
+  </data>
+  <data name="Hyperlink" xml:space="preserve">
+    <value>超链接</value>
+  </data>
+  <data name="HyperlinkToolTip" xml:space="preserve">
+    <value>在文档中创建一个链接，以便快速访问网页和文件。</value>
+  </data>
+  <data name="HyperlinkToolTipHeader" xml:space="preserve">
+    <value>添加超链接 （Ctrl+K）</value>
+  </data>
+  <data name="Illustrations" xml:space="preserve">
+    <value>插图</value>
+  </data>
+  <data name="IncreaseFontSizeToolTip" xml:space="preserve">
+    <value>使文本稍大一些。</value>
+  </data>
+  <data name="IncreaseFontSizeToolTipHeader" xml:space="preserve">
+    <value>增加字体大小（Ctrl+Shift+&gt;） </value>
+  </data>
+  <data name="IncreaseIndentToolTip" xml:space="preserve">
+    <value>将段落移到远离边缘的位置。</value>
+  </data>
+  <data name="IncreaseIndentToolTipHeader" xml:space="preserve">
+    <value>增加缩进</value>
+  </data>
+  <data name="Info" xml:space="preserve">
+    <value>信息</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>信息</value>
+  </data>
+  <data name="Insert" xml:space="preserve">
+    <value>插入</value>
+  </data>
+  <data name="InsertCommentToolTip" xml:space="preserve">
+    <value>添加有关文档此部分的注释。</value>
+  </data>
+  <data name="InsertCommentToolTipHeader" xml:space="preserve">
+    <value>插入注释</value>
+  </data>
+  <data name="InsertTable" xml:space="preserve">
+    <value>插入表...</value>
+  </data>
+  <data name="Italic" xml:space="preserve">
+    <value>斜体</value>
+  </data>
+  <data name="ItalicToolTip" xml:space="preserve">
+    <value>将文本设为斜体。</value>
+  </data>
+  <data name="ItalicToolTipHeader" xml:space="preserve">
+    <value>斜体 （Ctrl+I）</value>
+  </data>
+  <data name="LineSpacingToolTip" xml:space="preserve">
+    <value>选择文本行之间显示的间距。</value>
+  </data>
+  <data name="LineSpacingToolTipHeader" xml:space="preserve">
+    <value>行距</value>
+  </data>
+  <data name="Links" xml:space="preserve">
+    <value>链接</value>
+  </data>
+  <data name="ListLibrary" xml:space="preserve">
+    <value>列表库</value>
+  </data>
+  <data name="MultilevelListToolTip" xml:space="preserve">
+    <value>创建多级列表以组织项目或创建大纲。</value>
+  </data>
+  <data name="MultilevelListToolTipHeader" xml:space="preserve">
+    <value>多级列表</value>
+  </data>
+  <data name="MultiplePagesView" xml:space="preserve">
+    <value>多页</value>
+  </data>
+  <data name="MultiplePagesViewToolTip" xml:space="preserve">
+    <value>缩放文档，以便您可以在窗口中看到多个页面。</value>
+  </data>
+  <data name="New" xml:space="preserve">
+    <value>新增</value>
+  </data>
+  <data name="NewComment" xml:space="preserve">
+    <value>新建评论</value>
+  </data>
+  <data name="NextComment" xml:space="preserve">
+    <value>下一个</value>
+  </data>
+  <data name="NextCommentToolTip" xml:space="preserve">
+    <value>跳转到下一条评论。</value>
+  </data>
+  <data name="NextCommentToolTipHeader" xml:space="preserve">
+    <value>下一条评论</value>
+  </data>
+  <data name="NoColor" xml:space="preserve">
+    <value>无颜色</value>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value>无</value>
+  </data>
+  <data name="NumberingLibrary" xml:space="preserve">
+    <value>编号库</value>
+  </data>
+  <data name="NumberingToolTip" xml:space="preserve">
+    <value>创建编号列表。</value>
+  </data>
+  <data name="NumberingToolTipHeader" xml:space="preserve">
+    <value>编号</value>
+  </data>
+  <data name="NumberingToolTipMore" xml:space="preserve">
+    <value>单击箭头可查看更多编号格式。</value>
+  </data>
+  <data name="NumberLeftAlignment" xml:space="preserve">
+    <value>数字对齐方式：左</value>
+  </data>
+  <data name="NumberRightAlignment" xml:space="preserve">
+    <value>数字对齐方式：右对齐</value>
+  </data>
+  <data name="OnePageView" xml:space="preserve">
+    <value>一页</value>
+  </data>
+  <data name="OnePageViewToolTip" xml:space="preserve">
+    <value>缩放文档，以便您可以在窗口中看到整个页面。</value>
+  </data>
+  <data name="OnlineHelp" xml:space="preserve">
+    <value>在线帮助</value>
+  </data>
+  <data name="OnlineHelpToolTip" xml:space="preserve">
+    <value>UG 文档有助于了解 Syncfusion UI 组件的使用情况。</value>
+  </data>
+  <data name="Open" xml:space="preserve">
+    <value>打开</value>
+  </data>
+  <data name="PageWidth" xml:space="preserve">
+    <value>页面宽度</value>
+  </data>
+  <data name="PageWidthToolTip" xml:space="preserve">
+    <value>缩放文档，使页面宽度与窗口宽度匹配。</value>
+  </data>
+  <data name="Paragraph" xml:space="preserve">
+    <value>段落</value>
+  </data>
+  <data name="Paste" xml:space="preserve">
+    <value>粘贴</value>
+  </data>
+  <data name="PasteToolTip" xml:space="preserve">
+    <value>将剪贴板上的内容添加到文档中。</value>
+  </data>
+  <data name="PasteToolTipHeader" xml:space="preserve">
+    <value>粘贴 （Ctrl+V）</value>
+  </data>
+  <data name="Picture" xml:space="preserve">
+    <value>图片</value>
+  </data>
+  <data name="PictureToolTip" xml:space="preserve">
+    <value>插入计算机或连接到的其他计算机中的图片。</value>
+  </data>
+  <data name="PictureToolTipHeader" xml:space="preserve">
+    <value>从文件</value>
+  </data>
+  <data name="PinkHighlightToolTip" xml:space="preserve">
+    <value>粉红色</value>
+  </data>
+  <data name="PreviousComment" xml:space="preserve">
+    <value>上一个</value>
+  </data>
+  <data name="PreviousCommentToolTip" xml:space="preserve">
+    <value>跳转到上一条评论。</value>
+  </data>
+  <data name="PreviousCommentToolTipHeader" xml:space="preserve">
+    <value>上一个评论</value>
+  </data>
+  <data name="Print" xml:space="preserve">
+    <value>打印</value>
+  </data>
+  <data name="PrintLayout" xml:space="preserve">
+    <value>打印布局</value>
+  </data>
+  <data name="PrintLayoutToolTip" xml:space="preserve">
+    <value>查看文档在打印时的外观。</value>
+  </data>
+  <data name="ProtectDocument" xml:space="preserve">
+    <value>保护文档</value>
+  </data>
+  <data name="ProtectDocumentToolTip" xml:space="preserve">
+    <value>控制用户可以对此文档进行的更改类型。</value>
+  </data>
+  <data name="ReadOnly" xml:space="preserve">
+    <value>只读</value>
+  </data>
+  <data name="ReadOnlyToolTip" xml:space="preserve">
+    <value>限制内容编辑和格式更改。</value>
+  </data>
+  <data name="RedHighlightToolTip" xml:space="preserve">
+    <value>红色</value>
+  </data>
+  <data name="Redo" xml:space="preserve">
+    <value>重做</value>
+  </data>
+  <data name="RedoToolTip" xml:space="preserve">
+    <value>重做 （Ctrl+Y）</value>
+  </data>
+  <data name="Replace" xml:space="preserve">
+    <value>替换</value>
+  </data>
+  <data name="ReplaceToolTip" xml:space="preserve">
+    <value>搜索要更改的文本，并将其替换为其他内容。</value>
+  </data>
+  <data name="ReplaceToolTipHeader" xml:space="preserve">
+    <value>替换 （Ctrl+H）</value>
+  </data>
+  <data name="RestrictEditing" xml:space="preserve">
+    <value>限制编辑</value>
+  </data>
+  <data name="RestrictEditingToolTip" xml:space="preserve">
+    <value>限制对此文档的编辑。</value>
+  </data>
+  <data name="Review" xml:space="preserve">
+    <value>复查</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>保存</value>
+  </data>
+  <data name="SaveAs" xml:space="preserve">
+    <value>另存为</value>
+  </data>
+  <data name="SaveToolTip" xml:space="preserve">
+    <value>保存 （Ctrl+S）</value>
+  </data>
+  <data name="ShowCommentsToolTip" xml:space="preserve">
+    <value>查看文档旁边的所有注释。</value>
+  </data>
+  <data name="ShowCommentsToolTipHeader" xml:space="preserve">
+    <value>显示注释</value>
+  </data>
+  <data name="SingleStrike" xml:space="preserve">
+    <value>单打</value>
+  </data>
+  <data name="StrikethroughToolTip" xml:space="preserve">
+    <value>通过划一条线穿过它来划掉某些东西。</value>
+  </data>
+  <data name="StrikethroughToolTipHeader" xml:space="preserve">
+    <value>删除线</value>
+  </data>
+  <data name="SubScript" xml:space="preserve">
+    <value>下标</value>
+  </data>
+  <data name="SubScriptToolTip" xml:space="preserve">
+    <value>在文本行的正上方键入非常小的字母。</value>
+  </data>
+  <data name="SubScriptToolTipHeader" xml:space="preserve">
+    <value>下标 （Ctrl+=）</value>
+  </data>
+  <data name="SuperScript" xml:space="preserve">
+    <value>上标</value>
+  </data>
+  <data name="SuperScriptToolTip" xml:space="preserve">
+    <value>在文本行的正上方键入非常小的字母。</value>
+  </data>
+  <data name="SuperScriptToolTipHeader" xml:space="preserve">
+    <value>上标 （Ctrl + Shift+ +）</value>
+  </data>
+  <data name="Table" xml:space="preserve">
+    <value>表格</value>
+  </data>
+  <data name="Tables" xml:space="preserve">
+    <value>表格</value>
+  </data>
+  <data name="TealHighlightToolTip" xml:space="preserve">
+    <value>青色</value>
+  </data>
+  <data name="TextDocument" xml:space="preserve">
+    <value>文本文档</value>
+  </data>
+  <data name="TextDocumentToolTip" xml:space="preserve">
+    <value>将文件另存为文本文档</value>
+  </data>
+  <data name="TextHighlightColor" xml:space="preserve">
+    <value>文本突出显示颜色</value>
+  </data>
+  <data name="TextHighlightColorToolTip" xml:space="preserve">
+    <value>通过以明亮的颜色突出显示文本来使文本弹出。</value>
+  </data>
+  <data name="TurquoiseHighlightToolTip" xml:space="preserve">
+    <value>绿松石</value>
+  </data>
+  <data name="Underline" xml:space="preserve">
+    <value>下划线</value>
+  </data>
+  <data name="UnderlineToolTip" xml:space="preserve">
+    <value>为文本加下划线。</value>
+  </data>
+  <data name="UnderlineToolTipHeader" xml:space="preserve">
+    <value>下划线（Ctrl+U）</value>
+  </data>
+  <data name="Undo" xml:space="preserve">
+    <value>撤消</value>
+  </data>
+  <data name="UndoToolTip" xml:space="preserve">
+    <value>撤消 （Ctrl+Z）</value>
+  </data>
+  <data name="UserInterfaceHelp" xml:space="preserve">
+    <value>Syncfusion用户界面帮助</value>
+  </data>
+  <data name="View" xml:space="preserve">
+    <value>视图</value>
+  </data>
+  <data name="Views" xml:space="preserve">
+    <value>视图</value>
+  </data>
+  <data name="VioletHighlightToolTip" xml:space="preserve">
+    <value>紫色</value>
+  </data>
+  <data name="WebLayout" xml:space="preserve">
+    <value>网页布局</value>
+  </data>
+  <data name="WebLayoutToolTip" xml:space="preserve">
+    <value>查看文档作为网页的外观。如果文档中有宽表，则此布局也很棒。</value>
+  </data>
+  <data name="WordDoc" xml:space="preserve">
+    <value>Word 97 - 2003 文档</value>
+  </data>
+  <data name="WordDocToolTip" xml:space="preserve">
+    <value>将副本另存为 Word 97-2003</value>
+  </data>
+  <data name="WordDocx" xml:space="preserve">
+    <value>文字文档</value>
+  </data>
+  <data name="WordDocxToolTip" xml:space="preserve">
+    <value>将文件另存为 Word 文档</value>
+  </data>
+  <data name="XamlDocument" xml:space="preserve">
+    <value>Xaml 文档</value>
+  </data>
+  <data name="XamlDocumentToolTip" xml:space="preserve">
+    <value>将文件另存为 Xaml 文档</value>
+  </data>
+  <data name="YellowHighlightToolTip" xml:space="preserve">
+    <value>黄色</value>
+  </data>
+  <data name="Zoom" xml:space="preserve">
+    <value>缩放</value>
+  </data>
+  <data name="Zoom100" xml:space="preserve">
+    <value>100%</value>
+  </data>
+  <data name="Zoom100ToolTip" xml:space="preserve">
+    <value>将文档缩放到 100%。</value>
+  </data>
+  <data name="ZoomIn" xml:space="preserve">
+    <value>放大</value>
+  </data>
+  <data name="ZoomInToolTip" xml:space="preserve">
+    <value>增加缩放级别</value>
+  </data>
+  <data name="ZoomOut" xml:space="preserve">
+    <value>缩小</value>
+  </data>
+  <data name="ZoomOutToolTip" xml:space="preserve">
+    <value>降低缩放级别。</value>
+  </data>
+  <data name="RibbonStatusBarPage" xml:space="preserve">
+    <value>页</value>
+  </data>
+  <data name="RibbonStatusBarPageOf" xml:space="preserve">
+    <value>之</value>
+  </data>
+  <data name="RibbonStatusBarPageToolTip" xml:space="preserve">
+    <value>文档中的页码。</value>
+  </data>
+  <data name="Proofing" xml:space="preserve">
+    <value>打样</value>
+  </data>
+  <data name="Spelling" xml:space="preserve">
+    <value>拼写</value>
+  </data>
+  <data name="SpellingToolTip" xml:space="preserve">
+    <value>拼写错误？不是在我们的监视下。让我们检查一下你的拼写。</value>
+  </data>
+  <data name="SpellingToolTipHeader" xml:space="preserve">
+    <value>拼写 （F7）</value>
+  </data>
+  <data name="Alignment" xml:space="preserve">
+    <value>对准</value>
+  </data>
+  <data name="CellMargins" xml:space="preserve">
+    <value>单元格边距</value>
+  </data>
+  <data name="CellMarginsToolTipHeader" xml:space="preserve">
+    <value>单元格边距</value>
+  </data>
+  <data name="CellMarginsToolTip" xml:space="preserve">
+    <value>自定义单元格边距和单元格之间的间距。</value>
+  </data>
+  <data name="Data" xml:space="preserve">
+    <value>数据</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>删除</value>
+  </data>
+  <data name="DeleteToolTipHeader" xml:space="preserve">
+    <value>删除表</value>
+  </data>
+  <data name="DeleteToolTip" xml:space="preserve">
+    <value>删除行、列或整个表。</value>
+  </data>
+  <data name="InsertRowAbove" xml:space="preserve">
+    <value>在上面插入</value>
+  </data>
+  <data name="InsertRowBelow" xml:space="preserve">
+    <value>在下面插入</value>
+  </data>
+  <data name="InsertColumnLeftToolTipHeader" xml:space="preserve">
+    <value>向左插入列</value>
+  </data>
+  <data name="InsertColumnLeftToolTip" xml:space="preserve">
+    <value>直接在当前列的左侧添加一个新列。</value>
+  </data>
+  <data name="InsertColumnRightToolTipHeader" xml:space="preserve">
+    <value>向右插入列</value>
+  </data>
+  <data name="InsertColumnRightToolTip" xml:space="preserve">
+    <value>将新列直接添加到当前列的右侧。</value>
+  </data>
+  <data name="InsertColumnLeft" xml:space="preserve">
+    <value>向左插入</value>
+  </data>
+  <data name="InsertColumnRight" xml:space="preserve">
+    <value>向右插入</value>
+  </data>
+  <data name="InsertRowAboveToolTipHeader" xml:space="preserve">
+    <value>在上方插入行</value>
+  </data>
+  <data name="InsertRowAboveToolTip" xml:space="preserve">
+    <value>在当前行的正上方添加一个新行。</value>
+  </data>
+  <data name="InsertRowBelowToolTipHeader" xml:space="preserve">
+    <value>在下面插入行</value>
+  </data>
+  <data name="InsertRowBelowToolTip" xml:space="preserve">
+    <value>在当前行的正下方添加一个新行。</value>
+  </data>
+  <data name="Layout" xml:space="preserve">
+    <value>布局</value>
+  </data>
+  <data name="Merge" xml:space="preserve">
+    <value>合并</value>
+  </data>
+  <data name="MergeCells" xml:space="preserve">
+    <value>合并单元格</value>
+  </data>
+  <data name="MergeCellsToolTipHeader" xml:space="preserve">
+    <value>合并单元格</value>
+  </data>
+  <data name="MergeCellsToolTip" xml:space="preserve">
+    <value>将所选单元格合并为一个单元格。</value>
+  </data>
+  <data name="TablePropertiesToolTipHeader" xml:space="preserve">
+    <value>表属性</value>
+  </data>
+  <data name="TablePropertiesToolTip" xml:space="preserve">
+    <value>显示“表属性”对话框以更改高级表属性，如缩进。</value>
+  </data>
+  <data name="RepeatHeaderRows" xml:space="preserve">
+    <value>重复标题行</value>
+  </data>
+  <data name="RepeatHeaderRowsToolTipHeader" xml:space="preserve">
+    <value>重复标题行</value>
+  </data>
+  <data name="RepeatHeaderRowsToolTip" xml:space="preserve">
+    <value>将多行标记为标题行。如果您的表格跨越多个页面，则标题行将显示在每个页面上，以便于参考。</value>
+  </data>
+  <data name="RowsAndColumns" xml:space="preserve">
+    <value>行和列</value>
+  </data>
+  <data name="TableTools" xml:space="preserve">
+    <value>表格工具</value>
+  </data>
+  <data name="TableProperties" xml:space="preserve">
+    <value>属性</value>
+  </data>
+  <data name="Select" xml:space="preserve">
+    <value>选择</value>
+  </data>
+  <data name="SelectToolTipHeader" xml:space="preserve">
+    <value>选择表格</value>
+  </data>
+  <data name="SelectToolTip" xml:space="preserve">
+    <value>选择当前单元格、行、列或整个表。</value>
+  </data>
+  <data name="CellContentAlignBottomCenterToolTip" xml:space="preserve">
+    <value>使文本居中并将其与单元格底部对齐。</value>
+  </data>
+  <data name="CellContentAlignBottomCenterToolTipHeader" xml:space="preserve">
+    <value>底部居中对齐</value>
+  </data>
+  <data name="CellContentAlignBottomLeftToolTip" xml:space="preserve">
+    <value>将文本与单元格的左下角对齐。</value>
+  </data>
+  <data name="CellContentAlignBottomLeftToolTipHeader" xml:space="preserve">
+    <value>左下对齐</value>
+  </data>
+  <data name="CellContentAlignBottomRightToolTip" xml:space="preserve">
+    <value>将文本与单元格的右下角对齐。</value>
+  </data>
+  <data name="CellContentAlignBottomRightToolTipHeader" xml:space="preserve">
+    <value>右下对齐</value>
+  </data>
+  <data name="CellContentAlignCenterLeftToolTip" xml:space="preserve">
+    <value>使文本垂直居中，并将其与单元格左侧对齐。</value>
+  </data>
+  <data name="CellContentAlignCenterLeftToolTipHeader" xml:space="preserve">
+    <value>左对齐</value>
+  </data>
+  <data name="CellContentAlignCenterRightToolTip" xml:space="preserve">
+    <value>将文本垂直居中，并将其与单元格的右侧对齐。</value>
+  </data>
+  <data name="CellContentAlignCenterRightToolTipHeader" xml:space="preserve">
+    <value>居中右对齐</value>
+  </data>
+  <data name="CellContentAlignCenterToolTip" xml:space="preserve">
+    <value>在单元格内水平和垂直地居中文本。</value>
+  </data>
+  <data name="CellContentAlignCenterToolTipHeader" xml:space="preserve">
+    <value>居中对齐</value>
+  </data>
+  <data name="CellContentAlignTopCenterToolTip" xml:space="preserve">
+    <value>使文本居中并将其与单元格顶部对齐。</value>
+  </data>
+  <data name="CellContentAlignTopCenterToolTipHeader" xml:space="preserve">
+    <value>居中对齐顶部</value>
+  </data>
+  <data name="CellContentAlignTopLeftToolTip" xml:space="preserve">
+    <value>将文本与单元格的左上角对齐。</value>
+  </data>
+  <data name="CellContentAlignTopLeftToolTipHeader" xml:space="preserve">
+    <value>左上对齐</value>
+  </data>
+  <data name="CellContentAlignTopRightToolTip" xml:space="preserve">
+    <value>将文本与单元格的右上角对齐。</value>
+  </data>
+  <data name="CellContentAlignTopRightToolTipHeader" xml:space="preserve">
+    <value>右上对齐</value>
+  </data>
+  <data name="DeleteColumns" xml:space="preserve">
+    <value>删除列</value>
+  </data>
+  <data name="DeleteRows" xml:space="preserve">
+    <value>删除行</value>
+  </data>
+  <data name="DeleteTable" xml:space="preserve">
+    <value>删除表</value>
+  </data>
+  <data name="SelectCell" xml:space="preserve">
+    <value>选择单元格</value>
+  </data>
+  <data name="SelectColumn" xml:space="preserve">
+    <value>选择列</value>
+  </data>
+  <data name="SelectRow" xml:space="preserve">
+    <value>选择行</value>
+  </data>
+  <data name="SelectTable" xml:space="preserve">
+    <value>选择表格</value>
+  </data>
+  <data name="File" xml:space="preserve">
+    <value>文件</value>
+  </data>
+  <data name="LeftToRightToolTip" xml:space="preserve">
+    <value>将文本设置为从左到右阅读。</value>
+  </data>
+  <data name="LeftToRightToolTipHeader" xml:space="preserve">
+    <value>从左到右的文本方向</value>
+  </data>
+  <data name="RightToLeftToolTip" xml:space="preserve">
+    <value>将文本设置为从右到左阅读。</value>
+  </data>
+  <data name="RightToLeftToolTipHeader" xml:space="preserve">
+    <value>从右到左的文本方向</value>
+  </data>
+  <data name="AutoFit" xml:space="preserve">
+    <value>自动调整</value>
+  </data>
+  <data name="AutoFitContents" xml:space="preserve">
+    <value>自动调整内容</value>
+  </data>
+  <data name="AutoFitToolTip" xml:space="preserve">
+    <value>自动调整表中列的大小。</value>
+  </data>
+  <data name="AutoFitToolTipHeader" xml:space="preserve">
+    <value>自动调整</value>
+  </data>
+  <data name="AutoFitWindow" xml:space="preserve">
+    <value>自动适应窗口</value>
+  </data>
+  <data name="FixedColumnWidth" xml:space="preserve">
+    <value>固定列宽</value>
+  </data>
+  <data name="CellSize" xml:space="preserve">
+    <value>单元格大小</value>
+  </data>
+  <data name="PageBreak" xml:space="preserve">
+    <value>分页符</value>
+  </data>
+  <data name="PageBreakToolTip" xml:space="preserve">
+    <value>在此处结束当前页面并移至下一页。</value>
+  </data>
+  <data name="PageBreakToolTipHeader" xml:space="preserve">
+    <value>插入分页符（Ctrl+Return）</value>
+  </data>
+  <data name="Pages" xml:space="preserve">
+    <value>页面</value>
+  </data>
+  <data name="Styles" xml:space="preserve">
+    <value>样式</value>
+  </data>
+  <data name="ClearFormatting" xml:space="preserve">
+    <value>清除格式</value>
+  </data>
+  <data name="CreateStyle" xml:space="preserve">
+    <value>创建样式</value>
+  </data>
+  <data name="PreviewText" xml:space="preserve">
+    <value>AaBbCcDdEe</value>
+  </data>
+</root>

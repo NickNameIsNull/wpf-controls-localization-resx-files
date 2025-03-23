@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,148 +117,124 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AddShape" xml:space="preserve">
-    <value>Add Shape</value>
+  <data name="AxisIncompatibleExceptionMessage" xml:space="preserve">
+    <value>轴与轴不兼容</value>
   </data>
-  <data name="AddText" xml:space="preserve">
-    <value>Add Text</value>
-  </data>
-  <data name="AlignLeft" xml:space="preserve">
-    <value>Align Left</value>
-  </data>
-  <data name="AlignRight" xml:space="preserve">
-    <value>Align Right</value>
-  </data>
-  <data name="Arrow" xml:space="preserve">
-    <value>Arrow</value>
-  </data>
-  <data name="Automatic" xml:space="preserve">
-    <value>Automatic</value>
-  </data>
-  <data name="Bold" xml:space="preserve">
-    <value>Bold</value>
-  </data>
-  <data name="BrowseImage" xml:space="preserve">
-    <value>Browse Image</value>
+  <data name="BlackAndWhiteMode" xml:space="preserve">
+    <value>黑白模式</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>取消</value>
   </data>
-  <data name="Center" xml:space="preserve">
-    <value>Center</value>
+  <data name="ChartPrintDialog" xml:space="preserve">
+    <value>图表打印对话框</value>
   </data>
-  <data name="Circle" xml:space="preserve">
-    <value>Circle</value>
+  <data name="Close" xml:space="preserve">
+    <value>关闭</value>
   </data>
-  <data name="Crop" xml:space="preserve">
-    <value>Crop</value>
+  <data name="ColorMode" xml:space="preserve">
+    <value>颜色模式</value>
   </data>
-  <data name="CropHeight" xml:space="preserve">
-    <value>Height. Click Enter to change crop height</value>
+  <data name="Decrease" xml:space="preserve">
+    <value>减少</value>
   </data>
-  <data name="CropWidth" xml:space="preserve">
-    <value>Width. Click Enter to change crop width</value>
+  <data name="High" xml:space="preserve">
+    <value>过度</value>
   </data>
-  <data name="DefaultText" xml:space="preserve">
-    <value>Enter Text</value>
+  <data name="Histogram" xml:space="preserve">
+    <value>直方图</value>
   </data>
-  <data name="Fill" xml:space="preserve">
-    <value>Fill</value>
+  <data name="Increase" xml:space="preserve">
+    <value>增加</value>
   </data>
-  <data name="Flip" xml:space="preserve">
-    <value>Flip</value>
+  <data name="Low" xml:space="preserve">
+    <value>低</value>
   </data>
-  <data name="FlipHorizontal" xml:space="preserve">
-    <value>Flip Horizontal</value>
+  <data name="LowerLine" xml:space="preserve">
+    <value>下划线</value>
   </data>
-  <data name="FlipVertical" xml:space="preserve">
-    <value>Flip Vertical</value>
+  <data name="MACD" xml:space="preserve">
+    <value>MACD</value>
   </data>
-  <data name="Font" xml:space="preserve">
-    <value>Font</value>
-  </data>
-  <data name="FontColor" xml:space="preserve">
-    <value>Font Color</value>
-  </data>
-  <data name="FontSize" xml:space="preserve">
-    <value>Font Size</value>
-  </data>
-  <data name="Height" xml:space="preserve">
-    <value>Height</value>
-  </data>
-  <data name="Italic" xml:space="preserve">
-    <value>Italic</value>
+  <data name="Open" xml:space="preserve">
+    <value>打开</value>
   </data>
   <data name="Pan" xml:space="preserve">
     <value>Pan</value>
   </data>
-  <data name="Path" xml:space="preserve">
-    <value>Pen</value>
+  <data name="PeriodLine" xml:space="preserve">
+    <value>周期线</value>
   </data>
-  <data name="RecentlyUsed" xml:space="preserve">
-    <value>Recently Used</value>
+  <data name="Print" xml:space="preserve">
+    <value>打印</value>
   </data>
-  <data name="Rectangle" xml:space="preserve">
-    <value>Rectangle</value>
+  <data name="PrintingExceptionMessage" xml:space="preserve">
+    <value>元素必须呈现，并且必须具有父元素才能打印。</value>
   </data>
-  <data name="Redo" xml:space="preserve">
-    <value>Redo</value>
+  <data name="PrintingMessage" xml:space="preserve">
+    <value>正在打印。</value>
+  </data>
+  <data name="PrintMode" xml:space="preserve">
+    <value>打印模式</value>
+  </data>
+  <data name="PrintStretch" xml:space="preserve">
+    <value>打印拉伸</value>
+  </data>
+  <data name="Q" xml:space="preserve">
+    <value>Q</value>
+  </data>
+  <data name="Quarter" xml:space="preserve">
+    <value>季度</value>
   </data>
   <data name="Reset" xml:space="preserve">
-    <value>Reset</value>
+    <value>重置</value>
   </data>
-  <data name="ResetZoom" xml:space="preserve">
-    <value>Reset Zoom</value>
+  <data name="BoxSelectionZoom" xml:space="preserve">
+    <value>框选择缩放</value>
   </data>
-  <data name="Rotate" xml:space="preserve">
-    <value>Rotate</value>
+  <data name="SignalLine" xml:space="preserve">
+    <value>信号线</value>
   </data>
-  <data name="Save" xml:space="preserve">
-    <value>Save</value>
+  <data name="Size" xml:space="preserve">
+    <value>大小</value>
   </data>
-  <data name="Select" xml:space="preserve">
-    <value>Select</value>
+  <data name="Total" xml:space="preserve">
+    <value>合计</value>
   </data>
-  <data name="ShapeStroke" xml:space="preserve">
-    <value>Border</value>
+  <data name="UpperLine" xml:space="preserve">
+    <value>上一行</value>
   </data>
-  <data name="ShapeStrokeWidth" xml:space="preserve">
-    <value>Border Width</value>
+  <data name="W" xml:space="preserve">
+    <value>W</value>
   </data>
-  <data name="StandardColors" xml:space="preserve">
-    <value>Standard Colors</value>
+  <data name="Week" xml:space="preserve">
+    <value>周</value>
   </data>
-  <data name="Stroke" xml:space="preserve">
-    <value>Stroke</value>
-  </data>
-  <data name="StrokeWidth" xml:space="preserve">
-    <value>Stroke Width</value>
-  </data>
-  <data name="ThemeColors" xml:space="preserve">
-    <value>Theme Colors</value>
-  </data>
-  <data name="Underline" xml:space="preserve">
-    <value>Underline</value>
-  </data>
-  <data name="Undo" xml:space="preserve">
-    <value>Undo</value>
-  </data>
-  <data name="Width" xml:space="preserve">
-    <value>Width</value>
-  </data>
-  <data name="Zoom" xml:space="preserve">
-    <value>Zoom</value>
+  <data name="YValue" xml:space="preserve">
+    <value>Y值</value>
   </data>
   <data name="ZoomIn" xml:space="preserve">
-    <value>Zoom In</value>
-  </data>
-  <data name="ZoomLevel" xml:space="preserve">
-    <value>Zoom Level</value>
+    <value>放大</value>
   </data>
   <data name="ZoomOut" xml:space="preserve">
-    <value>Zoom Out</value>
+    <value>缩小</value>
   </data>
-    <data name="Ellipse" xml:space="preserve">
-    <value>Ellipse</value>
+  <data name="Advanced" xml:space="preserve">
+    <value>高深</value>
+  </data>
+  <data name="Maximum" xml:space="preserve">
+    <value>最大值</value>
+  </data>
+  <data name="Median" xml:space="preserve">
+    <value>中位数</value>
+  </data>
+  <data name="Minimum" xml:space="preserve">
+    <value>最小值</value>
+  </data>
+  <data name="Q1" xml:space="preserve">
+    <value>Q1</value>
+  </data>
+  <data name="Q3" xml:space="preserve">
+    <value>Q3</value>
   </data>
 </root>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,148 +117,163 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AddShape" xml:space="preserve">
-    <value>Add Shape</value>
+  <data name="CollapseallText" xml:space="preserve">
+    <value>全部折叠</value>
   </data>
-  <data name="AddText" xml:space="preserve">
-    <value>Add Text</value>
+  <data name="CommentlinesText" xml:space="preserve">
+    <value>注释行</value>
   </data>
-  <data name="AlignLeft" xml:space="preserve">
-    <value>Align Left</value>
+  <data name="CopyText" xml:space="preserve">
+    <value>复制</value>
   </data>
-  <data name="AlignRight" xml:space="preserve">
-    <value>Align Right</value>
+  <data name="CutText" xml:space="preserve">
+    <value>剪切</value>
   </data>
-  <data name="Arrow" xml:space="preserve">
-    <value>Arrow</value>
+  <data name="DecreaseindentText" xml:space="preserve">
+    <value>减少缩进</value>
   </data>
-  <data name="Automatic" xml:space="preserve">
-    <value>Automatic</value>
+  <data name="ExpandallText" xml:space="preserve">
+    <value>全部展开</value>
   </data>
-  <data name="Bold" xml:space="preserve">
-    <value>Bold</value>
+  <data name="FindallText" xml:space="preserve">
+    <value>全部查找</value>
   </data>
-  <data name="BrowseImage" xml:space="preserve">
-    <value>Browse Image</value>
+  <data name="FindnextText" xml:space="preserve">
+    <value>查找下一个</value>
   </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+  <data name="FindoptionText" xml:space="preserve">
+    <value>查找选项</value>
   </data>
-  <data name="Center" xml:space="preserve">
-    <value>Center</value>
+  <data name="IncreaseindentText" xml:space="preserve">
+    <value>增加缩进</value>
   </data>
-  <data name="Circle" xml:space="preserve">
-    <value>Circle</value>
+  <data name="OutliningText" xml:space="preserve">
+    <value>大纲</value>
   </data>
-  <data name="Crop" xml:space="preserve">
-    <value>Crop</value>
+  <data name="PasteText" xml:space="preserve">
+    <value>粘贴</value>
   </data>
-  <data name="CropHeight" xml:space="preserve">
-    <value>Height. Click Enter to change crop height</value>
+  <data name="QuickfindText" xml:space="preserve">
+    <value>快速查找</value>
   </data>
-  <data name="CropWidth" xml:space="preserve">
-    <value>Width. Click Enter to change crop width</value>
+  <data name="QuickreplaceText" xml:space="preserve">
+    <value>快速更换</value>
   </data>
-  <data name="DefaultText" xml:space="preserve">
-    <value>Enter Text</value>
+  <data name="RedoText" xml:space="preserve">
+    <value>重做</value>
   </data>
-  <data name="Fill" xml:space="preserve">
-    <value>Fill</value>
+  <data name="ReplaceallText" xml:space="preserve">
+    <value>全部替换</value>
   </data>
-  <data name="Flip" xml:space="preserve">
-    <value>Flip</value>
+  <data name="ReplaceText" xml:space="preserve">
+    <value>替换</value>
   </data>
-  <data name="FlipHorizontal" xml:space="preserve">
-    <value>Flip Horizontal</value>
+  <data name="SelectallText" xml:space="preserve">
+    <value>全选</value>
   </data>
-  <data name="FlipVertical" xml:space="preserve">
-    <value>Flip Vertical</value>
+  <data name="SwitchtoquickreplacetooltipText" xml:space="preserve">
+    <value>切换到快速更换</value>
   </data>
-  <data name="Font" xml:space="preserve">
-    <value>Font</value>
+  <data name="UncommentlinesText" xml:space="preserve">
+    <value>取消注释行</value>
   </data>
-  <data name="FontColor" xml:space="preserve">
-    <value>Font Color</value>
+  <data name="UndoText" xml:space="preserve">
+    <value>撤消</value>
   </data>
-  <data name="FontSize" xml:space="preserve">
-    <value>Font Size</value>
+  <data name="FindSymbolResultText" xml:space="preserve">
+    <value>查找符号结果</value>
   </data>
-  <data name="Height" xml:space="preserve">
-    <value>Height</value>
+  <data name="FindwhatText" xml:space="preserve">
+    <value>查找内容</value>
   </data>
-  <data name="Italic" xml:space="preserve">
-    <value>Italic</value>
+  <data name="LookinText" xml:space="preserve">
+    <value>_查看</value>
   </data>
-  <data name="Pan" xml:space="preserve">
-    <value>Pan</value>
+  <data name="MatchcaseText" xml:space="preserve">
+    <value>区分大小写</value>
   </data>
-  <data name="Path" xml:space="preserve">
-    <value>Pen</value>
+  <data name="MatchwholewordText" xml:space="preserve">
+    <value>匹配整个单词</value>
   </data>
-  <data name="RecentlyUsed" xml:space="preserve">
-    <value>Recently Used</value>
+  <data name="PrefixText" xml:space="preserve">
+    <value>前缀</value>
   </data>
-  <data name="Rectangle" xml:space="preserve">
-    <value>Rectangle</value>
+  <data name="ReplacewithText" xml:space="preserve">
+    <value>重新放置</value>
   </data>
-  <data name="Redo" xml:space="preserve">
-    <value>Redo</value>
+  <data name="SearchhiddenText" xml:space="preserve">
+    <value>搜索隐藏文本</value>
   </data>
-  <data name="Reset" xml:space="preserve">
-    <value>Reset</value>
+  <data name="SearchupText" xml:space="preserve">
+    <value>向上搜索</value>
   </data>
-  <data name="ResetZoom" xml:space="preserve">
-    <value>Reset Zoom</value>
+  <data name="SubstringText" xml:space="preserve">
+    <value>_子字符串</value>
   </data>
-  <data name="Rotate" xml:space="preserve">
-    <value>Rotate</value>
+  <data name="WholewordText" xml:space="preserve">
+    <value>_整个词</value>
   </data>
-  <data name="Save" xml:space="preserve">
-    <value>Save</value>
+  <data name="CurrentdocumentText" xml:space="preserve">
+    <value>当前文档</value>
   </data>
-  <data name="Select" xml:space="preserve">
-    <value>Select</value>
+  <data name="FindandreplaceheaderText" xml:space="preserve">
+    <value>查找并替换</value>
   </data>
-  <data name="ShapeStroke" xml:space="preserve">
-    <value>Border</value>
+  <data name="FindsymbolText" xml:space="preserve">
+    <value>查找符号</value>
   </data>
-  <data name="ShapeStrokeWidth" xml:space="preserve">
-    <value>Border Width</value>
+  <data name="SelectionText" xml:space="preserve">
+    <value>选择</value>
   </data>
-  <data name="StandardColors" xml:space="preserve">
-    <value>Standard Colors</value>
+  <data name="SwitchtofindsymboltooltipText" xml:space="preserve">
+    <value>切换到查找符号</value>
   </data>
-  <data name="Stroke" xml:space="preserve">
-    <value>Stroke</value>
+  <data name="SwitchtoquickfindtooltipText" xml:space="preserve">
+    <value>切换到快速查找</value>
   </data>
-  <data name="StrokeWidth" xml:space="preserve">
-    <value>Stroke Width</value>
+  <data name="OKButtonText" xml:space="preserve">
+    <value>确定</value>
   </data>
-  <data name="ThemeColors" xml:space="preserve">
-    <value>Theme Colors</value>
+  <data name="CancelButtonText" xml:space="preserve">
+    <value>取消</value>
   </data>
-  <data name="Underline" xml:space="preserve">
-    <value>Underline</value>
+  <data name="GoToLineHeaderText" xml:space="preserve">
+    <value>转到行</value>
   </data>
-  <data name="Undo" xml:space="preserve">
-    <value>Undo</value>
+  <data name="LineNumberText" xml:space="preserve">
+    <value>行号</value>
   </data>
-  <data name="Width" xml:space="preserve">
-    <value>Width</value>
+  <data name="SaveChangesMessage" xml:space="preserve">
+    <value>文件已更改，是否保存文件？</value>
   </data>
-  <data name="Zoom" xml:space="preserve">
-    <value>Zoom</value>
+  <data name="SaveChangesTitle" xml:space="preserve">
+    <value>保存更改</value>
   </data>
-  <data name="ZoomIn" xml:space="preserve">
-    <value>Zoom In</value>
+  <data name="ColumnNumberText" xml:space="preserve">
+    <value>Col</value>
   </data>
-  <data name="ZoomLevel" xml:space="preserve">
-    <value>Zoom Level</value>
+  <data name="CurrentLineNumberText" xml:space="preserve">
+    <value>Ln</value>
   </data>
-  <data name="ZoomOut" xml:space="preserve">
-    <value>Zoom Out</value>
+  <data name="StatusMessageText" xml:space="preserve">
+    <value>准备就绪</value>
   </data>
-    <data name="Ellipse" xml:space="preserve">
-    <value>Ellipse</value>
+  <data name="NoResultsFoundText" xml:space="preserve">
+    <value>搜索未找到结果</value>
+  </data>
+  <data name="NoOccuranceFoundText" xml:space="preserve">
+    <value>指定的文本不再出现</value>
+  </data>
+  <data name="TextNotFoundText" xml:space="preserve">
+    <value>找不到指定的文本</value>
+  </data>
+  <data name="FindReachedStartingPointText" xml:space="preserve">
+    <value>查找已到达指定文本的起点</value>
+  </data>
+  <data name="MatchesFoundText" xml:space="preserve">
+    <value>找到匹配项</value>
+  </data>
+  <data name="ReplaceTextOccurence" xml:space="preserve">
+    <value>指定文本的出现处已被替换</value>
   </data>
 </root>

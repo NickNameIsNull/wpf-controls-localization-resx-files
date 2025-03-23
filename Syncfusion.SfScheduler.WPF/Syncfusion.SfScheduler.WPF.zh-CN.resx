@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Alert" xml:space="preserve">
+    <value>警告</value>
+  </data>
+  <data name="AllDay" xml:space="preserve">
+    <value>整天</value>
+  </data>
+  <data name="April" xml:space="preserve">
+    <value>四月</value>
+  </data>
+  <data name="August" xml:space="preserve">
+    <value>八月</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="Count" xml:space="preserve">
+    <value>计数</value>
+  </data>
+  <data name="Daily" xml:space="preserve">
+    <value>每日</value>
+  </data>
+  <data name="Day" xml:space="preserve">
+    <value>日</value>
+  </data>
+  <data name="Days" xml:space="preserve">
+    <value>天</value>
+  </data>
+  <data name="December" xml:space="preserve">
+    <value>十二月</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>删除</value>
+  </data>
+  <data name="DeleteOccurrence" xml:space="preserve">
+    <value>删除此匹配项</value>
+  </data>
+  <data name="DeleteRecurringDialogContent" xml:space="preserve">
+    <value>您是要删除定期约会的所有实例 []，还是仅删除此约会？</value>
+  </data>
+  <data name="DeleteRecurringDialogHeader" xml:space="preserve">
+    <value>确认删除</value>
+  </data>
+  <data name="DeleteSeries" xml:space="preserve">
+    <value>删除此系列</value>
+  </data>
+  <data name="Description" xml:space="preserve">
+    <value>描述</value>
+  </data>
+  <data name="EditEventTitle" xml:space="preserve">
+    <value>编辑事件</value>
+  </data>
+  <data name="EditRecurringDialogContent" xml:space="preserve">
+    <value>这是一个系列中的一个约会。您想打开什么？</value>
+  </data>
+  <data name="EditRecurringDialogHeader" xml:space="preserve">
+    <value>打开定期项目</value>
+  </data>
+  <data name="End" xml:space="preserve">
+    <value>结束</value>
+  </data>
+  <data name="EndTimezone" xml:space="preserve">
+    <value>结束时区</value>
+  </data>
+  <data name="February" xml:space="preserve">
+    <value>二月</value>
+  </data>
+  <data name="First" xml:space="preserve">
+    <value>第一</value>
+  </data>
+  <data name="Fourth" xml:space="preserve">
+    <value>第四</value>
+  </data>
+  <data name="Friday" xml:space="preserve">
+    <value>星期五</value>
+  </data>
+  <data name="InValidEndTimeMessageAlert" xml:space="preserve">
+    <value>您输入的结束日期发生在开始日期之前。</value>
+  </data>
+  <data name="InvalidOccurrenceEditingMessageAlert" xml:space="preserve">
+    <value>[] 不能在同一天发生两次。</value>
+  </data>
+  <data name="January" xml:space="preserve">
+    <value>一月</value>
+  </data>
+  <data name="July" xml:space="preserve">
+    <value>七月</value>
+  </data>
+  <data name="June" xml:space="preserve">
+    <value>六月</value>
+  </data>
+  <data name="JustThisOne" xml:space="preserve">
+    <value>就这个</value>
+  </data>
+  <data name="Last" xml:space="preserve">
+    <value>最后</value>
+  </data>
+  <data name="Location" xml:space="preserve">
+    <value>位置</value>
+  </data>
+  <data name="March" xml:space="preserve">
+    <value>三月</value>
+  </data>
+  <data name="May" xml:space="preserve">
+    <value>五月</value>
+  </data>
+  <data name="Monday" xml:space="preserve">
+    <value>星期一</value>
+  </data>
+  <data name="Monthly" xml:space="preserve">
+    <value>每月</value>
+  </data>
+  <data name="Months" xml:space="preserve">
+    <value>个月</value>
+  </data>
+  <data name="More" xml:space="preserve">
+    <value>更多</value>
+  </data>
+  <data name="Never" xml:space="preserve">
+    <value>从不</value>
+  </data>
+  <data name="NewEvent" xml:space="preserve">
+    <value>新建活动</value>
+  </data>
+  <data name="NoDateSelected" xml:space="preserve">
+    <value>未选择日期</value>
+  </data>
+  <data name="NoEvents" xml:space="preserve">
+    <value>无事件</value>
+  </data>
+  <data name="November" xml:space="preserve">
+    <value>十一月</value>
+  </data>
+  <data name="October" xml:space="preserve">
+    <value>十月</value>
+  </data>
+  <data name="OK" xml:space="preserve">
+    <value>确定</value>
+  </data>
+  <data name="OutRangeOccurrencedEditingMessageAlert" xml:space="preserve">
+    <value>如果重复约会 [] 跳过同一约会的后续事件，则无法重新安排定期约会的发生。</value>
+  </data>
+  <data name="Repeat" xml:space="preserve">
+    <value>重复</value>
+  </data>
+  <data name="RepeatEvery" xml:space="preserve">
+    <value>重复间隔</value>
+  </data>
+  <data name="RepeatOn" xml:space="preserve">
+    <value>重复 开启</value>
+  </data>
+  <data name="Saturday" xml:space="preserve">
+    <value>星期六</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>保存</value>
+  </data>
+  <data name="Second" xml:space="preserve">
+    <value>第二</value>
+  </data>
+  <data name="September" xml:space="preserve">
+    <value>九月</value>
+  </data>
+  <data name="Start" xml:space="preserve">
+    <value>开始</value>
+  </data>
+  <data name="StartTimeZone" xml:space="preserve">
+    <value>开始时区</value>
+  </data>
+  <data name="Sunday" xml:space="preserve">
+    <value>星期日</value>
+  </data>
+  <data name="TheEntireSeries" xml:space="preserve">
+    <value>整个系列</value>
+  </data>
+  <data name="Third" xml:space="preserve">
+    <value>第三</value>
+  </data>
+  <data name="Thursday" xml:space="preserve">
+    <value>星期四</value>
+  </data>
+  <data name="TimeZone" xml:space="preserve">
+    <value>时区</value>
+  </data>
+  <data name="Title" xml:space="preserve">
+    <value>标题</value>
+  </data>
+  <data name="Tuesday" xml:space="preserve">
+    <value>星期二</value>
+  </data>
+  <data name="Until" xml:space="preserve">
+    <value>至</value>
+  </data>
+  <data name="Wednesday" xml:space="preserve">
+    <value>星期三</value>
+  </data>
+  <data name="Weekly" xml:space="preserve">
+    <value>周刊</value>
+  </data>
+  <data name="Weeks" xml:space="preserve">
+    <value>周</value>
+  </data>
+  <data name="Yearly" xml:space="preserve">
+    <value>每年</value>
+  </data>
+  <data name="Years" xml:space="preserve">
+    <value>年</value>
+  </data>
+  <data name="Resource" xml:space="preserve">
+    <value>资源</value>
+  </data>
+  <data name="AddReminder" xml:space="preserve">
+    <value>添加提醒</value>
+  </data>
+  <data name="ClickSnooze" xml:space="preserve">
+    <value>单击“延后”以在以下位置收到提醒：</value>
+  </data>
+  <data name="DismissAll" xml:space="preserve">
+    <value>全部撤销</value>
+  </data>
+  <data name="Hour" xml:space="preserve">
+    <value>小时</value>
+  </data>
+  <data name="Minutes" xml:space="preserve">
+    <value>分钟</value>
+  </data>
+  <data name="Reminder" xml:space="preserve">
+    <value>提醒</value>
+  </data>
+  <data name="Snooze" xml:space="preserve">
+    <value>休眠</value>
+  </data>
+  <data name="Week" xml:space="preserve">
+    <value>周</value>
+  </data>
+  <data name="NoReminder" xml:space="preserve">
+    <value>没有要显示的提醒。</value>
+  </data>
+  <data name="Reminders" xml:space="preserve">
+    <value>提醒</value>
+  </data>
+  <data name="DaysIntervalTypeReminder" xml:space="preserve">
+    <value>日</value>
+  </data>
+  <data name="HoursIntervalTypeReminder" xml:space="preserve">
+    <value>小时</value>
+  </data>
+  <data name="MinutesIntervalTypeReminder" xml:space="preserve">
+    <value>分钟</value>
+  </data>
+  <data name="WeeksIntervalTypeReminder" xml:space="preserve">
+    <value>星期</value>
+  </data>
+  <data name="EmptyAppointmentSubject" xml:space="preserve">
+    <value>（无标题）</value>
+  </data>
+  <data name="NextNavigationButton" xml:space="preserve">
+    <value>下一页 导航</value>
+  </data>
+  <data name="PreviousNavigationButton" xml:space="preserve">
+    <value>上一个 导航</value>
+  </data>
+  <data name="BlackoutDay" xml:space="preserve">
+    <value>不适用日</value>
+  </data>
+  <data name="WeekNumber" xml:space="preserve">
+    <value>周数</value>
+  </data>
+  <data name="Dismiss" xml:space="preserve">
+    <value>撤销</value>
+  </data>
+  <data name="Background" xml:space="preserve">
+    <value>背景</value>
+  </data>
+  <data name="Foreground" xml:space="preserve">
+    <value>前景色</value>
+  </data>
+  <data name="Month" xml:space="preserve">
+    <value>月</value>
+  </data>
+  <data name="TimelineDay" xml:space="preserve">
+    <value>时间轴日</value>
+  </data>
+  <data name="TimelineMonth" xml:space="preserve">
+    <value>时间轴月</value>
+  </data>
+  <data name="TimelineWeek" xml:space="preserve">
+    <value>时间轴周</value>
+  </data>
+  <data name="TimelineWorkWeek" xml:space="preserve">
+    <value>工作周时间表</value>
+  </data>
+  <data name="WorkWeek" xml:space="preserve">
+    <value>工作周</value>
+  </data>
+  <data name="Today" xml:space="preserve">
+    <value>今天</value>
+  </data>
+</root>

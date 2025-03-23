@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -118,425 +118,425 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessCalendarText" xml:space="preserve">
-    <value>Calendar</value>
+    <value>日历</value>
   </data>
   <data name="AccessEmptyDateText" xml:space="preserve">
-    <value>None</value>
+    <value>无</value>
   </data>
   <data name="AccessTodayText" xml:space="preserve">
-    <value>Today :</value>
+    <value>今天：</value>
   </data>
   <data name="AccessWatchText" xml:space="preserve">
-    <value>Watch</value>
+    <value>观察</value>
   </data>
   <data name="AddItem" xml:space="preserve">
-    <value>Add</value>
+    <value>增加</value>
   </data>
   <data name="AddToQAT" xml:space="preserve">
-    <value>Add to Quick Access Toolbar</value>
+    <value>添加到快速访问工具栏</value>
   </data>
   <data name="AutoHide" xml:space="preserve">
-    <value>Auto Hide</value>
+    <value>自动隐藏</value>
   </data>
   <data name="AwlButtonTooltipText" xml:space="preserve">
-    <value>Auto Hide</value>
+    <value>自动隐藏</value>
   </data>
   <data name="BackText" xml:space="preserve">
-    <value>Back</value>
+    <value>返回</value>
   </data>
   <data name="Buttons" xml:space="preserve">
-    <value>Buttons</value>
+    <value>按钮</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>取消</value>
   </data>
   <data name="CancelText" xml:space="preserve">
-    <value>Cancel</value>
+    <value>取消</value>
   </data>
   <data name="Choose" xml:space="preserve">
-    <value>Choose commands from</value>
+    <value>从以下位置选择命令</value>
   </data>
   <data name="CloseAllButThis" xml:space="preserve">
-    <value>Close All But This</value>
+    <value>关闭除此以外的所有内容</value>
   </data>
   <data name="CloseButtonTooltipText" xml:space="preserve">
-    <value>Close</value>
+    <value>关闭</value>
   </data>
   <data name="CloseTooltip" xml:space="preserve">
-    <value>Close</value>
+    <value>关闭</value>
   </data>
   <data name="ContextMenuButtonTooltipText" xml:space="preserve">
-    <value>Context Menu</value>
+    <value>上下文菜单</value>
   </data>
   <data name="MaximizeButtonTooltipText" xml:space="preserve">
-    <value>Maximize</value>
+    <value>最大化</value>
   </data>
   <data name="MinimizeButtonTooltipText" xml:space="preserve">
-    <value>Minimize</value>
+    <value>最小化</value>
   </data>
   <data name="RestoreButtonTooltipText" xml:space="preserve">
-    <value>Restore</value>
+    <value>恢复</value>
   </data>
   <data name="CustomizeQAT" xml:space="preserve">
-    <value>Customize Quick Access Toolbar</value>
+    <value>自定义快速访问工具栏</value>
   </data>
   <data name="CustomizeQATContextMenu" xml:space="preserve">
-    <value>Customize Quick Access Toolbar...</value>
+    <value>自定义快速访问工具栏...</value>
   </data>
   <data name="Dockable" xml:space="preserve">
-    <value>Dockable</value>
+    <value>可停靠</value>
   </data>
   <data name="Document" xml:space="preserve">
-    <value>Document</value>
+    <value>文档</value>
   </data>
   <data name="FinishText" xml:space="preserve">
-    <value>Finish</value>
+    <value>完成</value>
   </data>
   <data name="FloatButtonTooltipText" xml:space="preserve">
-    <value>Float</value>
+    <value>浮动</value>
   </data>
   <data name="Floating" xml:space="preserve">
-    <value>Floating</value>
+    <value>浮动</value>
   </data>
   <data name="GroupbarMItemAddItem" xml:space="preserve">
-    <value>Add Item</value>
+    <value>添加项目</value>
   </data>
   <data name="GroupbarMItemAddTab" xml:space="preserve">
-    <value>Add Tab</value>
+    <value>添加选项卡</value>
   </data>
   <data name="GroupbarMItemCopy" xml:space="preserve">
-    <value>Copy</value>
+    <value>复制</value>
   </data>
   <data name="GroupbarMItemCut" xml:space="preserve">
-    <value>Cut</value>
+    <value>剪切</value>
   </data>
   <data name="GroupbarMItemDeleteItem" xml:space="preserve">
-    <value>Delete Item</value>
+    <value>删除项目</value>
   </data>
   <data name="GroupbarMItemDeleteTab" xml:space="preserve">
-    <value>Delete Tab</value>
+    <value>删除选项卡</value>
   </data>
   <data name="GroupbarMItemListView" xml:space="preserve">
-    <value>List View</value>
+    <value>列表视图</value>
   </data>
   <data name="GroupbarMItemMoveDown" xml:space="preserve">
-    <value>Move Down</value>
+    <value>下移</value>
   </data>
   <data name="GroupbarMItemMoveUp" xml:space="preserve">
-    <value>Move Up</value>
+    <value>上移</value>
   </data>
   <data name="GroupbarMItemPaste" xml:space="preserve">
-    <value>Paste</value>
+    <value>粘贴</value>
   </data>
   <data name="GroupbarMItemRenameItem" xml:space="preserve">
-    <value>Rename Item</value>
+    <value>重命名项目</value>
   </data>
   <data name="GroupbarMItemRenameTab" xml:space="preserve">
-    <value>Rename Tab</value>
+    <value>重命名选项卡</value>
   </data>
   <data name="GroupbarMItemSortAsc" xml:space="preserve">
-    <value>Sort Asc</value>
+    <value>排序(升序)</value>
   </data>
   <data name="GroupbarMItemSortDec" xml:space="preserve">
-    <value>Sort Dec</value>
+    <value>排序(降序)</value>
   </data>
   <data name="HelpText" xml:space="preserve">
-    <value>Help</value>
+    <value>帮助</value>
   </data>
   <data name="Hide" xml:space="preserve">
-    <value>Close</value>
+    <value>关闭</value>
   </data>
   <data name="MaximizeRibbon" xml:space="preserve">
-    <value>Maximize Ribbon</value>
+    <value>最大化功能区</value>
   </data>
   <data name="MaximizeTooltip" xml:space="preserve">
-    <value>Maximize</value>
+    <value>最大化</value>
   </data>
   <data name="MDIClose" xml:space="preserve">
-    <value>Close</value>
+    <value>关闭</value>
   </data>
   <data name="MDIDockable" xml:space="preserve">
-    <value>Dockable</value>
+    <value>可停靠</value>
   </data>
   <data name="MDIDocument" xml:space="preserve">
-    <value>Document</value>
+    <value>文档</value>
   </data>
   <data name="MDIFloating" xml:space="preserve">
-    <value>Floating</value>
+    <value>浮动</value>
   </data>
   <data name="MDIMaximize" xml:space="preserve">
-    <value>Maximize</value>
+    <value>最大化</value>
   </data>
   <data name="MDIMinimize" xml:space="preserve">
-    <value>Minimize</value>
+    <value>最小化</value>
   </data>
   <data name="MDIMove" xml:space="preserve">
-    <value>Move</value>
+    <value>移动</value>
   </data>
   <data name="MDIResize" xml:space="preserve">
-    <value>Resize</value>
+    <value>调整</value>
   </data>
   <data name="MDIRestore" xml:space="preserve">
-    <value>Restore</value>
+    <value>恢复</value>
   </data>
   <data name="MinimizeRibbon" xml:space="preserve">
-    <value>Minimize Ribbon</value>
+    <value>最小化功能区</value>
   </data>
   <data name="MinimizeTooltip" xml:space="preserve">
-    <value>Minimize</value>
+    <value>最小化</value>
   </data>
   <data name="FullScreenTooltip" xml:space="preserve">
-    <value>FullScreenMode</value>
+    <value>全屏模式</value>
   </data>
   <data name="Modify" xml:space="preserve">
-    <value>Modify...</value>
+    <value>修改...</value>
   </data>
   <data name="MoveToNextTabGroup" xml:space="preserve">
-    <value>Move To Next Tab Group</value>
+    <value>移动到下一个选项卡组</value>
   </data>
   <data name="MoveToPreviousTabGroup" xml:space="preserve">
-    <value>Move To Previous Tab Group</value>
+    <value>移动到上一个选项卡组</value>
   </data>
   <data name="NewHorizontalTabGroup" xml:space="preserve">
-    <value>New Horizontal Tab Group</value>
+    <value>新建水平选项卡组</value>
   </data>
   <data name="NewVerticalTabGroup" xml:space="preserve">
-    <value>New Vertical Tab Group</value>
+    <value>新建垂直选项卡组</value>
   </data>
   <data name="NextText" xml:space="preserve">
-    <value>Next</value>
+    <value>下一个</value>
   </data>
   <data name="Ok" xml:space="preserve">
-    <value>OK</value>
+    <value>确定</value>
   </data>
   <data name="Options" xml:space="preserve">
-    <value>Options</value>
+    <value>选项</value>
   </data>
   <data name="QAT" xml:space="preserve">
-    <value>Quick Access Toolbar</value>
+    <value>快速访问工具栏</value>
   </data>
   <data name="QATMoreCommands" xml:space="preserve">
-    <value>More Commands...</value>
+    <value>更多命令...</value>
   </data>
   <data name="QATResetContent" xml:space="preserve">
-    <value>Are you sure you want to restore the Quick Access Toolbar to its defaults content?</value>
+    <value>是否确实要将快速访问工具栏还原为其默认内容？</value>
   </data>
   <data name="QATResetTitle" xml:space="preserve">
-    <value>Reset Customizations</value>
+    <value>重置自定义项</value>
   </data>
   <data name="QATShowAbove" xml:space="preserve">
-    <value>Show Quick Access Toolbar Above the Ribbon</value>
+    <value>在功能区上方显示快速访问工具栏</value>
   </data>
   <data name="QATShowBelow" xml:space="preserve">
-    <value>Show Quick Access Toolbar Below the Ribbon</value>
+    <value>在功能区下方显示快速访问工具栏</value>
   </data>
   <data name="RemoveFromQAT" xml:space="preserve">
-    <value>Remove from Quick Access Toolbar</value>
+    <value>从快速访问工具栏中删除</value>
   </data>
   <data name="RemoveItem" xml:space="preserve">
-    <value>Remove</value>
+    <value>删除</value>
   </data>
   <data name="Reset" xml:space="preserve">
-    <value>Reset</value>
+    <value>重置</value>
   </data>
   <data name="RestoreTooltip" xml:space="preserve">
-    <value>Restore Down</value>
+    <value>向下还原</value>
   </data>
   <data name="Showfewerbuttons" xml:space="preserve">
-    <value>Show fewer buttons</value>
+    <value>显示更少的按钮</value>
   </data>
   <data name="Showmorebuttons" xml:space="preserve">
-    <value>Show more buttons</value>
+    <value>显示更多按钮</value>
   </data>
   <data name="ShowQATBelow" xml:space="preserve">
-    <value>Show Quick Access Toolbar below the Ribbon</value>
+    <value>在功能区下方显示快速访问工具栏</value>
   </data>
   <data name="Tabbed" xml:space="preserve">
-    <value>Tabbed</value>
+    <value>选项卡式</value>
   </data>
   <data name="TabClose" xml:space="preserve">
-    <value>Close</value>
+    <value>关闭</value>
   </data>
   <data name="TabCloseAll" xml:space="preserve">
-    <value>Close All</value>
+    <value>全部关闭</value>
   </data>
   <data name="QATDuplicateAlert" xml:space="preserve">
-    <value>The selected command is already on the Quick Access Toolbar</value>
+    <value>所选命令已在快速访问工具栏上</value>
   </data>
   <data name="QATAllCommandsCaption" xml:space="preserve">
-    <value>All Commands</value>
+    <value>所有命令</value>
   </data>
   <data name="QATRibbonMenuCaption" xml:space="preserve">
-    <value>Ribbon Menu</value>
+    <value>功能区菜单</value>
   </data>
   <data name="QATTabCaption" xml:space="preserve">
-    <value>Tab</value>
+    <value>标签</value>
   </data>
   <data name="MenuItemCancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>取消</value>
   </data>
   <data name="NewTabgroup" xml:space="preserve">
-    <value>New Tab Group</value>
+    <value>新建选项卡组</value>
   </data>
   <data name="Maximize" xml:space="preserve">
-    <value>Maximize</value>
+    <value>最大化</value>
   </data>
   <data name="Minimize" xml:space="preserve">
-    <value>Minimize</value>
+    <value>最小化</value>
   </data>
   <data name="Restore" xml:space="preserve">
-    <value>Restore</value>
+    <value>恢复</value>
   </data>
   <data name="BackStageButtonHeader" xml:space="preserve">
-    <value>File</value>
+    <value>文件</value>
   </data>
   <data name="ApplicationMenuButtonHeader" xml:space="preserve">
-    <value>File</value>
+    <value>文件</value>
   </data>
   <data name="LoadOnDemandHeader" xml:space="preserve">
-    <value>Loading....</value>
+    <value>加载中....</value>
   </data>
   <data name="CustomizeRibbon" xml:space="preserve">
-    <value>Customize Ribbon</value>
+    <value>自定义功能区</value>
   </data>
   <data name="CustomizeRibbonLabel" xml:space="preserve">
-    <value>Customize the Ribbon</value>
+    <value>自定义功能区</value>
   </data>
   <data name="DeleteItem" xml:space="preserve">
-    <value>Delete</value>
+    <value>删除</value>
   </data>
   <data name="NewBar" xml:space="preserve">
-    <value>New Group</value>
+    <value>新建组</value>
   </data>
   <data name="NewTab" xml:space="preserve">
-    <value>New Tab</value>
+    <value>新建选项卡</value>
   </data>
   <data name="RenameItem" xml:space="preserve">
-    <value>Rename</value>
+    <value>重命名</value>
   </data>
   <data name="CustomizationLabel" xml:space="preserve">
-    <value>Customizations :</value>
+    <value>定制：</value>
   </data>
   <data name="CustomizeQATHeader" xml:space="preserve">
-    <value>Customize Ribbon</value>
+    <value>自定义功能区</value>
   </data>
   <data name="ResetAll" xml:space="preserve">
-    <value>Reset all customizations</value>
+    <value>重置所有自定义项</value>
   </data>
   <data name="ResetSelectedTab" xml:space="preserve">
-    <value>Reset only selected Ribbon tab</value>
+    <value>仅重置选定的功能区选项卡</value>
   </data>
   <data name="DisplayName" xml:space="preserve">
-    <value>Display Name :</value>
+    <value>显示名称 ：</value>
   </data>
   <data name="DeleteSeletedRibbonCustomization" xml:space="preserve">
-    <value>Are you sure want to delete Ribbon tabs/bars customizations?</value>
+    <value>是否确实要删除功能区选项卡/栏自定义项？</value>
   </data>
   <data name="DeleteAllHeader" xml:space="preserve">
-    <value>Reset Ribbon Customization</value>
+    <value>重置功能区自定义</value>
   </data>
   <data name="DeleteAllRibbonCustomization" xml:space="preserve">
-    <value>Are you sure want to delete all Ribbon customizations?</value>
+    <value>是否确实要删除所有功能区自定义项？</value>
   </data>
   <data name="DeleteCustomizationHeader" xml:space="preserve">
-    <value>Delete Ribbon tabs/bars Customization</value>
+    <value>删除功能区选项卡/条自定义</value>
   </data>
   <data name="NewBarInTreeView" xml:space="preserve">
-    <value>New Bar</value>
+    <value>新建功能栏</value>
   </data>
   <data name="CustomizationWarning" xml:space="preserve">
-    <value>Commands can only be added to custom groups.
+    <value>命令只能添加到自定义组。
 
-To add a custom group,click the tab where you want the group to appear,and then click New Group.</value>
+若要添加自定义组，请单击要显示该组的选项卡，然后单击“新建组”。</value>
   </data>
   <data name="CustomizationItemWarning" xml:space="preserve">
-    <value>Selected item already present in that group</value>
+    <value>该组中已存在的选定项目</value>
   </data>
   <data name="WarningHeader" xml:space="preserve">
-    <value>Ribbon Customization</value>
+    <value>功能区自定义</value>
   </data>
   <data name="No" xml:space="preserve">
-    <value>No</value>
+    <value>否</value>
   </data>
   <data name="Yes" xml:space="preserve">
-    <value>Yes</value>
+    <value>是</value>
   </data>
   <data name="Topmost" xml:space="preserve">
-    <value>Topmost</value>
+    <value>置顶</value>
   </data>
   <data name="QATToolTip" xml:space="preserve">
-    <value>Customize Quick Access Toolbar</value>
+    <value>自定义快速访问工具栏</value>
   </data>
   <data name="CardViewHeader" xml:space="preserve">
-    <value>Drag a column header here to group by that column</value>
+    <value>将列标题拖动到此处以按该列分组</value>
   </data>
   <data name="CardViewClearFilter" xml:space="preserve">
-    <value>Clear Filter</value>
+    <value>清除筛选器</value>
   </data>
   <data name="VerticalSplit" xml:space="preserve">
-    <value>Vertical Split</value>
+    <value>垂直拆分</value>
   </data>
   <data name="HorizontalSplit" xml:space="preserve">
-    <value>Horizontal Split</value>
+    <value>水平拆分</value>
   </data>
   <data name="SwapPanes" xml:space="preserve">
-    <value>Swap Panes</value>
+    <value>交换窗格</value>
   </data>
   <data name="CollapsePane" xml:space="preserve">
-    <value>Collapse Pane</value>
+    <value>折叠窗格</value>
   </data>
   <data name="ExpandPane" xml:space="preserve">
-    <value>Expand Pane</value>
+    <value>展开面板</value>
   </data>
   <data name="PinTab" xml:space="preserve">
-    <value>Pin Tab</value>
+    <value>固定选项卡</value>
   </data>
   <data name="UnpinTab" xml:space="preserve">
-    <value>Unpin Tab</value>
+    <value>取消固定选项卡</value>
   </data>
   <data name="RenameWindowTitle" xml:space="preserve">
-    <value>Rename</value>
+    <value>重命名</value>
   </data>
   <data name="Dock" xml:space="preserve">
-    <value>Dock</value>
+    <value>停靠</value>
   </data>
   <data name="Float" xml:space="preserve">
-    <value>Float</value>
+    <value>浮动</value>
   </data>
   <data name="QATCommandsNotInRibbonCaption" xml:space="preserve">
-    <value>Commands Not in the Ribbon</value>
+    <value>不在功能区中的命令</value>
   </data>
   <data name="MoreTabs" xml:space="preserve">
-    <value>More Tabs</value>
+    <value>更多标签页</value>
   </data>
   <data name="FirstTab" xml:space="preserve">
-    <value>First Tab</value>
+    <value>第一个选项卡</value>
   </data>
   <data name="LastTab" xml:space="preserve">
-    <value>Last Tab</value>
+    <value>最后一个选项卡</value>
   </data>
   <data name="NextPage" xml:space="preserve">
-    <value>Next Page</value>
+    <value>下一页</value>
   </data>
   <data name="NextTab" xml:space="preserve">
-    <value>Next Tab</value>
+    <value>下一个选项卡</value>
   </data>
   <data name="PreviousPage" xml:space="preserve">
-    <value>Previous Page</value>
+    <value>上一页</value>
   </data>
   <data name="PreviousTab" xml:space="preserve">
-    <value>Previous Tab</value>
+    <value>上一个选项卡</value>
   </data>
   <data name="SelectAll" xml:space="preserve">
-    <value>Select All</value>
+    <value>全选</value>
   </data>
   <data name="NewHorizontalDocumentGroup" xml:space="preserve">
-    <value>New Horizontal Document Group</value>
+    <value>新建水平文档组</value>
   </data>
   <data name="NewVerticalDocumentGroup" xml:space="preserve">
-    <value>New Vertical Document Group</value>
+    <value>新建纵向文档组</value>
   </data>
   <data name="DockAsTabbedDocument" xml:space="preserve">
-    <value>Dock As Tabbed Document</value>
+    <value>停靠为选项卡式文档</value>
   </data>
 </root>

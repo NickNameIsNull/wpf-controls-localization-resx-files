@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -118,256 +118,253 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="CancelButton" xml:space="preserve">
-    <value>Cancel</value>
+    <value>取消</value>
   </data>
   <data name="OkButton" xml:space="preserve">
-    <value>OK</value>
+    <value>确定</value>
   </data>
   <data name="MoreButton" xml:space="preserve">
-    <value>Mo_re Options...</value>
+    <value>更多选项...</value>
   </data>
   <data name="PivotGrid_Collapse_All_Header" xml:space="preserve">
-    <value>_Collapse All Nodes</value>
+    <value>_折叠所有节点</value>
   </data>
   <data name="ShowFieldsButton" xml:space="preserve">
-    <value>Show Fields</value>
+    <value>显示字段</value>
   </data>
   <data name="PivotGrid_ComputationList_Title" xml:space="preserve">
-    <value>Computation List</value>
+    <value>计算列表</value>
   </data>
   <data name="PivotGrid_Collapse_Header" xml:space="preserve">
-    <value>C_ollapse This Node</value>
+    <value>折叠这个节点</value>
   </data>
   <data name="PivotGrid_ContextMenu_Order" xml:space="preserve">
-    <value>_Order</value>
+    <value>排序</value>
   </data>
   <data name="PivotGrid_ContextMenu_ReloadData" xml:space="preserve">
-    <value>_Reload Data</value>
-  </data>
-  <data name="PivotGrid_BusyIndicator" xml:space="preserve">
-    <value>PivotGrid BusyIndicator</value>
+    <value>_重新加载数据</value>
   </data>
   <data name="PivotGrid_BusyIndicator_Loading" xml:space="preserve">
-    <value> Waiting for pivot to load. This window will close when the operation is complete.</value>
+    <value> 正在等待pivot加载。操作完成后，此窗口将关闭。</value>
   </data>
   <data name="PivotGrid_ContextMenu_ShowFieldList" xml:space="preserve">
-    <value>Show _Field List</value>
+    <value>显示字段列表</value>
   </data>
   <data name="PivotGrid_ContextMenu_CalculatedField" xml:space="preserve">
-    <value>Calculated F_ield</value>
+    <value>计算场</value>
   </data>
   <data name="CalculatedField_Dialog_HeaderText" xml:space="preserve">
-    <value>Insert CalculatedField</value>
+    <value>插入计算字段</value>
   </data>
   <data name="PivotSchema_ComputationalInfoDialog_Name" xml:space="preserve">
-    <value>_Name</value>
+    <value>名称</value>
   </data>
   <data name="PivotSchema_ComputationalInfoDialog_Formula" xml:space="preserve">
-    <value>For_mula</value>
+    <value>公式</value>
   </data>
   <data name="PivotSchema_ComputationalInfoDialog_Add" xml:space="preserve">
-    <value>_Add</value>
+    <value>_增加</value>
   </data>
   <data name="PivotSchema_ComputationalInfoDialog_Delete" xml:space="preserve">
-    <value>_Delete</value>
+    <value>_删除</value>
   </data>
   <data name="PivotSchema_ComputationalInfoDialog_InsertField" xml:space="preserve">
-    <value>Insert Fi_eld</value>
+    <value>插入字段</value>
   </data>
   <data name="PivotSchema_ComputationalInfoDialog_Fields" xml:space="preserve">
-    <value>_Fields</value>
+    <value>_字段</value>
   </data>
   <data name="PivotGrid_ContextSubMenu_Beginning" xml:space="preserve">
-    <value>Move to Be_ginning</value>
+    <value>移动到开始</value>
   </data>
   <data name="PivotGrid_ContextSubMenu_End" xml:space="preserve">
-    <value>Move to _End</value>
+    <value>移动到结束</value>
   </data>
   <data name="PivotGrid_ContextSubMenu_Ascending" xml:space="preserve">
-    <value>_Smallest to largest</value>
+    <value>_从最小到最大</value>
   </data>
   <data name="PivotGrid_ContextSubMenu_Descending" xml:space="preserve">
-    <value>_Largest to smallest</value>
+    <value>_从最大到最小</value>
   </data>
   <data name="PivotGrid_ContextSubMenu_Left" xml:space="preserve">
-    <value>Move to L_eft</value>
+    <value>向左移动</value>
   </data>
   <data name="PivotGrid_ContextSubMenu_Right" xml:space="preserve">
-    <value>Move to _Right</value>
+    <value>向右移动</value>
   </data>
   <data name="PivotGrid_DropColumnFields" xml:space="preserve">
-    <value>Drop Column Fields Here</value>
+    <value>将列字段拖到此处</value>
   </data>
   <data name="PivotGrid_DropRowFields" xml:space="preserve">
-    <value>Drop Row Fields Here</value>
+    <value>将行字段拖到此处</value>
   </data>
   <data name="PivotGrid_Expand_All_Header" xml:space="preserve">
-    <value>_Expand All Nodes</value>
+    <value>_展开所有节点</value>
   </data>
   <data name="PivotGrid_Collapse_EntireField" xml:space="preserve">
-    <value>Colla_pse Entire Field</value>
+    <value>折叠整个字段</value>
   </data>
   <data name="PivotGrid_Expand_EntireField" xml:space="preserve">
-    <value>Expand E_ntire Field</value>
+    <value>展开全部字段</value>
   </data>
   <data name="PivotGrid_Expand_Collapse_Header" xml:space="preserve">
-    <value>Expand/Collapse</value>
+    <value>展开/折叠</value>
   </data>
   <data name="PivotGrid_Expand_Header" xml:space="preserve">
-    <value>E_xpand This Node</value>
+    <value>展开这个节点</value>
   </data>
   <data name="PivotGrid_GroupingBar_DropFilterFileds" xml:space="preserve">
-    <value>Drop Filter Fields Here</value>
+    <value>将筛选器字段拖到此处</value>
   </data>
   <data name="PivotGrid_GroupingBar_DropCalculations" xml:space="preserve">
-    <value>Drop Calculations Here</value>
+    <value>将计算放在此处</value>
   </data>
   <data name="PivotGrid_Header_GrandTotal" xml:space="preserve">
-    <value>Grand</value>
+    <value>大</value>
   </data>
   <data name="PivotGrid_Header_SubTotal" xml:space="preserve">
-    <value>Total</value>
+    <value>合计</value>
   </data>
   <data name="PivotSchema_Button_Update" xml:space="preserve">
-    <value>Update</value>
+    <value>更新</value>
   </data>
   <data name="PivotSchema_CheckBox_DeferUpdate" xml:space="preserve">
-    <value>Defer Layout Update</value>
+    <value>延迟布局更新</value>
   </data>
   <data name="PivotSchema_CheckBox_ShowCalulation" xml:space="preserve">
-    <value>Show Calculations as column</value>
+    <value>将计算显示为列</value>
   </data>
   <data name="PivotSchema_ComputationalInfoDialog_Caption_Description" xml:space="preserve">
-    <value>_Description</value>
+    <value>_描述</value>
   </data>
   <data name="PivotSchema_ComputationalInfoDialog_Caption_Fieldname" xml:space="preserve">
-    <value>Field Name</value>
+    <value>字段名称</value>
   </data>
   <data name="PivotSchema_ComputationalInfoDialog_Caption_Format" xml:space="preserve">
-    <value>For_mat </value>
+    <value>格式 </value>
   </data>
   <data name="PivotSchema_ComputationalInfoDialog_Caption_SummaryType" xml:space="preserve">
-    <value>_Summarize Value By</value>
+    <value>_按汇总价值</value>
   </data>
   <data name="PivotSchema_FilterWindow_Popup_Caption_Filter" xml:space="preserve">
-    <value>Filter</value>
+    <value>筛选器</value>
   </data>
   <data name="PivotSchema_HeaderPanel_Properties" xml:space="preserve">
-    <value>Properties</value>
+    <value>属性</value>
   </data>
   <data name="PivotSchema_Header_AddReport" xml:space="preserve">
-    <value>Choose Field to add to report</value>
+    <value>选择要添加到报告的字段</value>
   </data>
   <data name="PivotSchema_Header_DragArea" xml:space="preserve">
-    <value>Drag fields between areas below:</value>
+    <value>在以下区域之间拖动字段：</value>
   </data>
   <data name="PivotSchema_Header_PivotTableFieldList" xml:space="preserve">
-    <value>PivotTable Field List</value>
+    <value>数据透视表字段列表</value>
   </data>
   <data name="PivotSchema_ListBox_ColumnLabel" xml:space="preserve">
-    <value>Column Label</value>
+    <value>列标签</value>
   </data>
   <data name="PivotSchema_ListBox_ReportFilter" xml:space="preserve">
-    <value>Report Filter</value>
+    <value>报表筛选器</value>
   </data>
   <data name="PivotSchema_ListBox_RowLabel" xml:space="preserve">
-    <value>Row Label</value>
+    <value>行标签</value>
   </data>
   <data name="PivotSchema_ListBox_Values" xml:space="preserve">
-    <value>Values</value>
+    <value>值</value>
   </data>
   <data name="ShowFieldList_Dialog_HeaderText" xml:space="preserve">
-    <value>PivotTable Field List</value>
+    <value>数据透视表字段列表</value>
   </data>
   <data name="PivotGrid_ToolTip_Column" xml:space="preserve">
-    <value>Column: </value>
+    <value>列： </value>
   </data>
   <data name="PivotGrid_ToolTip_Row" xml:space="preserve">
-    <value>Row: </value>
+    <value>行： </value>
   </data>
   <data name="PivotGrid_ToolTip_Value" xml:space="preserve">
-    <value>Value: </value>
+    <value>值： </value>
   </data>
   <data name="PivotGrid_ToolTip_Empty" xml:space="preserve">
-    <value>(Empty)</value>
+    <value>（空）</value>
   </data>
   <data name="PivotSchema_ComputationalInfoDialog_Caption_CalculationType" xml:space="preserve">
-    <value>Show V_alue As</value>
+    <value>将值显示为</value>
   </data>
   <data name="PivotSchema_ComputationalInfoDialog_Caption_BaseField" xml:space="preserve">
-    <value>Base _Field</value>
+    <value>基本字段</value>
   </data>
   <data name="PivotSchema_ComputationalInfoDialog_Caption_BaseItem" xml:space="preserve">
-    <value>Base _Item</value>
+    <value>基本项目</value>
   </data>
   <data name="PivotSchema_ComputationalInfoDialog_FilterHeader" xml:space="preserve">
-    <value>Field _Header</value>
+    <value>字段标题</value>
   </data>
   <data name="MoveDown" xml:space="preserve">
-    <value>Move _Down</value>
+    <value>下移</value>
   </data>
   <data name="MoveUp" xml:space="preserve">
-    <value>Move _Up</value>
+    <value>上移</value>
   </data>
   <data name="Pivot_Value_Chooser" xml:space="preserve">
-    <value>Pivot Value Chooser</value>
+    <value>数据透视值选择器</value>
   </data>
   <data name="Insert_Calculated_Field" xml:space="preserve">
-    <value>Insert Calculated Field</value>
+    <value>插入计算字段</value>
   </data>
   <data name="PopUp_Window" xml:space="preserve">
-    <value>PopUpWindow</value>
+    <value>弹出窗口</value>
   </data>
   <data name="Pivot_Computation_Information" xml:space="preserve">
-    <value>Pivot Computation Information</value>
+    <value>数据透视计算信息</value>
   </data>
   <data name="Double_Total_Sum" xml:space="preserve">
-    <value>DoubleTotalSum</value>
+    <value>双重总和</value>
   </data>
   <data name="Double_Average" xml:space="preserve">
-    <value>DoubleAverage</value>
+    <value>双重平均</value>
   </data>
   <data name="Double_Maximun" xml:space="preserve">
-    <value>DoubleMaximum</value>
+    <value>双重最大值</value>
   </data>
   <data name="Double_Minimun" xml:space="preserve">
-    <value>DoubleMinimum</value>
+    <value>双重最小值</value>
   </data>
   <data name="Double_StandardDeviation" xml:space="preserve">
-    <value>DoubleStandardDeviation</value>
+    <value>双重标准差</value>
   </data>
   <data name="Double_Variance" xml:space="preserve">
-    <value>DoubleVariance</value>
+    <value>双方差</value>
   </data>
   <data name="Count" xml:space="preserve">
-    <value>Count</value>
+    <value>计数</value>
   </data>
   <data name="Decimal_Total_Sum" xml:space="preserve">
-    <value>DecimalTotalSum</value>
+    <value>精麦芽糖</value>
   </data>
   <data name="Int_Total_Sum" xml:space="preserve">
-    <value>IntTotalSum</value>
+    <value>整数总和</value>
   </data>
   <data name="Custom" xml:space="preserve">
-    <value>Custom</value>
+    <value>自定义</value>
   </data>
   <data name="Display_IfDiscrete_ValuesEqual" xml:space="preserve">
-    <value>DisplayIfDiscreteValuesEqual</value>
+    <value>显示如果离散值相等</value>
   </data>
   <data name="Sum" xml:space="preserve">
-    <value>Sum</value>
+    <value>总数</value>
   </data>
   <data name="Average" xml:space="preserve">
-    <value>Average</value>
+    <value>平均的</value>
   </data>
   <data name="Max" xml:space="preserve">
-    <value>Max</value>
+    <value>最大值</value>
   </data>
   <data name="Min" xml:space="preserve">
-    <value>Min</value>
+    <value>分钟</value>
   </data>
   <data name="CountNumbers" xml:space="preserve">
-    <value>CountNumbers</value>
+    <value>计数数量</value>
   </data>
   <data name="Var" xml:space="preserve">
     <value>Var</value>
@@ -376,324 +373,327 @@
     <value>VarP</value>
   </data>
   <data name="StdDev" xml:space="preserve">
-    <value>StdDev</value>
+    <value>平均值</value>
   </data>
   <data name="StdDevP" xml:space="preserve">
-    <value>StdDevP</value>
+    <value>平均值(%)</value>
   </data>
   <data name="No_Calculation" xml:space="preserve">
-    <value>NoCalculation</value>
+    <value>不计算</value>
   </data>
   <data name="PercentageOf_GrandTotal" xml:space="preserve">
-    <value>PercentageOfGrandTotal</value>
+    <value>占总数的百分比</value>
   </data>
   <data name="PercentageOf_ColumnTotal" xml:space="preserve">
-    <value>PercentageOfColumnTotal</value>
+    <value>柱总数百分比</value>
   </data>
   <data name="PercentageOf_RowTotal" xml:space="preserve">
-    <value>PercentageOfRowTotal</value>
+    <value>占行总数的百分比</value>
   </data>
   <data name="PercentageOf_Parent_ColumnTotal" xml:space="preserve">
-    <value>PercentageOfParentColumnTotal</value>
+    <value>占上级列总数的百分比</value>
   </data>
   <data name="PercentageOf_Parent_RowTotal" xml:space="preserve">
-    <value>PercentageOfParentRowTotal</value>
+    <value>占上级行总数的百分比</value>
   </data>
   <data name="PercentageOf_Parent_Total" xml:space="preserve">
-    <value>PercentageOfParentTotal</value>
+    <value>占上级总数的百分比</value>
   </data>
   <data name="Index" xml:space="preserve">
-    <value>Index</value>
+    <value>索引</value>
   </data>
   <data name="Formula" xml:space="preserve">
-    <value>Formula</value>
+    <value>公式</value>
   </data>
   <data name="PercentageOf" xml:space="preserve">
-    <value>PercentageOf</value>
+    <value>百分比</value>
   </data>
   <data name="Difference_From" xml:space="preserve">
-    <value>DifferenceFrom</value>
+    <value>差异自</value>
   </data>
   <data name="PercentageOf_Difference_From" xml:space="preserve">
-    <value>PercentageOfDifferenceFrom</value>
+    <value>差异百分比</value>
   </data>
   <data name="Running_TotalIn" xml:space="preserve">
-    <value>RunningTotalIn</value>
+    <value>运行Totalin</value>
   </data>
   <data name="PercentageOf_Running_TotalIn" xml:space="preserve">
-    <value>PercentageOfRunningTotalIn</value>
+    <value>占运行总量的百分比</value>
   </data>
   <data name="Rank_SmallestToLargest" xml:space="preserve">
-    <value>RankSmallestToLargest</value>
+    <value>从小到大的排名</value>
   </data>
   <data name="Rank_LargestToSmallest" xml:space="preserve">
-    <value>RankLargestToSmallest</value>
+    <value>从大到小的排名</value>
   </data>
   <data name="Apply" xml:space="preserve">
-    <value>Apply</value>
+    <value>应用</value>
   </data>
   <data name="ContextMenu_AllowFiltering" xml:space="preserve">
-    <value>Allow _Filtering</value>
+    <value>允许过滤</value>
   </data>
   <data name="ContextMenu_AllowSorting" xml:space="preserve">
-    <value>Allow _Sorting</value>
+    <value>允许排序</value>
   </data>
   <data name="ContextMenu_ClearFilters" xml:space="preserve">
-    <value>Clear Filters</value>
+    <value>清除筛选器</value>
   </data>
   <data name="ContextMenu_ClearSorts" xml:space="preserve">
-    <value>Clear Sorts</value>
+    <value>清除排序</value>
   </data>
   <data name="ContextMenu_DisableFiltering" xml:space="preserve">
-    <value>_Disable Filtering</value>
+    <value>_禁用筛选</value>
   </data>
   <data name="ContextMenu_DisableSorting" xml:space="preserve">
-    <value>Disable So_rting</value>
+    <value>禁用排序</value>
   </data>
   <data name="ContextMenu_HideColumn" xml:space="preserve">
-    <value>Hide Column</value>
+    <value>隐藏列</value>
   </data>
   <data name="ContextMenu_ShowPivotValueChooser" xml:space="preserve">
-    <value>Show Pivot Value Chooser</value>
+    <value>显示轴值选择器</value>
   </data>
   <data name="PivotGrid_Collapse_Group" xml:space="preserve">
-    <value>Collap_se To</value>
+    <value>折叠到</value>
   </data>
   <data name="PivotGrid_Expand_Group" xml:space="preserve">
-    <value>Exp_and To</value>
+    <value>导出到</value>
   </data>
   <data name="FilterPopUp_All" xml:space="preserve">
-    <value>(All)</value>
+    <value>（全部）</value>
   </data>
   <data name="PivotSchema_ContextMenu_Beginning" xml:space="preserve">
-    <value>Move to Be_ginning</value>
+    <value>移动到开始</value>
   </data>
   <data name="PivotSchema_ContextMenu_Down" xml:space="preserve">
-    <value>Move _Down</value>
+    <value>下移</value>
   </data>
   <data name="PivotSchema_ContextMenu_End" xml:space="preserve">
-    <value>Move to _End</value>
+    <value>移动到结束</value>
   </data>
   <data name="PivotSchema_ContextMenu_Up" xml:space="preserve">
-    <value>Move _Up</value>
+    <value>上移</value>
   </data>
   <data name="PivotSchema_ContextMenu_ToColumn" xml:space="preserve">
-    <value>Move to Column</value>
+    <value>移动到列</value>
   </data>
   <data name="PivotSchema_ContextMenu_ToFilter" xml:space="preserve">
-    <value>Move to Filter</value>
+    <value>移动到筛选器</value>
   </data>
   <data name="PivotSchema_ContextMenu_ToRow" xml:space="preserve">
-    <value>Move to Row</value>
+    <value>移动到行</value>
   </data>
   <data name="PivotSchema_ContextMenu_ToValues" xml:space="preserve">
-    <value>Move to Values</value>
+    <value>移动到值</value>
   </data>
   <data name="PivotSchema_ContextMenu_Exit" xml:space="preserve">
-    <value>Exit</value>
+    <value>退出</value>
   </data>
   <data name="PivotSchema_ContextMenu_RemoveField" xml:space="preserve">
-    <value>Remove Field</value>
+    <value>删除字段</value>
   </data>
   <data name="Filter_ComboBox_BeginsWith" xml:space="preserve">
-    <value>begins with</value>
+    <value>开头是</value>
   </data>
   <data name="Filter_ContextMenu_BeginsWith" xml:space="preserve">
-    <value>Begins W_ith...</value>
+    <value>开头是...</value>
   </data>
   <data name="Filter_ComboBox_Between" xml:space="preserve">
-    <value>between</value>
+    <value>之间</value>
   </data>
   <data name="Filter_ComboBox_Contains" xml:space="preserve">
-    <value>contains</value>
+    <value>包含</value>
   </data>
   <data name="Filter_ContextMenu_Between" xml:space="preserve">
-    <value>Bet_ween...</value>
+    <value>之间...</value>
   </data>
   <data name="Filter_ContextMenu_DoesNotContains" xml:space="preserve">
-    <value>_Does Not Contains...</value>
+    <value>不含...</value>
   </data>
   <data name="Filter_ContextMenu_DoesnotBeginsWith" xml:space="preserve">
-    <value>Does No_t Begins With...</value>
+    <value>开头不是...</value>
   </data>
   <data name="Filter_ComboBox_DoesnotBeginsWith" xml:space="preserve">
-    <value>does not begins with</value>
+    <value>开头不是</value>
   </data>
   <data name="Filter_ContextMenu_NotBetween" xml:space="preserve">
-    <value>Not _Between...</value>
+    <value>不是介于两者之间...</value>
   </data>
   <data name="Filter_ComboBox_DoesNotContains" xml:space="preserve">
-    <value>does not contains</value>
+    <value>不包含</value>
   </data>
   <data name="Filter_ContextMenu_DoesnotEndsWith" xml:space="preserve">
-    <value>Does Not Ends Wit_h...</value>
+    <value>结尾不是...</value>
   </data>
   <data name="Filter_ComboBox_DoesnotEndsWith" xml:space="preserve">
-    <value>does not ends with</value>
+    <value>结尾不是</value>
   </data>
   <data name="Filter_ContextMenu_NotEquals" xml:space="preserve">
-    <value>Does _Not Equal...</value>
+    <value>不等于...</value>
   </data>
   <data name="Filter_ComboBox_NotEquals" xml:space="preserve">
-    <value>does not equals</value>
+    <value>不等于</value>
   </data>
   <data name="Filter_ComboBox_EndsWith" xml:space="preserve">
-    <value>ends with</value>
+    <value>结尾是</value>
   </data>
   <data name="Filter_ContextMenu_EndsWith" xml:space="preserve">
-    <value>Ends Wi_th...</value>
+    <value>结尾是...</value>
   </data>
   <data name="Filter_ComboBox_Equals" xml:space="preserve">
-    <value>equals</value>
+    <value>等于</value>
   </data>
   <data name="Filter_ContextMenu_Equals" xml:space="preserve">
-    <value>_Equals...</value>
+    <value>等于...</value>
   </data>
   <data name="Filter_ContextMenu_GreaterThan" xml:space="preserve">
-    <value>_GreaterThan...</value>
+    <value>大于...</value>
   </data>
   <data name="Filter_ContextMenu_GreaterThanOrEqual" xml:space="preserve">
-    <value>Greater Than _Or Equal To...</value>
+    <value>大于或等于...</value>
   </data>
   <data name="Filter_ContextMenu_Contains" xml:space="preserve">
-    <value>Cont_ains...</value>
+    <value>包含...</value>
   </data>
   <data name="Filter_ComboBox_GreaterThan" xml:space="preserve">
-    <value>is greater than</value>
+    <value>大于</value>
   </data>
   <data name="Filter_ComboBox_GreaterThanOrEqual" xml:space="preserve">
-    <value>is greater than or equal to</value>
+    <value>大于或等于</value>
   </data>
   <data name="Filter_ComboBox_LessThan" xml:space="preserve">
-    <value>is less than</value>
+    <value>小于</value>
   </data>
   <data name="Filter_ComboBox_LessThanOrEqual" xml:space="preserve">
-    <value>is less than or equal to</value>
+    <value>小于或等于</value>
   </data>
   <data name="Filter_ContextMenu_LessThan" xml:space="preserve">
-    <value>_Less Than...</value>
+    <value>小于...</value>
   </data>
   <data name="Filter_ContextMenu_LessThanOrEqual" xml:space="preserve">
-    <value>Less Than Or E_qual To...</value>
+    <value>小于或等于...</value>
   </data>
   <data name="Filter_ComboBox_NotBetween" xml:space="preserve">
-    <value>not between</value>
+    <value>不是介于两者之间</value>
   </data>
   <data name="Top10" xml:space="preserve">
-    <value>_Top10 Filter</value>
+    <value>前 10 项过滤器</value>
   </data>
   <data name="Filter_TextBlock_And" xml:space="preserve">
-    <value>and</value>
+    <value>和</value>
   </data>
   <data name="Filter_TextBlock_LabelFilterTextWildCharacter" xml:space="preserve">
-    <value>Use ? to represent any single character</value>
+    <value>用 ? 表示任何单个字符</value>
   </data>
   <data name="Filter_TextBlock_LabelFilterTextWildCharacterforseries" xml:space="preserve">
-    <value>Use * to represent any series of characters</value>
+    <value>使用 * 表示任何字符系列</value>
   </data>
   <data name="Filter_TextBlock_ShowItems" xml:space="preserve">
-    <value>Show Items For Which</value>
+    <value>显示其项目</value>
   </data>
   <data name="MoreSortOptions_TextBlock_ShowItems" xml:space="preserve">
-    <value>Sort options</value>
+    <value>排序选项</value>
   </data>
   <data name="MoreOptions_TextBlock_ShowItems" xml:space="preserve">
-    <value>AutoSort</value>
+    <value>自动排序</value>
   </data>
   <data name="MoreOptions_TextBlock1_ShowItems" xml:space="preserve">
-    <value>First key sort order</value>
+    <value>第一个键的排序顺序</value>
   </data>
   <data name="MoreOptions_TextBlock2_ShowItems" xml:space="preserve">
-    <value>Sort By</value>
+    <value>排序方式</value>
   </data>
   <data name="MoreOptions_CheckBox_ShowItems" xml:space="preserve">
-    <value>_Sort automatically every time the report is updated</value>
+    <value>每次更新报告时自动排序</value>
   </data>
   <data name="MoreSortOptions_TextBlock_SummaryShowItems" xml:space="preserve">
-    <value>Summary</value>
+    <value>总结</value>
   </data>
   <data name="MoreSortOptions_RadioButton1_ShowItems" xml:space="preserve">
-    <value>_Manual (you can drag items to rearrange them)</value>
+    <value>手动（您可以拖动项目以重新排列它们）</value>
   </data>
   <data name="MoreSortOptions_RadioButton2_ShowItems" xml:space="preserve">
-    <value>_Ascending (A to Z) by:</value>
+    <value>升序（按A 到 Z）：</value>
   </data>
   <data name="MoreSortOptions_RadioButton3_ShowItems" xml:space="preserve">
-    <value>_Descending (Z to A) by:</value>
+    <value>降序，由（Z 到 A）：</value>
   </data>
   <data name="MoreOptions_RadioButton1_ShowItems" xml:space="preserve">
-    <value>Grand Total</value>
+    <value>总计</value>
   </data>
   <data name="LabelFilter_Window_Title" xml:space="preserve">
-    <value>Label Filter</value>
+    <value>标签过滤器</value>
   </data>
   <data name="MoreSortOptions_Window_Title" xml:space="preserve">
-    <value>Sort</value>
+    <value>排序</value>
   </data>
   <data name="MoreOptions_Window_Title" xml:space="preserve">
-    <value>More Sort Options</value>
+    <value>更多排序选项</value>
   </data>
   <data name="Top10Filter_ComboBox_Bottom" xml:space="preserve">
-    <value>Bottom</value>
+    <value>底部</value>
   </data>
   <data name="Top10Filter_ComboBox_Items" xml:space="preserve">
-    <value>Items</value>
+    <value>项目</value>
   </data>
   <data name="Top10Filter_ComboBox_Percent" xml:space="preserve">
-    <value>Percent</value>
+    <value>百分之</value>
   </data>
   <data name="Top10Filter_ComboBox_Sum" xml:space="preserve">
-    <value>Sum</value>
+    <value>总数</value>
   </data>
   <data name="Top10Filter_ComboBox_Top" xml:space="preserve">
-    <value>Top</value>
+    <value>返回顶部</value>
   </data>
   <data name="Top10Filter_TextBlock_By" xml:space="preserve">
-    <value>by</value>
+    <value>由</value>
   </data>
   <data name="Top10Filter_Window_Title" xml:space="preserve">
-    <value>Top10 Filter</value>
+    <value>前 10 项过滤器</value>
   </data>
   <data name="ValueFilter_Window_Title" xml:space="preserve">
-    <value>Value Filter</value>
+    <value>值筛选器</value>
   </data>
   <data name="CalculatedField_Decimal_Operator" xml:space="preserve">
     <value>.</value>
   </data>
   <data name="Filter_ContextMenu_ClearFilters" xml:space="preserve">
-    <value>_Clear Filters</value>
+    <value>清除过滤器</value>
   </data>
   <data name="Filter_ContextMenu_LabelFilters" xml:space="preserve">
-    <value>_Label Filters</value>
+    <value>标签过滤器</value>
   </data>
   <data name="Filter_ContextMenu_ValueFilters" xml:space="preserve">
-    <value>_Value Filters</value>
+    <value>值筛选器</value>
   </data>
   <data name="Filter_ContextMenu_SortAscending" xml:space="preserve">
-    <value>_Sort A to Z</value>
+    <value>将 A 排序到 Z</value>
   </data>
   <data name="Filter_ContextMenu_SortDescending" xml:space="preserve">
-    <value>S_ort Z to A</value>
+    <value>将 Z 排序为 A</value>
   </data>
   <data name="Filter_ContextMenu_MoreSortOptions" xml:space="preserve">
-    <value>_More Sort Options...</value>
+    <value>更多排序选项...</value>
   </data>
   <data name="AddDuplicateCalculatedFieldErrorMessage" xml:space="preserve">
-    <value>CalculatedField with same name is already exist.</value>
+    <value>同名的计算字段已经存在。</value>
   </data>
   <data name="AddEmptyCalculatedFieldFormulaErrorMessage" xml:space="preserve">
-    <value>Please provide formula to add new calculated field into PivotCalculations.</value>
+    <value>请提供公式，将新的计算字段添加到PivotCalculations。</value>
   </data>
   <data name="AddEmptyCalculatedFieldNameErrorMessage" xml:space="preserve">
-    <value>Please provide name of the field to insert.</value>
+    <value>请提供要插入的字段的名称。</value>
   </data>
   <data name="CalculatedFieldFormulaErrorMessage" xml:space="preserve">
-    <value>Please provide formula to the calculated field.</value>
+    <value>请提供计算字段的公式。</value>
   </data>
   <data name="CalculatedFieldOkButtonErrorMessage" xml:space="preserve">
-    <value>Please add a new calculated field into PivotCalculations before pressing the OK button.</value>
+    <value>请在按下确定按钮之前，在PivotCalculations中添加一个新的计算字段。</value>
   </data>
   <data name="IncompleteFormula" xml:space="preserve">
-    <value>Formula is incomplete. Please check with the formula you have provided.</value>
+    <value>公式不完整。请检查您提供的公式。</value>
+  </data>
+  <data name="PivotGrid_BusyIndicator" xml:space="preserve">
+    <value>PivotGrid 忙碌指示器</value>
   </data>
 </root>

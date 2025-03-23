@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="CubeDimensionBrowser_RightClick_Remove" xml:space="preserve">
+    <value>删除</value>
+  </data>
+  <data name="CubeDimensionBrowser_RightClick_Edit" xml:space="preserve">
+    <value>编辑</value>
+  </data>
+  <data name="OlapTools_CalcMemberEditor_Caption" xml:space="preserve">
+    <value>说明文字</value>
+  </data>
+  <data name="OlapTools_CalcMemberEditor_Expression" xml:space="preserve">
+    <value>表达式</value>
+  </data>
+  <data name="OlapTools_CalcMemberEditor_Format" xml:space="preserve">
+    <value>格式化字符串</value>
+  </data>
+  <data name="OlapTools_CalcMemberEditor_Title" xml:space="preserve">
+    <value>计算成员编辑器</value>
+  </data>
+  <data name="OlapTools_CalcMemberEditor_Type" xml:space="preserve">
+    <value>成员类型</value>
+  </data>
+  <data name="OlapTools_Editor_Cancel" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="OlapTools_Editor_Delete" xml:space="preserve">
+    <value>删除</value>
+  </data>
+  <data name="OlapTools_Editor_MoveDown" xml:space="preserve">
+    <value>下移</value>
+  </data>
+  <data name="OlapTools_Editor_MoveUp" xml:space="preserve">
+    <value>上移</value>
+  </data>
+  <data name="OlapTools_Editor_Ok" xml:space="preserve">
+    <value>确定</value>
+  </data>
+  <data name="OlapTools_Editor_SplitButton_Delete_ToolTip" xml:space="preserve">
+    <value>删除</value>
+  </data>
+  <data name="OlapTools_Editor_SplitButton_MoveDown_ToolTip" xml:space="preserve">
+    <value>下移</value>
+  </data>
+  <data name="OlapTools_Editor_SplitButton_MoveUp_ToolTip" xml:space="preserve">
+    <value>上移</value>
+  </data>
+  <data name="OlapTools_MeasureEditor_CheckAll_UnCheckAll" xml:space="preserve">
+    <value>全部选中/取消选中</value>
+  </data>
+  <data name="OlapTools_MeasureEditor_Remove_ContextMenu" xml:space="preserve">
+    <value>删除</value>
+  </data>
+  <data name="OlapTools_MeasureEditor_Title" xml:space="preserve">
+    <value>测量编辑器</value>
+  </data>
+  <data name="OlapTools_MemberEditor_CheckAll_UnCheckAll" xml:space="preserve">
+    <value>全部选中/取消选中</value>
+  </data>
+  <data name="OlapTools_MemberEditor_Title" xml:space="preserve">
+    <value>成员编辑器</value>
+  </data>
+  <data name="OlapTools_SubsetFilter_DropDown_Text" xml:space="preserve">
+    <value>要显示的最大记录数。</value>
+  </data>
+  <data name="OlapTools_HierarchySelector_Cancel_Button" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="OlapTools_HierarchySelector_Ok_Button" xml:space="preserve">
+    <value>确定</value>
+  </data>
+  <data name="OlapTools_HierarchySelector_TextBoxTitle" xml:space="preserve">
+    <value>选择层次结构</value>
+  </data>
+  <data name="OlapTools_HierarchySelector_Title" xml:space="preserve">
+    <value>层次选择器</value>
+  </data>
+  <data name="OlapTools_KpiEditor_CancelButton" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="OlapTools_KpiEditor_Goal" xml:space="preserve">
+    <value>目标</value>
+  </data>
+  <data name="OlapTools_KpiEditor_GoalExpression" xml:space="preserve">
+    <value>目标表达式</value>
+  </data>
+  <data name="OlapTools_KpiEditor_name" xml:space="preserve">
+    <value>KPI名称</value>
+  </data>
+  <data name="OlapTools_KpiEditor_OkButton" xml:space="preserve">
+    <value>确定</value>
+  </data>
+  <data name="OlapTools_KpiEditor_Status" xml:space="preserve">
+    <value>状态</value>
+  </data>
+  <data name="OlapTools_KpiEditor_StatusExpression" xml:space="preserve">
+    <value>状态表达式</value>
+  </data>
+  <data name="OlapTools_KpiEditor_StatusIndicator" xml:space="preserve">
+    <value>状态指示器</value>
+  </data>
+  <data name="OlapTools_KpiEditor_title" xml:space="preserve">
+    <value>KPI编辑器</value>
+  </data>
+  <data name="OlapTools_KpiEditor_Trend" xml:space="preserve">
+    <value>趋势</value>
+  </data>
+  <data name="OlapTools_KpiEditor_TrendExpression" xml:space="preserve">
+    <value>趋势表达式</value>
+  </data>
+  <data name="OlapTools_KpiEditor_TrendIndicator" xml:space="preserve">
+    <value>趋势指示器</value>
+  </data>
+  <data name="OlapTools_KpiEditor_Value" xml:space="preserve">
+    <value>值</value>
+  </data>
+  <data name="OlapTools_KpiEditor_ValueExpression" xml:space="preserve">
+    <value>值表达式</value>
+  </data>
+  <data name="OlapTools_KpiEditor_Shapes" xml:space="preserve">
+    <value>形状</value>
+  </data>
+  <data name="OlapTools_KpiEditor_StandardArrow" xml:space="preserve">
+    <value>标准箭头</value>
+  </data>
+  <data name="OlapTools_KpiEditor_TrafficLight" xml:space="preserve">
+    <value>交通灯</value>
+  </data>
+  <data name="OlapTools_HierarchySelector_Skip_Button" xml:space="preserve">
+    <value>跳过</value>
+  </data>
+  <data name="OlapClient_Loading_Indicator_Text" xml:space="preserve">
+    <value>加载</value>
+  </data>
+  <data name="AxisElementBuilder_RightClick_Remove" xml:space="preserve">
+    <value>删除</value>
+  </data>
+  <data name="OlapTools_AxisElementBuilder_Warning_Title" xml:space="preserve">
+    <value>异常信息：轴元素生成器</value>
+  </data>
+  <data name="OlapTools_AxisElementBuilder_Exception_MeasureKPI" xml:space="preserve">
+    <value>度量和KPI应在同一个轴上</value>
+  </data>
+  <data name="OlapTools_AxisElementBuilder_Exception_ElementExist" xml:space="preserve">
+    <value>当前轴中已存在此元素。</value>
+  </data>
+  <data name="OlapTools_AxisElementBuilder_Exception_KpiCalcMeasureSlicer" xml:space="preserve">
+    <value>由于KPI是计算得出的度量值，因此无法对其进行切片。</value>
+  </data>
+  <data name="OlapTools_AxisElementBuilder_Exception_MeasureKpiDrop" xml:space="preserve">
+    <value>如果没有措施，KPI就无法删除。</value>
+  </data>
+  <data name="OlapTools_AxisElementBuilder_Exception_MeasureVirtualKpi" xml:space="preserve">
+    <value>度量和虚拟KPI应位于同一个轴上。</value>
+  </data>
+  <data name="OlapTools_AxisElementBuilder_Exception_MeasureVirtualKpiDrop" xml:space="preserve">
+    <value>如果不采取措施，则无法删除虚拟KPI。</value>
+  </data>
+  <data name="OlapTools_AxisElementBuilder_Exception_NamedSetSlicer" xml:space="preserve">
+    <value>如果父维度存在于任何其他轴中，则切片器轴中不能存在命名集。</value>
+  </data>
+  <data name="OlapTools_CalcMemberEditor_Exception_CaptionNameExist" xml:space="preserve">
+    <value>标题名称已存在。</value>
+  </data>
+  <data name="OlapTools_CalcMemberEditor_Exception_CaptionText" xml:space="preserve">
+    <value>标题文本应为非空。</value>
+  </data>
+  <data name="OlapTools_CalcMemberEditor_Exception_CaptionTextExist" xml:space="preserve">
+    <value>标题文本为空或已存在。</value>
+  </data>
+  <data name="OlapTools_CalcMemberEditor_Exception_ExpressionText" xml:space="preserve">
+    <value>表达式文本应为非空。</value>
+  </data>
+  <data name="OlapTools_CalcMemberEditor_Exception_MeasureSlicer" xml:space="preserve">
+    <value>不能对一个以上的措施进行切分。</value>
+  </data>
+  <data name="OlapTools_CalcMemberEditor_Exception_ParentDimension" xml:space="preserve">
+    <value>请选择上级维度。</value>
+  </data>
+  <data name="OlapTools_CubeSelector_Title" xml:space="preserve">
+    <value>多维数据集选择器</value>
+  </data>
+  <data name="OlapTools_Exception_Title" xml:space="preserve">
+    <value>异常消息</value>
+  </data>
+  <data name="OlapTools_KpiEditor_Exception_KpiNameExist" xml:space="preserve">
+    <value>同名KPI已存在。请输入其他名称。</value>
+  </data>
+  <data name="OlapTools_AxisElementBuilder_Exception_VirtualKpiCalcMeasureSlicer" xml:space="preserve">
+    <value>由于虚拟KPI是计算得出的度量值，因此无法对其进行切片。</value>
+  </data>
+  <data name="OlapTools_AxisElementBuilder_Exception_OlapDataManager" xml:space="preserve">
+    <value>OlapDataManager为空。</value>
+  </data>
+  <data name="OlapTools_KpiEditor_Exception_GoalExpression" xml:space="preserve">
+    <value>目标表达式应为非空。</value>
+  </data>
+  <data name="OlapTools_KpiEditor_Exception_KpiName" xml:space="preserve">
+    <value>KPI名称应为非空。</value>
+  </data>
+  <data name="OlapTools_KpiEditor_Exception_StatusExpression" xml:space="preserve">
+    <value>状态表达式应为非空。</value>
+  </data>
+  <data name="OlapTools_KpiEditor_Exception_TrendExpression" xml:space="preserve">
+    <value>趋势表达式应为非空。</value>
+  </data>
+  <data name="OlapTools_KpiEditor_Exception_ValueExpression" xml:space="preserve">
+    <value>值表达式应为非空。</value>
+  </data>
+  <data name="OlapTools_KpiEditor_Exception_ValueGoalMeasure" xml:space="preserve">
+    <value>值和目标表达只能通过衡量来确定。</value>
+  </data>
+  <data name="OlapTools_CalcMemberEditor_Currency" xml:space="preserve">
+    <value>货币</value>
+  </data>
+  <data name="OlapTools_CalcMemberEditor_Custom" xml:space="preserve">
+    <value>自定义</value>
+  </data>
+  <data name="OlapTools_CalcMemberEditor_Dimension" xml:space="preserve">
+    <value>尺寸</value>
+  </data>
+  <data name="OlapTools_CalcMemberEditor_Measure" xml:space="preserve">
+    <value>测量</value>
+  </data>
+  <data name="OlapTools_CalcMemberEditor_Percent" xml:space="preserve">
+    <value>百分比</value>
+  </data>
+  <data name="OlapTools_CalcMemberEditor_Standard" xml:space="preserve">
+    <value>标准</value>
+  </data>
+  <data name="OlapTools_CalcMemberEditor_Exception_ElementDrop" xml:space="preserve">
+    <value>表达式只能用度量值或维度来框定。</value>
+  </data>
+  <data name="OlapTools_CalcMemberEditor_Exception_Title" xml:space="preserve">
+    <value>更新错误</value>
+  </data>
+  <data name="StackTrace_Exception_Description" xml:space="preserve">
+    <value>有关更多详细信息，请参阅以下位置的日志文件 : </value>
+  </data>
+</root>

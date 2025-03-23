@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -118,415 +118,411 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AllDay" xml:space="preserve">
-    <value>All Day</value>
+    <value>整天</value>
   </data>
   <data name="April" xml:space="preserve">
-    <value>April</value>
+    <value>四月</value>
   </data>
   <data name="August" xml:space="preserve">
-    <value>August</value>
+    <value>八月</value>
   </data>
   <data name="Busy" xml:space="preserve">
-    <value>Busy</value>
+    <value>忙碌</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>取消</value>
   </data>
   <data name="ChooseDate" xml:space="preserve">
-    <value>Choose Date</value>
+    <value>选择日期</value>
   </data>
   <data name="Daily" xml:space="preserve">
-    <value>Daily</value>
+    <value>每日</value>
   </data>
   <data name="Day" xml:space="preserve">
-    <value>Day</value>
+    <value>日</value>
   </data>
   <data name="Day(s)" xml:space="preserve">
-    <value>Day(s)</value>
+    <value>天</value>
   </data>
   <data name="December" xml:space="preserve">
-    <value>December</value>
+    <value>十二月</value>
   </data>
   <data name="Delete" xml:space="preserve">
-    <value>Delete</value>
+    <value>删除</value>
   </data>
   <data name="EighteenHours" xml:space="preserve">
-    <value>EighteenHours</value>
+    <value>十八小时</value>
   </data>
   <data name="EightHours" xml:space="preserve">
-    <value>EightHours</value>
+    <value>八小时</value>
   </data>
   <data name="ElevenHours" xml:space="preserve">
-    <value>ElevenHours</value>
+    <value>十一小时</value>
   </data>
   <data name="End" xml:space="preserve">
-    <value>End</value>
+    <value>结束</value>
   </data>
   <data name="EndAfter" xml:space="preserve">
-    <value>EndAfter</value>
+    <value>结束后</value>
   </data>
   <data name="EndBy" xml:space="preserve">
-    <value>EndBy</value>
+    <value>结束</value>
   </data>
   <data name="Every" xml:space="preserve">
-    <value>Every</value>
+    <value>每</value>
   </data>
   <data name="EveryDay" xml:space="preserve">
-    <value>EveryDay</value>
+    <value>每天</value>
   </data>
   <data name="EveryMonth" xml:space="preserve">
-    <value>EveryMonth</value>
+    <value>每个月</value>
   </data>
   <data name="EveryWeek" xml:space="preserve">
-    <value>EveryWeek</value>
+    <value>每周</value>
   </data>
   <data name="EveryWeekday" xml:space="preserve">
-    <value>EveryWeekday</value>
+    <value>每周</value>
   </data>
   <data name="EveryWeekDays" xml:space="preserve">
-    <value>EveryWeekDays</value>
+    <value>每周</value>
   </data>
   <data name="EveryYear" xml:space="preserve">
-    <value>EveryYear</value>
+    <value>每年</value>
   </data>
   <data name="February" xml:space="preserve">
-    <value>February</value>
+    <value>二月</value>
   </data>
   <data name="FifteenMin" xml:space="preserve">
-    <value>FifteenMin</value>
+    <value>十五分钟</value>
   </data>
   <data name="First" xml:space="preserve">
-    <value>First</value>
+    <value>第一</value>
   </data>
   <data name="FiveHours" xml:space="preserve">
-    <value>FiveHours</value>
+    <value>五小时</value>
   </data>
   <data name="FiveMin" xml:space="preserve">
-    <value>FiveMin</value>
+    <value>五分钟</value>
   </data>
   <data name="FourDays" xml:space="preserve">
-    <value>FourDays</value>
+    <value>四天</value>
   </data>
   <data name="FourHours" xml:space="preserve">
-    <value>FourHours</value>
+    <value>四小时</value>
   </data>
   <data name="Fourth" xml:space="preserve">
-    <value>Fourth</value>
+    <value>第四</value>
   </data>
   <data name="Free" xml:space="preserve">
-    <value>Free</value>
+    <value>自由</value>
   </data>
   <data name="Friday" xml:space="preserve">
-    <value>Friday</value>
+    <value>星期五</value>
   </data>
   <data name="HalfDay" xml:space="preserve">
-    <value>HalfDay</value>
+    <value>半天</value>
   </data>
   <data name="HowOften" xml:space="preserve">
-    <value>HowOften</value>
+    <value>多久一次</value>
   </data>
   <data name="January" xml:space="preserve">
-    <value>January</value>
+    <value>一月</value>
   </data>
   <data name="July" xml:space="preserve">
-    <value>July</value>
+    <value>七月</value>
   </data>
   <data name="June" xml:space="preserve">
-    <value>June</value>
+    <value>六月</value>
   </data>
   <data name="Location" xml:space="preserve">
-    <value>Location</value>
+    <value>位置</value>
   </data>
   <data name="March" xml:space="preserve">
-    <value>March</value>
+    <value>三月</value>
   </data>
   <data name="May" xml:space="preserve">
-    <value>May</value>
+    <value>五月</value>
   </data>
   <data name="Monday" xml:space="preserve">
-    <value>Monday</value>
+    <value>星期一</value>
   </data>
   <data name="Month(s)on" xml:space="preserve">
-    <value>Month(s) on</value>
+    <value>月(次)日</value>
   </data>
   <data name="Monthly" xml:space="preserve">
-    <value>Monthly</value>
+    <value>每月</value>
   </data>
   <data name="NineHours" xml:space="preserve">
-    <value>NineHours</value>
+    <value>九小时</value>
   </data>
   <data name="NoEndDate" xml:space="preserve">
-    <value>No End Date</value>
+    <value>无结束日期</value>
   </data>
   <data name="None" xml:space="preserve">
-    <value>None</value>
+    <value>无</value>
   </data>
   <data name="Notes" xml:space="preserve">
-    <value>Notes</value>
+    <value>笔记</value>
   </data>
   <data name="November" xml:space="preserve">
-    <value>November</value>
+    <value>十一月</value>
   </data>
   <data name="October" xml:space="preserve">
-    <value>October</value>
+    <value>十月</value>
   </data>
   <data name="Once" xml:space="preserve">
-    <value>Once</value>
+    <value>一次</value>
   </data>
   <data name="OneDay" xml:space="preserve">
-    <value>OneDay</value>
+    <value>一天</value>
   </data>
   <data name="OneHour" xml:space="preserve">
-    <value>OneHour</value>
+    <value>一小时</value>
   </data>
   <data name="OneWeek" xml:space="preserve">
-    <value>OneWeek</value>
+    <value>一周</value>
   </data>
   <data name="Out Of Office" xml:space="preserve">
-    <value>Out Of Office</value>
+    <value>外出</value>
   </data>
   <data name="RangeOfRecurrence" xml:space="preserve">
-    <value>Range Of Recurrence</value>
+    <value>复发范围</value>
   </data>
   <data name="ReadOnly" xml:space="preserve">
-    <value>Read Only</value>
+    <value>只读</value>
   </data>
   <data name="ReadOnlyOff" xml:space="preserve">
-    <value>ReadOnly Off</value>
+    <value>只读关闭</value>
   </data>
   <data name="ReadOnlyOn" xml:space="preserve">
-    <value>ReadOnly On</value>
+    <value>只读开启</value>
   </data>
   <data name="RecurEvery" xml:space="preserve">
-    <value>Recur Every</value>
+    <value>重复间隔</value>
   </data>
   <data name="Recurrence" xml:space="preserve">
-    <value>Recurrence</value>
+    <value>复发</value>
   </data>
   <data name="RecurrenceDisabled" xml:space="preserve">
-    <value>Recurrence Disabled</value>
+    <value>已禁用重复周期</value>
   </data>
   <data name="RecurrenceEnabled" xml:space="preserve">
-    <value>* Recurrence Enabled *</value>
+    <value>* 启用重复周期 *</value>
   </data>
   <data name="Reminder" xml:space="preserve">
-    <value>Reminder</value>
+    <value>提醒</value>
   </data>
   <data name="Saturday" xml:space="preserve">
-    <value>Saturday</value>
+    <value>星期六</value>
   </data>
   <data name="Save" xml:space="preserve">
-    <value>Save</value>
+    <value>保存</value>
   </data>
   <data name="Second" xml:space="preserve">
-    <value>Second</value>
+    <value>第二</value>
   </data>
   <data name="September" xml:space="preserve">
-    <value>September</value>
+    <value>九月</value>
   </data>
   <data name="SevenHours" xml:space="preserve">
-    <value>SevenHours</value>
+    <value>七小时</value>
   </data>
   <data name="ShowMore" xml:space="preserve">
-    <value>ShowMore</value>
+    <value>显示更多</value>
   </data>
   <data name="SixHours" xml:space="preserve">
-    <value>SixHours</value>
+    <value>六小时</value>
   </data>
   <data name="Start" xml:space="preserve">
-    <value>Start</value>
+    <value>开始</value>
   </data>
   <data name="StartDate" xml:space="preserve">
-    <value>Start Date</value>
+    <value>开始日期</value>
   </data>
   <data name="Status" xml:space="preserve">
-    <value>Status</value>
+    <value>状态</value>
   </data>
   <data name="Subject" xml:space="preserve">
-    <value>Subject</value>
+    <value>主题</value>
   </data>
   <data name="Sunday" xml:space="preserve">
-    <value>Sunday</value>
+    <value>星期日</value>
   </data>
   <data name="TenHours" xml:space="preserve">
-    <value>TenHours</value>
+    <value>十小时</value>
   </data>
   <data name="TenMin" xml:space="preserve">
-    <value>TenMin</value>
+    <value>十分钟</value>
   </data>
   <data name="Tentative" xml:space="preserve">
-    <value>Tentative</value>
+    <value>暂时的</value>
   </data>
   <data name="Third" xml:space="preserve">
-    <value>Third</value>
+    <value>第三</value>
   </data>
   <data name="ThirtyMin" xml:space="preserve">
-    <value>ThirtyMin</value>
+    <value>三十分钟</value>
   </data>
   <data name="ThreeDays" xml:space="preserve">
-    <value>ThreeDays</value>
+    <value>三天</value>
   </data>
   <data name="ThreeHours" xml:space="preserve">
-    <value>ThreeHours</value>
+    <value>三小时</value>
   </data>
   <data name="Thursday" xml:space="preserve">
-    <value>Thursday</value>
+    <value>星期四</value>
   </data>
   <data name="Tuesday" xml:space="preserve">
-    <value>Tuesday</value>
+    <value>星期二</value>
   </data>
   <data name="TweleveHours" xml:space="preserve">
-    <value>TweleveHours</value>
+    <value>十二小时</value>
   </data>
   <data name="TwoDays" xml:space="preserve">
-    <value>TwoDays</value>
+    <value>两天</value>
   </data>
   <data name="TwoHours" xml:space="preserve">
-    <value>TwoHours</value>
+    <value>两小时</value>
   </data>
   <data name="TwoWeeks" xml:space="preserve">
-    <value>TwoWeeks</value>
+    <value>两周</value>
   </data>
   <data name="Wednesday" xml:space="preserve">
-    <value>Wednesday</value>
+    <value>星期三</value>
   </data>
   <data name="Week(s)on" xml:space="preserve">
-    <value>Week(s) on</value>
+    <value>周上</value>
   </data>
   <data name="Weekly" xml:space="preserve">
-    <value>Weekly</value>
+    <value>每周</value>
   </data>
   <data name="Where" xml:space="preserve">
-    <value>Where</value>
+    <value>哪里</value>
   </data>
   <data name="Year(s)on" xml:space="preserve">
-    <value>Year(s) on</value>
+    <value>年</value>
   </data>
   <data name="Yearly" xml:space="preserve">
-    <value>Yearly</value>
+    <value>每年</value>
   </data>
   <data name="ZeroMin" xml:space="preserve">
-    <value>ZeroMin</value>
+    <value>零分</value>
   </data>
   <data name="AppointmentEdit" xml:space="preserve">
-    <value>Appointment Editor</value>
+    <value>预约编辑器</value>
   </data>
   <data name="RemoveRecurrence" xml:space="preserve">
-    <value>Remove Recurrence</value>
+    <value>删除重复周期</value>
   </data>
   <data name="EditRecurrence" xml:space="preserve">
-    <value>Edit Recurrence</value>
+    <value>编辑重复周期</value>
   </data>
   <data name="ErrorMessage" xml:space="preserve">
-    <value>* Invalid Start and End Time *</value>
+    <value>* 无效的开始和结束时间 *</value>
   </data>
   <data name="RecurrencePattern" xml:space="preserve">
-    <value>Recurrence Pattern</value>
+    <value>递归模式</value>
   </data>
   <data name="OK" xml:space="preserve">
-    <value>OK</value>
+    <value>确定</value>
   </data>
   <data name="Add" xml:space="preserve">
-    <value>Add</value>
+    <value>增加</value>
   </data>
   <data name="Copy" xml:space="preserve">
-    <value>Copy</value>
+    <value>复制</value>
   </data>
   <data name="Edit" xml:space="preserve">
-    <value>Edit</value>
+    <value>编辑</value>
   </data>
   <data name="Paste" xml:space="preserve">
-    <value>Paste</value>
+    <value>粘贴</value>
   </data>
   <data name="Resize" xml:space="preserve">
-    <value>Resize</value>
+    <value>调整</value>
   </data>
   <data name="DeleteRecurringDialogHeader" xml:space="preserve">
-    <value>Confirm Delete</value>
-    <comment>Title content of dialog that is displayed when deleting a recurring appointment.</comment>
+    <value>确认删除</value>
   </data>
   <data name="DeleteOccurrence" xml:space="preserve">
-    <value>Delete this occurrence</value>
+    <value>删除此匹配项</value>
   </data>
   <data name="DeleteSeries" xml:space="preserve">
-    <value>Delete this series</value>
+    <value>删除此系列</value>
   </data>
   <data name="DeleteRecurringDialogContent" xml:space="preserve">
-    <value>Do you want to delete all occurence of the recurring appointment [], or just this one?</value>
-    <comment>'[]' replaced by selected appointemnt subject</comment>
+    <value>您是要删除定期约会的所有实例 []，还是仅删除此约会？</value>
   </data>
   <data name="Open Recurring Item" xml:space="preserve">
-    <value>Open Recurring Item</value>
-    <comment>Title content of dialog that is displayed when Editing a recurring appointment.</comment>
+    <value>打开定期项目</value>
   </data>
   <data name="Just this one" xml:space="preserve">
-    <value>Just this one</value>
+    <value>就这个</value>
   </data>
   <data name="The entire series" xml:space="preserve">
-    <value>The entire series</value>
+    <value>整个系列</value>
   </data>
   <data name="This is one appointment in a series. What do you want to open?" xml:space="preserve">
-    <value>This is one appointment in a series. What do you want to open?</value>
-    <comment>Edit confirmation dialog content that is displayed when editing a recurring appointment</comment>
+    <value>这是一个系列中的一个约会。您想打开什么？</value>
   </data>
   <data name="AddNew" xml:space="preserve">
-    <value>AddNew</value>
+    <value>添加新的</value>
   </data>
   <data name="Close" xml:space="preserve">
-    <value>Close</value>
+    <value>关闭</value>
   </data>
   <data name="days" xml:space="preserve">
-    <value>days</value>
+    <value>天数</value>
   </data>
   <data name="DragDrop" xml:space="preserve">
-    <value>DragDrop</value>
+    <value>拖动拖放</value>
   </data>
   <data name="Events" xml:space="preserve">
-    <value>Events</value>
+    <value>事件</value>
   </data>
   <data name="hour" xml:space="preserve">
-    <value>hour</value>
+    <value>小时</value>
   </data>
   <data name="hours" xml:space="preserve">
-    <value>hours</value>
+    <value>小时</value>
   </data>
   <data name="Minutes" xml:space="preserve">
-    <value>Minutes</value>
+    <value>分钟</value>
   </data>
   <data name="More" xml:space="preserve">
-    <value>More</value>
+    <value>更多</value>
   </data>
   <data name="View" xml:space="preserve">
-    <value>View</value>
+    <value>视图</value>
   </data>
   <data name="week" xml:space="preserve">
-    <value>week</value>
+    <value>周</value>
   </data>
   <data name="weeks" xml:space="preserve">
-    <value>weeks</value>
+    <value>星期</value>
   </data>
   <data name="Click Snooze to be reminded in:" xml:space="preserve">
-    <value>Click Snooze to be reminded in:</value>
+    <value>单击“延后”以在以下位置收到提醒：</value>
   </data>
   <data name="Dismiss" xml:space="preserve">
-    <value>Dismiss</value>
+    <value>撤销</value>
   </data>
   <data name="Dismiss All" xml:space="preserve">
-    <value>Dismiss All</value>
+    <value>全部撤销</value>
   </data>
   <data name="Last" xml:space="preserve">
-    <value>Last</value>
+    <value>最后</value>
   </data>
   <data name="Reminder(s)" xml:space="preserve">
-    <value>Reminder(s)</value>
+    <value>提醒</value>
   </data>
   <data name="Reminders are Selected" xml:space="preserve">
-    <value>Reminders are Selected</value>
+    <value>已选择提醒</value>
   </data>
   <data name="SaveRecurrence" xml:space="preserve">
-    <value>SaveRecurrence</value>
+    <value>保存周期</value>
   </data>
   <data name="Snooze" xml:space="preserve">
-    <value>Snooze</value>
+    <value>休眠</value>
   </data>
 </root>

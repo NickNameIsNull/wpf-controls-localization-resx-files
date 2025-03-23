@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -118,347 +118,261 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AddNewRowText" xml:space="preserve">
-    <value>Click here to add a new row</value>
-    <comment>Add new row water mark text.</comment>
+    <value>单击此处添加新行</value>
   </data>
   <data name="AdvancedFiltersButtonText" xml:space="preserve">
-    <value>Advanced Filters</value>
-    <comment>Text for Advanced Filters button</comment>
+    <value>高级过滤器</value>
   </data>
   <data name="After" xml:space="preserve">
-    <value>After</value>
-    <comment>Text for After</comment>
+    <value>在指定日期之后</value>
   </data>
   <data name="AfterOrEqual" xml:space="preserve">
-    <value>After Or Equal</value>
-    <comment>Text for AfterOrEqual</comment>
+    <value>在指定日期之后或与之相同</value>
   </data>
   <data name="AND" xml:space="preserve">
-    <value>And</value>
-    <comment>Text for AND Operator</comment>
+    <value>和</value>
   </data>
   <data name="Before" xml:space="preserve">
-    <value>Before</value>
-    <comment>Text for Before</comment>
+    <value>在指定日期之前</value>
   </data>
   <data name="BeforeOrEqual" xml:space="preserve">
-    <value>Before Or Equal</value>
-    <comment>Text for BeforeOrEqual</comment>
+    <value>在指定日期之前或与之相同</value>
   </data>
   <data name="BeginsWith" xml:space="preserve">
-    <value>Begins With</value>
-    <comment>Text for BeginsWith</comment>
+    <value>开头是</value>
   </data>
   <data name="Blanks" xml:space="preserve">
-    <value>(Blanks)</value>
-    <comment>Text for Blank filters</comment>
+    <value>（毛坯）</value>
   </data>
   <data name="Bottom" xml:space="preserve">
-    <value>Bottom :</value>
-    <comment>Text for Bottom</comment>
+    <value>底部：</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
-    <comment>Text for Cancel</comment>
+    <value>取消</value>
   </data>
   <data name="ClearFilter" xml:space="preserve">
-    <value>Clear Filter</value>
-    <comment>Text for Clear filters</comment>
+    <value>清除筛选器</value>
   </data>
   <data name="Close" xml:space="preserve">
-    <value>Close</value>
-    <comment>Tooltip text for Close </comment>
+    <value>关闭</value>
   </data>
   <data name="ColumnChooserTitle" xml:space="preserve">
-    <value>Column Chooser</value>
-    <comment>Column Chooser Window Title</comment>
+    <value>列选择器</value>
   </data>
   <data name="ColumnChooserWaterMark" xml:space="preserve">
-    <value>(No Fields Available)</value>
-    <comment>Empty Column Chooser Water Mark Text</comment>
+    <value>（无可用字段）</value>
   </data>
   <data name="Contains" xml:space="preserve">
-    <value>Contains</value>
-    <comment>Text for Contains</comment>
+    <value>包含</value>
   </data>
   <data name="CustomMargin" xml:space="preserve">
-    <value>Custom Margin</value>
-    <comment>Text for PrintDialog CustomMargin</comment>
+    <value>自定义边距</value>
   </data>
   <data name="CustomMargins" xml:space="preserve">
-    <value>Custom Margins</value>
-    <comment>Text for PrintDialog CustomMargins</comment>
+    <value>自定义边距</value>
   </data>
   <data name="CustomPageSizes" xml:space="preserve">
-    <value>Custom Page Sizes</value>
-    <comment>Text for PrintDialog  CustomPageSizes</comment>
+    <value>自定义页面大小</value>
   </data>
   <data name="CustomSize" xml:space="preserve">
-    <value>Custom Size</value>
-    <comment>Text for PrintDialog CustomSize</comment>
+    <value>自定义尺寸</value>
   </data>
   <data name="DateFilters" xml:space="preserve">
-    <value>Date Filters</value>
-    <comment>Text for DateFilters</comment>
+    <value>日期筛选器</value>
   </data>
   <data name="Done" xml:space="preserve">
-    <value>Done</value>
-    <comment>Text for Done button</comment>
+    <value>完成</value>
   </data>
   <data name="Empty" xml:space="preserve">
-    <value>Empty</value>
-    <comment>Text for Empty</comment>
+    <value>空</value>
   </data>
   <data name="EndsWith" xml:space="preserve">
-    <value>Ends With</value>
-    <comment>Text for EndsWith</comment>
+    <value>结尾是</value>
   </data>
   <data name="EnterValidFilterValue" xml:space="preserve">
-    <value>Enter Valid Filter Value</value>
-    <comment>Text for EnterValidFilterValue</comment>
+    <value>输入有效的筛选器值</value>
   </data>
   <data name="Equalss" xml:space="preserve">
-    <value>Equals</value>
-    <comment>Text for Equals</comment>
+    <value>等于</value>
   </data>
   <data name="FitAllColumnsOnOnePage" xml:space="preserve">
-    <value>Fit All Columns on One Page</value>
-    <comment>Text for FitAllColumnsOnOnePage in PrintDialog window</comment>
+    <value>将所有列放在一个页面上</value>
   </data>
   <data name="FitAllRowsOnOnePage" xml:space="preserve">
-    <value>Fit All Rows on One Page</value>
-    <comment>Text for FitAllRowsOnOnePage in PrintDialog window</comment>
+    <value>使所有行适合一页</value>
   </data>
   <data name="FitGridOnOnePage" xml:space="preserve">
-    <value>Fit Grid on One Page</value>
-    <comment>Text for FitGridOnOnePage in PrintDialog window</comment>
+    <value>使网格适合一页</value>
   </data>
   <data name="GreaterThan" xml:space="preserve">
-    <value>Greater Than</value>
-    <comment>Text for GreaterThan</comment>
+    <value>大于</value>
   </data>
   <data name="GreaterThanorEqual" xml:space="preserve">
-    <value>Greater Than or Equal</value>
-    <comment>Text for GreaterThanorEqual</comment>
+    <value>大于或等于</value>
   </data>
   <data name="GroupDropAreaText" xml:space="preserve">
-    <value>Drag a column header here to group by that column</value>
-    <comment>Text for GroupDropArea</comment>
+    <value>将列标题拖动到此处以按该列分组</value>
   </data>
   <data name="Height" xml:space="preserve">
-    <value>Height :</value>
-    <comment>Text for Height of page size in PrintDialog</comment>
+    <value>高度：</value>
   </data>
   <data name="LandScapeOrientation" xml:space="preserve">
-    <value>LandScape Orientation</value>
-    <comment>Text for LandScape Orientation of Print Dialog window</comment>
+    <value>横向</value>
   </data>
   <data name="Left" xml:space="preserve">
-    <value>Left :</value>
-    <comment>Text for Left margin of PrintDialog</comment>
+    <value>左：</value>
   </data>
   <data name="LessThan" xml:space="preserve">
-    <value>Less Than</value>
-    <comment>Text for Less Than</comment>
+    <value>小于</value>
   </data>
   <data name="LessThanorEqual" xml:space="preserve">
-    <value>Less Than or Equal</value>
-    <comment>Text for LessThanorEqual</comment>
+    <value>小于或等于</value>
   </data>
   <data name="MatchCaseToolTip" xml:space="preserve">
-    <value>Match Case </value>
-    <comment>Tooltip text for Match Case on AdvancedFiltering Popup</comment>
+    <value>区分大小写 </value>
   </data>
   <data name="Moderate" xml:space="preserve">
-    <value>Moderate</value>
-    <comment>Text for Moderate margin in PrintDialog</comment>
+    <value>中等</value>
   </data>
   <data name="Narrow" xml:space="preserve">
-    <value>Narrow</value>
-    <comment>Text for Narrow margin in PrintDialog</comment>
+    <value>窄</value>
   </data>
   <data name="NoItems" xml:space="preserve">
-    <value>No Items</value>
-    <comment>No Items to Display</comment>
+    <value>暂无项目</value>
   </data>
   <data name="NoMatches" xml:space="preserve">
-    <value>No Matches</value>
-    <comment>No Items match </comment>
+    <value>无匹配项</value>
   </data>
   <data name="Normal" xml:space="preserve">
-    <value>Normal</value>
-    <comment>Text for Normal margin in PrintDialog</comment>
+    <value>正常</value>
   </data>
   <data name="NoScaling" xml:space="preserve">
-    <value>No Scaling</value>
-    <comment>Text for NoScaling in PrintDialog window</comment>
+    <value>无缩放</value>
   </data>
   <data name="NotContains" xml:space="preserve">
-    <value>Does Not Contain</value>
-    <comment>Text for NotContains</comment>
+    <value>不包含</value>
   </data>
   <data name="NotEmpty" xml:space="preserve">
-    <value>Not Empty</value>
-    <comment>Text for NotEmpty</comment>
+    <value>不为空</value>
   </data>
   <data name="NotEquals" xml:space="preserve">
-    <value>Does Not Equal</value>
-    <comment>Text For NotEquals</comment>
+    <value>不等于</value>
   </data>
   <data name="NotNull" xml:space="preserve">
-    <value>Not Null</value>
-    <comment>Text for NotNull</comment>
+    <value>不为Null</value>
   </data>
   <data name="Null" xml:space="preserve">
     <value>Null</value>
-    <comment>Text for Null</comment>
   </data>
   <data name="NumberFilters" xml:space="preserve">
-    <value>Number Filters</value>
-    <comment>Text for NumberFilters</comment>
+    <value>数字筛选器</value>
   </data>
   <data name="OK" xml:space="preserve">
-    <value>OK</value>
-    <comment>Text for OK</comment>
+    <value>确定</value>
   </data>
   <data name="OR" xml:space="preserve">
-    <value>Or</value>
-    <comment>Text for OR Operator</comment>
+    <value>或</value>
   </data>
   <data name="PortraitOrientation" xml:space="preserve">
-    <value>Portrait Orientation</value>
-    <comment>Text for Portrait Orientation of PrintDialog</comment>
+    <value>纵向</value>
   </data>
   <data name="Print" xml:space="preserve">
-    <value>Print</value>
-    <comment>Text for Print option in PrintDialog</comment>
+    <value>打印</value>
   </data>
   <data name="PrintPreview" xml:space="preserve">
-    <value>Print Preview</value>
-    <comment>Text for PrintPreview in PrintDialog </comment>
+    <value>打印预览</value>
   </data>
   <data name="QuickPrint" xml:space="preserve">
-    <value>Quick Print</value>
-    <comment>Text for Quick Print option in PrintDialog</comment>
+    <value>快速打印</value>
   </data>
   <data name="Right" xml:space="preserve">
-    <value>Right :</value>
-    <comment>Text for Right margin of PrintDialog</comment>
+    <value>右：</value>
   </data>
   <data name="RowErrorMessage" xml:space="preserve">
-    <value>Row Containing Error</value>
-    <comment>Error Indication by INotifyDataErrorInfo</comment>
+    <value>包含错误的行</value>
   </data>
   <data name="Search" xml:space="preserve">
-    <value>Search</value>
-    <comment>Search water mark</comment>
+    <value>搜索</value>
   </data>
   <data name="SelectAll" xml:space="preserve">
-    <value>(Select All)</value>
-    <comment>Text for Select All</comment>
+    <value>（全选）</value>
   </data>
   <data name="SelectDateToolTip" xml:space="preserve">
-    <value>Select Date</value>
-    <comment>Tooltip text for Select Date on AdvancedFiltering Popup</comment>
+    <value>选择日期</value>
   </data>
   <data name="ShowRowsWhere" xml:space="preserve">
-    <value>Show rows where:</value>
-    <comment>Text for show rows Textblock in AdvancedFilter</comment>
+    <value>显示行，其中：</value>
   </data>
   <data name="SortDateAscending" xml:space="preserve">
-    <value>Sort Oldest to Newest</value>
-    <comment>Text for Sort Ascending</comment>
+    <value>从最旧到最新排序</value>
   </data>
   <data name="SortDateDescending" xml:space="preserve">
-    <value>Sort Newest to Oldest</value>
-    <comment>Text for Sort Descending</comment>
+    <value>从最新到最旧排序</value>
   </data>
   <data name="SortNumberAscending" xml:space="preserve">
-    <value>Sort Smallest to Largest</value>
-    <comment>Text for Sort Ascending</comment>
+    <value>从小到大排序</value>
   </data>
   <data name="SortNumberDescending" xml:space="preserve">
-    <value>Sort Largest to Smallest</value>
-    <comment>Text for Sort Descending</comment>
+    <value>从大到小排序</value>
   </data>
   <data name="SortStringAscending" xml:space="preserve">
-    <value>Sort A to Z</value>
-    <comment>Text for Sort Ascending</comment>
+    <value>将 A 排序到 Z</value>
   </data>
   <data name="SortStringDescending" xml:space="preserve">
-    <value>Sort Z to A</value>
-    <comment>Text for Sort Descending</comment>
+    <value>将 Z 排序为 A</value>
   </data>
   <data name="TextFilters" xml:space="preserve">
-    <value>Text Filters</value>
-    <comment>Text for TextFilters</comment>
+    <value>文本过滤器</value>
   </data>
   <data name="Top" xml:space="preserve">
-    <value>Top :</value>
-    <comment>Text for Top margin of PrintDialog</comment>
+    <value>返回页首：</value>
   </data>
   <data name="Wide" xml:space="preserve">
-    <value>Wide</value>
-    <comment>Text for Wide margin in PrintDialog</comment>
+    <value>宽</value>
   </data>
   <data name="Width" xml:space="preserve">
-    <value>Width :</value>
-    <comment>Text for Width of page size in PrintDialog</comment>
+    <value>宽度：</value>
   </data>
   <data name="CantDropHere" xml:space="preserve">
-    <value>Cannot drop here</value>
-    <comment>Text for Cannot drop here in RowDragAndDrop popup</comment>
+    <value>不能放在这里</value>
   </data>
   <data name="DraggingRowsCount" xml:space="preserve">
-    <value>Dragging rows count :  </value>
-    <comment>Text for Dragging rows count in DragAndDrop popup</comment>
+    <value>拖动行数 :  </value>
   </data>
   <data name="DropAbove" xml:space="preserve">
-    <value>Drop above</value>
-    <comment>Text for Drop above in RowDragAndDrop popup</comment>
+    <value>落到上方</value>
   </data>
   <data name="DropAsChild" xml:space="preserve">
-    <value>Drop as child</value>
-    <comment>Text for Drop as child in RowDragAndDrop popup of TreeGrid</comment>
+    <value>放到子项</value>
   </data>
   <data name="DropBelow" xml:space="preserve">
-    <value>Drop below</value>
-    <comment>Text for Drop below in RowDragAndDrop popup</comment>
+    <value>放到下面</value>
   </data>
   <data name="DropStatus" xml:space="preserve">
-    <value>Drop status : </value>
-    <comment>Text for Drop status in RowDragAndDrop popup</comment>
+    <value>放到状态 ： </value>
   </data>
   <data name="DropHere" xml:space="preserve">
-    <value>Drop here</value>
-    <comment>Text for Drophere in RowDragAndDrop popup</comment>
+    <value>放在这里</value>
   </data>
   <data name="NotBeginsWith" xml:space="preserve">
-    <value>Does Not Begin With</value>
-    <comment>Text for NotBeginsWith</comment>
+    <value>开头不是</value>
   </data>
   <data name="NotEndsWith" xml:space="preserve">
-    <value>Does Not End With</value>
-    <comment>Text for NotEndsWith</comment>
+    <value>结尾不是</value>
   </data>
   <data name="CurrentPage" xml:space="preserve">
-    <value>Current Page</value>
-    <comment>Text denotes the Current Page of Page Text Box in PrintDialog</comment>
+    <value>当前页面</value>
   </data>
   <data name="PrintPageNumberValidationMessage" xml:space="preserve">
-    <value>Entry must be a Number</value>
-    <comment>Text for Page Text Box Entry must be a Number in PrintDialog</comment>
+    <value>输入必须是数字</value>
   </data>
   <data name="PrintPageMaxValidationMessage" xml:space="preserve">
-    <value>Entry must be greater than or equal to 1</value>
-    <comment>Text for Page Text Box Entry Greater Than Or Equal To One in PrintDialog</comment>
+    <value>输入必须大于或等于1</value>
   </data>
   <data name="PrintPageMinValidationMessage" xml:space="preserve">
-    <value>Entry must be less than or equal to</value>
-    <comment>Text for Page Text Box Entry Less Than Or Equal To Page Count in PrintDialog</comment>
+    <value>输入必须小于或等于</value>
   </data>
   <data name="PositivePageNumberValidationMessage" xml:space="preserve">
-    <value>Entry must be positive value</value>
-    <comment>Text for Page Text Box Entry must be positive value in PrintDialog</comment>
+    <value>输入必须为正值</value>
   </data>
 </root>

@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="OlapTools_FilterSorting_Dlg_Cancel" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="OlapTools_FilterSorting_Dlg_EmptyResult_Header" xml:space="preserve">
+    <value>空结果</value>
+  </data>
+  <data name="OlapTools_FilterSorting_Dlg_Filter1_Header" xml:space="preserve">
+    <value>筛选器1</value>
+  </data>
+  <data name="OlapTools_FilterSorting_Dlg_Filter2_Header" xml:space="preserve">
+    <value>筛选器2</value>
+  </data>
+  <data name="OlapTools_FilterSorting_Dlg_FilterEmptyColumns" xml:space="preserve">
+    <value>筛选空列</value>
+  </data>
+  <data name="OlapTools_FilterSorting_Dlg_FilterEmptyRows" xml:space="preserve">
+    <value>筛选空行</value>
+  </data>
+  <data name="OlapTools_FilterSorting_Dlg_FilterOn" xml:space="preserve">
+    <value>筛选器打开</value>
+  </data>
+  <data name="OlapTools_FilterSorting_Dlg_FilterOnValue" xml:space="preserve">
+    <value>值</value>
+  </data>
+  <data name="OlapTools_FilterSorting_Dlg_Filter_Tab" xml:space="preserve">
+    <value>筛选</value>
+  </data>
+  <data name="OlapTools_FilterSorting_Dlg_Header" xml:space="preserve">
+    <value>筛选器和排序</value>
+  </data>
+  <data name="OlapTools_FilterSorting_Dlg_SortAsc" xml:space="preserve">
+    <value>提升</value>
+  </data>
+  <data name="OlapTools_FilterSorting_Dlg_SortDesc" xml:space="preserve">
+    <value>降序</value>
+  </data>
+  <data name="OlapTools_FilterSorting_Dlg_SortingOn" xml:space="preserve">
+    <value>排序打开</value>
+  </data>
+  <data name="OlapTools_FilterSorting_Dlg_Sorting_Tab" xml:space="preserve">
+    <value>排序</value>
+  </data>
+  <data name="OlapTools_FilterSorting_Dlg_Sort_Header" xml:space="preserve">
+    <value>排序</value>
+  </data>
+  <data name="OlapTools_FilterSorting_Dlg_Sort_Preserver_Hierarchy" xml:space="preserve">
+    <value>保留层次结构</value>
+  </data>
+  <data name="OlapTools_FilterSorting_Dlg_Update" xml:space="preserve">
+    <value>更新</value>
+  </data>
+  <data name="OlapTools_FilterSorting_FilterCondition" xml:space="preserve">
+    <value>条件</value>
+  </data>
+  <data name="OlapTools_FilterSorting_Dlg_OnColumn" xml:space="preserve">
+    <value>在列上</value>
+  </data>
+  <data name="OlapTools_FilterSorting_Dlg_OnRow" xml:space="preserve">
+    <value>在行上</value>
+  </data>
+  <data name="OlapTools_RowColumnFilter_ContextMenu" xml:space="preserve">
+    <value>关联菜单</value>
+  </data>
+  <data name="OlapPager_ColumnPager" xml:space="preserve">
+    <value>列分页</value>
+  </data>
+  <data name="OlapPager_FirstPageButton_ToolTipValue" xml:space="preserve">
+    <value>移动到第一个</value>
+  </data>
+  <data name="OlapPager_LastPageButton_ToolTipValue" xml:space="preserve">
+    <value>移到最后</value>
+  </data>
+  <data name="OlapPager_NextPageButton_ToolTipValue" xml:space="preserve">
+    <value>移动到下一个</value>
+  </data>
+  <data name="OlapPager_PageSettingsButton_ToolTipValue" xml:space="preserve">
+    <value>页面设置</value>
+  </data>
+  <data name="OlapPager_PreviousPageButton_ToolTipValue" xml:space="preserve">
+    <value>移到上一个</value>
+  </data>
+  <data name="OlapPager_RowPager" xml:space="preserve">
+    <value>行寻呼机</value>
+  </data>
+  <data name="OlapPager_Of" xml:space="preserve">
+    <value>之</value>
+  </data>
+  <data name="OlapPager_Page" xml:space="preserve">
+    <value>页</value>
+  </data>
+  <data name="PageSettings_CancelButton" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="PageSettings_ColumnPageSettings" xml:space="preserve">
+    <value>列页面设置</value>
+  </data>
+  <data name="PageSettings_CurrentPage" xml:space="preserve">
+    <value>当前页面</value>
+  </data>
+  <data name="PageSettings_OkButton" xml:space="preserve">
+    <value>确定</value>
+  </data>
+  <data name="PageSettings_PageSize" xml:space="preserve">
+    <value>页面大小</value>
+  </data>
+  <data name="PageSettings_RowPageSettings" xml:space="preserve">
+    <value>行页面设置</value>
+  </data>
+  <data name="OlapPager_PagerSettings_WindowTitle" xml:space="preserve">
+    <value>分页设置</value>
+  </data>
+  <data name="Between" xml:space="preserve">
+    <value>之间</value>
+  </data>
+  <data name="EqualTo" xml:space="preserve">
+    <value>等于</value>
+  </data>
+  <data name="GreaterThan" xml:space="preserve">
+    <value>大于</value>
+  </data>
+  <data name="GreaterThanOrEqualTo" xml:space="preserve">
+    <value>大于或等于</value>
+  </data>
+  <data name="LessThan" xml:space="preserve">
+    <value>小于</value>
+  </data>
+  <data name="LessThanOrEqualTo" xml:space="preserve">
+    <value>小于或等于</value>
+  </data>
+  <data name="NotBetween" xml:space="preserve">
+    <value>不是介于两者之间</value>
+  </data>
+  <data name="NotEquals" xml:space="preserve">
+    <value>不等于</value>
+  </data>
+  <data name="OlapTools_FilterSorting_Exception_Connection_Message" xml:space="preserve">
+    <value>无法打开连接。</value>
+  </data>
+  <data name="OlapTools_FilterSorting_Exception_Connection_Title" xml:space="preserve">
+    <value>连接失败</value>
+  </data>
+  <data name="OlapTools_FilterSorting_Exception_ErrorData_Title" xml:space="preserve">
+    <value>加载数据时出错</value>
+  </data>
+  <data name="OlapTools_FilterSorting_Exception_MeasureFilter" xml:space="preserve">
+    <value>请选择用于过滤多维数据集的度量值。</value>
+  </data>
+  <data name="OlapTools_FilterSorting_Exception_MeasureFilterCondition" xml:space="preserve">
+    <value>请选择测量条件以过滤多维数据集。</value>
+  </data>
+  <data name="OlapTools_FilterSorting_Exception_MeasureFilterTopLevel" xml:space="preserve">
+    <value>请选择在顶层过滤多维数据集的度量值。</value>
+  </data>
+  <data name="OlapTools_FilterSorting_Exception_MeasureFilterValue" xml:space="preserve">
+    <value>请输入测量值以过滤多维数据集。</value>
+  </data>
+  <data name="OlapTools_FilterSorting_Exception_MeasureFilterValueCondition" xml:space="preserve">
+    <value>请在“值”文本框中输入数值。</value>
+  </data>
+  <data name="OlapTools_FilterSorting_Exception_MeasureSort" xml:space="preserve">
+    <value>请选择对多维数据集排序的度量值。</value>
+  </data>
+  <data name="OlapTools_FilterSorting_Exception_ReportMeasureElement" xml:space="preserve">
+    <value>报表度量值元素不应为null。</value>
+  </data>
+  <data name="OlapTools_FilterSorting_Exception_Title" xml:space="preserve">
+    <value>无效值</value>
+  </data>
+  <data name="StackTrace_Exception_Description" xml:space="preserve">
+    <value>有关更多详细信息，请参阅以下位置的日志文件 : </value>
+  </data>
+</root>

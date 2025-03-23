@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,148 +117,151 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AddShape" xml:space="preserve">
-    <value>Add Shape</value>
+  <data name="BaselineCost" xml:space="preserve">
+    <value>基线成本</value>
   </data>
-  <data name="AddText" xml:space="preserve">
-    <value>Add Text</value>
+  <data name="BaselineCostMissing" xml:space="preserve">
+    <value>缺少基线成本映射名称或映射名称错误。</value>
   </data>
-  <data name="AlignLeft" xml:space="preserve">
-    <value>Align Left</value>
+  <data name="BaselineFinish" xml:space="preserve">
+    <value>基线完成</value>
   </data>
-  <data name="AlignRight" xml:space="preserve">
-    <value>Align Right</value>
+  <data name="BaselineFinishMissing" xml:space="preserve">
+    <value>缺少基线完成日期映射名称或映射名称错误。</value>
   </data>
-  <data name="Arrow" xml:space="preserve">
-    <value>Arrow</value>
+  <data name="BaselineStart" xml:space="preserve">
+    <value>基线开始</value>
   </data>
-  <data name="Automatic" xml:space="preserve">
-    <value>Automatic</value>
+  <data name="BaselineStartMissing" xml:space="preserve">
+    <value>缺少基线开始日期映射名称或映射名称错误。</value>
   </data>
-  <data name="Bold" xml:space="preserve">
-    <value>Bold</value>
+  <data name="ChildTaskMissing" xml:space="preserve">
+    <value>缺少子任务映射名称或映射名称错误。</value>
   </data>
-  <data name="BrowseImage" xml:space="preserve">
-    <value>Browse Image</value>
+  <data name="Cost" xml:space="preserve">
+    <value>费用</value>
   </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+  <data name="CostMissing" xml:space="preserve">
+    <value>缺少成本映射名称或映射名称错误。</value>
   </data>
-  <data name="Center" xml:space="preserve">
-    <value>Center</value>
+  <data name="CostVariance" xml:space="preserve">
+    <value>成本差异</value>
   </data>
-  <data name="Circle" xml:space="preserve">
-    <value>Circle</value>
+  <data name="Days" xml:space="preserve">
+    <value>天</value>
   </data>
-  <data name="Crop" xml:space="preserve">
-    <value>Crop</value>
+  <data name="Duration" xml:space="preserve">
+    <value>期间</value>
   </data>
-  <data name="CropHeight" xml:space="preserve">
-    <value>Height. Click Enter to change crop height</value>
+  <data name="DurationTooltip" xml:space="preserve">
+    <value>持续时间：</value>
   </data>
-  <data name="CropWidth" xml:space="preserve">
-    <value>Width. Click Enter to change crop width</value>
+  <data name="EndTimeTooltip" xml:space="preserve">
+    <value>结束时间：</value>
   </data>
-  <data name="DefaultText" xml:space="preserve">
-    <value>Enter Text</value>
+  <data name="EndTooltip" xml:space="preserve">
+    <value>结束：</value>
   </data>
-  <data name="Fill" xml:space="preserve">
-    <value>Fill</value>
+  <data name="ExportError" xml:space="preserve">
+    <value>导出时出错</value>
   </data>
-  <data name="Flip" xml:space="preserve">
-    <value>Flip</value>
+  <data name="ExportTaskError" xml:space="preserve">
+    <value>只能导出TaskDetails类型的任务。</value>
   </data>
-  <data name="FlipHorizontal" xml:space="preserve">
-    <value>Flip Horizontal</value>
+  <data name="Finish" xml:space="preserve">
+    <value>完成</value>
   </data>
-  <data name="FlipVertical" xml:space="preserve">
-    <value>Flip Vertical</value>
+  <data name="FinishDate" xml:space="preserve">
+    <value>完成</value>
   </data>
-  <data name="Font" xml:space="preserve">
-    <value>Font</value>
+  <data name="FinishDateMissing" xml:space="preserve">
+    <value>缺少完成日期映射名称或映射名称错误。</value>
   </data>
-  <data name="FontColor" xml:space="preserve">
-    <value>Font Color</value>
+  <data name="FinishDateTooltip" xml:space="preserve">
+    <value>完成日期：</value>
   </data>
-  <data name="FontSize" xml:space="preserve">
-    <value>Font Size</value>
+  <data name="FinishPoint" xml:space="preserve">
+    <value>完成</value>
   </data>
-  <data name="Height" xml:space="preserve">
-    <value>Height</value>
+  <data name="FinishPointMissing" xml:space="preserve">
+    <value>缺少终点映射名称或映射名称错误。</value>
   </data>
-  <data name="Italic" xml:space="preserve">
-    <value>Italic</value>
+  <data name="FinishTooltip" xml:space="preserve">
+    <value>完成时间：</value>
   </data>
-  <data name="Pan" xml:space="preserve">
-    <value>Pan</value>
+  <data name="FinishVariance" xml:space="preserve">
+    <value>完成差异</value>
   </data>
-  <data name="Path" xml:space="preserve">
-    <value>Pen</value>
+  <data name="ImportError" xml:space="preserve">
+    <value>导入时出错</value>
   </data>
-  <data name="RecentlyUsed" xml:space="preserve">
-    <value>Recently Used</value>
+  <data name="InlineMissing" xml:space="preserve">
+    <value>内联任务映射名称缺失或映射名称错误。</value>
   </data>
-  <data name="Rectangle" xml:space="preserve">
-    <value>Rectangle</value>
+  <data name="MileStone" xml:space="preserve">
+    <value>里程碑</value>
   </data>
-  <data name="Redo" xml:space="preserve">
-    <value>Redo</value>
+  <data name="Predecessor" xml:space="preserve">
+    <value>前身</value>
   </data>
-  <data name="Reset" xml:space="preserve">
-    <value>Reset</value>
+  <data name="Progress" xml:space="preserve">
+    <value>进度（%）</value>
   </data>
-  <data name="ResetZoom" xml:space="preserve">
-    <value>Reset Zoom</value>
+  <data name="ProgressMissing" xml:space="preserve">
+    <value>缺少进度映射名称或映射名称错误。</value>
   </data>
-  <data name="Rotate" xml:space="preserve">
-    <value>Rotate</value>
+  <data name="ProgressTooltip" xml:space="preserve">
+    <value>进度：</value>
   </data>
-  <data name="Save" xml:space="preserve">
-    <value>Save</value>
+  <data name="ResourceInfo" xml:space="preserve">
+    <value>资源名称</value>
   </data>
-  <data name="Select" xml:space="preserve">
-    <value>Select</value>
+  <data name="SourceToolTip" xml:space="preserve">
+    <value>源：</value>
   </data>
-  <data name="ShapeStroke" xml:space="preserve">
-    <value>Border</value>
+  <data name="Start" xml:space="preserve">
+    <value>开始</value>
   </data>
-  <data name="ShapeStrokeWidth" xml:space="preserve">
-    <value>Border Width</value>
+  <data name="StartDate" xml:space="preserve">
+    <value>开始</value>
   </data>
-  <data name="StandardColors" xml:space="preserve">
-    <value>Standard Colors</value>
+  <data name="StartDateMissing" xml:space="preserve">
+    <value>缺少开始日期映射名称或映射名称错误。</value>
   </data>
-  <data name="Stroke" xml:space="preserve">
-    <value>Stroke</value>
+  <data name="StartDateTooltip" xml:space="preserve">
+    <value>开始日期：</value>
   </data>
-  <data name="StrokeWidth" xml:space="preserve">
-    <value>Stroke Width</value>
+  <data name="StartFinishDurationMissing" xml:space="preserve">
+    <value>缺少开始/完成/持续时间映射名称或映射名称错误。</value>
   </data>
-  <data name="ThemeColors" xml:space="preserve">
-    <value>Theme Colors</value>
+  <data name="StartFinishMissing" xml:space="preserve">
+    <value>起点/终点映射名称缺失或映射名称错误。</value>
   </data>
-  <data name="Underline" xml:space="preserve">
-    <value>Underline</value>
+  <data name="StartPoint" xml:space="preserve">
+    <value>开始</value>
   </data>
-  <data name="Undo" xml:space="preserve">
-    <value>Undo</value>
+  <data name="StartPointMissing" xml:space="preserve">
+    <value>缺少起点映射名称或映射名称错误。</value>
   </data>
-  <data name="Width" xml:space="preserve">
-    <value>Width</value>
+  <data name="StartTimeTooltip" xml:space="preserve">
+    <value>开始时间：</value>
   </data>
-  <data name="Zoom" xml:space="preserve">
-    <value>Zoom</value>
+  <data name="StartTooltip" xml:space="preserve">
+    <value>开始时间：</value>
   </data>
-  <data name="ZoomIn" xml:space="preserve">
-    <value>Zoom In</value>
+  <data name="StartVariance" xml:space="preserve">
+    <value>开始差异</value>
   </data>
-  <data name="ZoomLevel" xml:space="preserve">
-    <value>Zoom Level</value>
+  <data name="TargetToolTip" xml:space="preserve">
+    <value>目标：</value>
   </data>
-  <data name="ZoomOut" xml:space="preserve">
-    <value>Zoom Out</value>
+  <data name="TaskName" xml:space="preserve">
+    <value>任务名称</value>
   </data>
-    <data name="Ellipse" xml:space="preserve">
-    <value>Ellipse</value>
+  <data name="TaskNameTooltip" xml:space="preserve">
+    <value>任务名称：</value>
+  </data>
+  <data name="XMLExport" xml:space="preserve">
+    <value>XML导出</value>
   </data>
 </root>

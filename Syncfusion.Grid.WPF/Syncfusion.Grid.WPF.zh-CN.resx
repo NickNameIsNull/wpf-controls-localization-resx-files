@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -118,563 +118,501 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AllowDrag" xml:space="preserve">
-    <value>Allow Drag</value>
+    <value>允许拖动</value>
   </data>
   <data name="AllowFilter" xml:space="preserve">
-    <value>Allow Filter</value>
+    <value>允许筛选器</value>
   </data>
   <data name="AllowGroup" xml:space="preserve">
-    <value>Allow Group</value>
+    <value>允许组</value>
   </data>
   <data name="AllowResize" xml:space="preserve">
-    <value>Allow Resize</value>
+    <value>允许调整大小</value>
   </data>
   <data name="AllowSort" xml:space="preserve">
-    <value>Allow Sort</value>
+    <value>允许排序</value>
   </data>
   <data name="AND" xml:space="preserve">
-    <value>And</value>
+    <value>和</value>
   </data>
   <data name="ApplyWidthSettings" xml:space="preserve">
-    <value>Apply Width Settings</value>
+    <value>应用宽度设置</value>
   </data>
   <data name="AutoFit" xml:space="preserve">
-    <value>Auto Fit</value>
+    <value>自动适应</value>
   </data>
   <data name="CanntPerformSortMessage" xml:space="preserve">
-    <value>The underlying data source cannot perform sort</value>
+    <value>基础数据源无法执行排序</value>
   </data>
   <data name="ClipboardCopyPaste" xml:space="preserve">
-    <value>Clipboard CopyPaste</value>
+    <value>剪贴板复制粘贴</value>
   </data>
   <data name="ColumnFormat" xml:space="preserve">
-    <value>ColumnFormat</value>
+    <value>列格式</value>
   </data>
   <data name="ConfirmDeleteMessage" xml:space="preserve">
-    <value>Confirm delete</value>
+    <value>确认删除</value>
   </data>
   <data name="Contains" xml:space="preserve">
-    <value>Contains...</value>
+    <value>包含...</value>
   </data>
   <data name="DeleteMessage" xml:space="preserve">
-    <value>Do you want to remove the selected record(s)?</value>
+    <value>是否要删除所选记录？</value>
   </data>
   <data name="DragDropText" xml:space="preserve">
-    <value>Drag and drop columns here</value>
+    <value>在此处拖放列</value>
   </data>
   <data name="DynamicOptions" xml:space="preserve">
-    <value>Dynamic Options:</value>
+    <value>动态选项：</value>
   </data>
   <data name="EndsWith" xml:space="preserve">
-    <value>EndsWith</value>
+    <value>结尾是</value>
   </data>
   <data name="EnterFilterValue" xml:space="preserve">
-    <value>Enter Filter Value..</value>
+    <value>输入筛选器值。。</value>
   </data>
   <data name="SlideToFilter" xml:space="preserve">
-    <value>Slide To Filter..</value>
+    <value>滑动至过滤器..</value>
   </data>
   <data name="SelectFilterDate" xml:space="preserve">
-    <value>Select Filter Date..</value>
+    <value>选择筛选日期。。</value>
   </data>
   <data name="FilterDateTo" xml:space="preserve">
-    <value>Filter Date To..</value>
+    <value>筛选日期至..</value>
   </data>
   <data name="EqualsString" xml:space="preserve">
-    <value>Equals...</value>
+    <value>等于...</value>
   </data>
   <data name="GreaterThan" xml:space="preserve">
-    <value>GreaterThan...</value>
+    <value>大于。。。</value>
   </data>
   <data name="GreaterThanOrEqual" xml:space="preserve">
-    <value>GreaterThanOrEqual</value>
+    <value>更伟大或更平等</value>
   </data>
   <data name="HCenter" xml:space="preserve">
-    <value>Center</value>
+    <value>居中</value>
   </data>
   <data name="HeaderText" xml:space="preserve">
-    <value>Header Text:</value>
+    <value>标题文本：</value>
   </data>
   <data name="HLeft" xml:space="preserve">
-    <value>Left</value>
+    <value>左</value>
   </data>
   <data name="Horizontal" xml:space="preserve">
-    <value>Horizontal</value>
+    <value>水平的</value>
   </data>
   <data name="HRight" xml:space="preserve">
-    <value>Right</value>
+    <value>右</value>
   </data>
   <data name="HStretch" xml:space="preserve">
-    <value>Stretch</value>
+    <value>伸展</value>
   </data>
   <data name="InvalidColumn" xml:space="preserve">
-    <value>Invalid Column added</value>
+    <value>添加的列无效</value>
   </data>
   <data name="InvalidDataTime" xml:space="preserve">
-    <value>Invalid DataTime</value>
+    <value>无效的数据时间</value>
   </data>
   <data name="InvalidDataToFilter" xml:space="preserve">
-    <value>Invalid Data Filter</value>
+    <value>无效的数据筛选器</value>
   </data>
   <data name="IsReadOnly" xml:space="preserve">
-    <value>Is ReadOnly</value>
+    <value>是只读的</value>
   </data>
   <data name="LessThan" xml:space="preserve">
-    <value>LessThan</value>
+    <value>小于</value>
   </data>
   <data name="LessThanOrEqual" xml:space="preserve">
-    <value>LessThanOrEqual</value>
+    <value>小于或等于</value>
   </data>
   <data name="MatchCase" xml:space="preserve">
-    <value>Match Case</value>
+    <value>区分大小写</value>
   </data>
   <data name="NoMoreItemRemoveMessage" xml:space="preserve">
-    <value>There are no more items to remove or it is not supported in the underlying data source</value>
+    <value>没有更多要删除的项，或者基础数据源不支持该项</value>
   </data>
   <data name="None" xml:space="preserve">
-    <value>None</value>
+    <value>无</value>
   </data>
   <data name="NoRecordsfound" xml:space="preserve">
-    <value>No Records found</value>
+    <value>未找到任何记录</value>
   </data>
   <data name="NotEnoughSpaceMessage" xml:space="preserve">
-    <value>There is not enough space, Do you wish to Continue?</value>
+    <value>空间不足，是否继续？</value>
   </data>
   <data name="NotEquals" xml:space="preserve">
-    <value>NotEquals</value>
+    <value>不等于</value>
   </data>
   <data name="NotSupportDeletingItemMessage" xml:space="preserve">
-    <value>Underlying data source does not supports deleting items, Try binding an IList source</value>
+    <value>基础数据源不支持删除项，请尝试绑定IList源</value>
   </data>
   <data name="OR" xml:space="preserve">
-    <value>Or</value>
+    <value>或</value>
   </data>
   <data name="SelectAllFilter" xml:space="preserve">
-    <value>(Select All)</value>
+    <value>（全选）</value>
   </data>
   <data name="StartsWith" xml:space="preserve">
-    <value>StartsWith</value>
+    <value>开始</value>
   </data>
   <data name="Between" xml:space="preserve">
-    <value>Between...</value>
+    <value>之间...</value>
   </data>
   <data name="TextAlignment" xml:space="preserve">
-    <value>Text Alignment:</value>
+    <value>文本对齐方式：</value>
   </data>
   <data name="VBottom" xml:space="preserve">
-    <value>Bottom</value>
+    <value>底部</value>
   </data>
   <data name="VCenter" xml:space="preserve">
-    <value>Center</value>
+    <value>居中</value>
   </data>
   <data name="Vertical" xml:space="preserve">
-    <value>Vertical</value>
+    <value>垂直的</value>
   </data>
   <data name="VStretch" xml:space="preserve">
-    <value>Stretch</value>
+    <value>伸展</value>
   </data>
   <data name="VTop" xml:space="preserve">
-    <value>Top</value>
+    <value>顶部</value>
   </data>
   <data name="Width" xml:space="preserve">
-    <value>Width</value>
+    <value>宽度</value>
   </data>
   <data name="WidthOptions" xml:space="preserve">
-    <value>Width Options</value>
+    <value>宽度选项</value>
   </data>
   <data name="CurrentPageText" xml:space="preserve">
-    <value>Page {0} of {1}</value>
+    <value>第{0}页，共{1}页</value>
   </data>
   <data name="First" xml:space="preserve">
-    <value>First</value>
+    <value>第一</value>
   </data>
   <data name="Last" xml:space="preserve">
-    <value>Last</value>
+    <value>最后</value>
   </data>
   <data name="Next" xml:space="preserve">
-    <value>Next</value>
+    <value>下一个</value>
   </data>
   <data name="PageSizes" xml:space="preserve">
-    <value>Page Sizes</value>
+    <value>页面大小</value>
   </data>
   <data name="Previous" xml:space="preserve">
-    <value>Previous</value>
+    <value>上一个</value>
   </data>
   <data name="PrintOutputColor" xml:space="preserve">
-    <value>Print Output Color</value>
+    <value>打印输出颜色</value>
   </data>
   <data name="PrintText" xml:space="preserve">
-    <value>Print</value>
+    <value>打印</value>
   </data>
   <data name="PrintZoom" xml:space="preserve">
-    <value>Zoom</value>
+    <value>快速移动</value>
   </data>
   <data name="Clear" xml:space="preserve">
-    <value>Clear</value>
+    <value>清除</value>
   </data>
   <data name="AutoEllipsisString" xml:space="preserve">
     <value>...</value>
   </data>
   <data name="AutomationPeerName_TotalPageCountKnown" xml:space="preserve">
-    <value>Page {0} of {1}</value>
+    <value>第{0}页，共{1}页</value>
   </data>
   <data name="AutomationPeerName_TotalPageCountUnknown" xml:space="preserve">
-    <value>Page {0}</value>
+    <value>第{0}页</value>
   </data>
   <data name="CurrentPagePrefix_TotalPageCountKnown" xml:space="preserve">
-    <value>Page</value>
-    <comment>Either CurrentPagePrefix_TotalPageCountKnown or CurrentPageSuffix_TotalPageCountKnown should include a {0} to display the total number of pages</comment>
+    <value>页</value>
   </data>
   <data name="CurrentPagePrefix_TotalPageCountUnknown" xml:space="preserve">
-    <value>Page</value>
+    <value>页</value>
   </data>
   <data name="CurrentPageSuffix_TotalPageCountKnown" xml:space="preserve">
-    <value>of {0}</value>
-  </data>
-  <data name="CurrentPageSuffix_TotalPageCountUnknown" xml:space="preserve">
-    <value>CurrentPageSuffix_TotalPageCountUnknown</value>
+    <value>的{0}</value>
   </data>
   <data name="InvalidButtonPanelContent" xml:space="preserve">
-    <value>The NumericButtonPanel contains invalid children.</value>
+    <value>NumericButtonPanel包含无效子项。</value>
   </data>
   <data name="InvalidTimeSpan" xml:space="preserve">
-    <value>The {0} time span must be strictly positive.</value>
+    <value>{0}的时间跨度必须是严格的正数。</value>
   </data>
   <data name="PageIndexMustBeNegativeOne" xml:space="preserve">
-    <value>The PageIndex property can only be set to -1 when the Source property is null or the PageSize property is 0.</value>
+    <value>当源属性为null或PageSize属性为0时，PageIndex属性只能设置为-1。</value>
   </data>
   <data name="UnderlyingPropertyIsReadOnly" xml:space="preserve">
-    <value>{0} cannot be set because the underlying property is read only.</value>
+    <value>无法设置{0}，因为基础属性为只读。</value>
   </data>
   <data name="ValueMustBeGreaterThanOrEqualTo" xml:space="preserve">
-    <value>{0} must be greater than or equal to {1}.</value>
+    <value>{0}必须大于或等于{1}。</value>
   </data>
   <data name="SetFrozenColumn" xml:space="preserve">
-    <value>SetFrozenColumn</value>
+    <value>设置冻结列</value>
   </data>
   <data name="CommandChangeCells" xml:space="preserve">
-    <value>Change Cells {0}</value>
+    <value>更改单元格{0}</value>
   </data>
   <data name="CommandCurrentCellValue" xml:space="preserve">
-    <value>Change CurrentCell Value Row {0} Column {1}</value>
+    <value>更改CurrentCell值行{0}列{1}</value>
   </data>
   <data name="CommandSelectionState" xml:space="preserve">
-    <value>Change Selection State Row {0} Column {1}</value>
+    <value>更改选择状态行{0}列{1}</value>
   </data>
   <data name="DescriptionChangeCells" xml:space="preserve">
-    <value>Description  Change Cells</value>
+    <value>描述更改单元格</value>
   </data>
   <data name="CommandAddCoveredRanges" xml:space="preserve">
-    <value>Add Covered Range {0}</value>
+    <value>添加覆盖范围{0}</value>
   </data>
   <data name="CommandRemoveCoveredRanges" xml:space="preserve">
-    <value>Remove Covered Range {0}</value>
+    <value>删除覆盖范围{0}</value>
   </data>
   <data name="CommandInsertColumns" xml:space="preserve">
-    <value>Insert {0} columns at column {1}</value>
+    <value>在列{1}处插入{0}列</value>
   </data>
   <data name="CommandInsertRows" xml:space="preserve">
-    <value>Insert {0} rows at row {1}</value>
+    <value>在第{1}行插入{0}行</value>
   </data>
   <data name="CommandMoveColumns" xml:space="preserve">
-    <value>Move {1} column from {0} to {2}</value>
+    <value>将{1}列从{0}移动到{2}</value>
   </data>
   <data name="CommandMoveRows" xml:space="preserve">
-    <value>Move {1} rows from {0} to {2}</value>
+    <value>将{1}行从{0}移动到{2}</value>
   </data>
   <data name="CommandRemoveColumns" xml:space="preserve">
-    <value>Remove Column {0} to {1}</value>
+    <value>删除列{0}到{1}</value>
   </data>
   <data name="CommandRemoveRows" xml:space="preserve">
-    <value>Remove Row {0} to {1}</value>
+    <value>删除行{0}到{1}</value>
   </data>
   <data name="CommandDefaultColumnSize" xml:space="preserve">
-    <value>Change Default Column Width {0}</value>
+    <value>更改默认列宽{0}</value>
   </data>
   <data name="CommandDefaultRowSize" xml:space="preserve">
-    <value>Change Default Row Height to {0}</value>
+    <value>将默认行高更改为{0}</value>
   </data>
   <data name="CommandFrozenColumnsCount" xml:space="preserve">
-    <value>{0} Frozen Columns</value>
+    <value>{0}冻结列</value>
   </data>
   <data name="CommandFrozenRowsCount" xml:space="preserve">
-    <value>{0} Frozen Rows</value>
+    <value>{0}冻结行</value>
   </data>
   <data name="CommandFooterColumnsCount" xml:space="preserve">
-    <value>{0} Footer Columms</value>
+    <value>{0}页脚列</value>
   </data>
   <data name="CommandFooterRowsCount" xml:space="preserve">
-    <value>{0} Footer Rows</value>
+    <value>{0}页脚行</value>
   </data>
   <data name="CommandHeaderColumnsCount" xml:space="preserve">
-    <value>{0} Header Columms</value>
+    <value>{0}头列</value>
   </data>
   <data name="CommandHeaderRowsCount" xml:space="preserve">
-    <value>{0} Header Rows</value>
+    <value>{0}标题行</value>
   </data>
   <data name="CommandColumnWidth" xml:space="preserve">
-    <value>Column Width {0} to {1}</value>
+    <value>列宽{0}到{1}</value>
   </data>
   <data name="CommandRowHeight" xml:space="preserve">
-    <value>Row Height {0} to {1}</value>
+    <value>行高{0}到{1}</value>
   </data>
   <data name="Search" xml:space="preserve">
-    <value>Search</value>
+    <value>搜索</value>
   </data>
   <data name="SelectAll" xml:space="preserve">
-    <value>SelectAll</value>
+    <value>全选</value>
   </data>
   <data name="BeginsWith" xml:space="preserve">
-    <value>begins with</value>
-    <comment>For ExcelLikeFiltering AdvanceFiltering ComboBoxItem</comment>
+    <value>开头是</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
-    <comment>For ExcelLikeFiltering AdvanceFiltering ComboBoxItem</comment>
+    <value>取消</value>
   </data>
   <data name="ContainsSmall" xml:space="preserve">
-    <value>contains</value>
-    <comment>For ExcelLikeFiltering AdvanceFiltering ComboBoxItem</comment>
+    <value>包含</value>
   </data>
   <data name="DoesNotBeginsWith" xml:space="preserve">
-    <value>does not begins with</value>
-    <comment>For ExcelLikeFiltering AdvanceFiltering ComboBoxItem</comment>
+    <value>开头不是</value>
   </data>
   <data name="DoesNotContain" xml:space="preserve">
-    <value>does not contain</value>
-    <comment>For ExcelLikeFiltering AdvanceFiltering ComboBoxItem</comment>
+    <value>不包含</value>
   </data>
   <data name="DoesNotEndWith" xml:space="preserve">
-    <value>does not end with</value>
-    <comment>For ExcelLikeFiltering AdvanceFiltering ComboBoxItem</comment>
+    <value>结尾不是</value>
   </data>
   <data name="DoesNotEquals" xml:space="preserve">
-    <value>does not equal</value>
-    <comment>For ExcelLikeFiltering AdvanceFiltering ComboBoxItem</comment>
+    <value>不等于</value>
   </data>
   <data name="EndsWithSmall" xml:space="preserve">
-    <value>ends with</value>
-    <comment>For ExcelLikeFiltering AdvanceFiltering ComboBoxItem</comment>
+    <value>结尾是</value>
   </data>
   <data name="EqualsSmall" xml:space="preserve">
-    <value>equals</value>
-    <comment>For ExcelLikeFiltering AdvanceFiltering ComboBoxItem</comment>
+    <value>等于</value>
   </data>
   <data name="IsGreaterThan" xml:space="preserve">
-    <value>is greater than</value>
-    <comment>For ExcelLikeFiltering AdvanceFiltering ComboBoxItem</comment>
+    <value>大于</value>
   </data>
   <data name="IsGreaterThanOrEqualto" xml:space="preserve">
-    <value>is greater than or equal to</value>
-    <comment>For ExcelLikeFiltering AdvanceFiltering ComboBoxItem</comment>
+    <value>大于或等于</value>
   </data>
   <data name="IsLessThan" xml:space="preserve">
-    <value>is less than</value>
-    <comment>For ExcelLikeFiltering AdvanceFiltering ComboBoxItem</comment>
+    <value>小于</value>
   </data>
   <data name="IsLessThanorEqualto" xml:space="preserve">
-    <value>is less than or equal to</value>
-    <comment>For ExcelLikeFiltering AdvanceFiltering ComboBoxItem</comment>
+    <value>小于或等于</value>
   </data>
   <data name="OK" xml:space="preserve">
-    <value>OK</value>
-    <comment>For ExcelLikeFiltering AdvanceFiltering ComboBoxItem</comment>
+    <value>确定</value>
   </data>
   <data name="ShowRowsWhere" xml:space="preserve">
-    <value>Show rows where :</value>
-    <comment>For ExcelLikeFiltering AdvanceFiltering ComboBoxItem</comment>
+    <value>显示行，其中：</value>
   </data>
   <data name="UseSeriesCharacter" xml:space="preserve">
-    <value>Use * to represent any series of characters</value>
-    <comment>For ExcelLikeFiltering AdvanceFiltering ComboBoxItem</comment>
+    <value>使用 * 表示任何字符序列</value>
   </data>
   <data name="UseSingleCharacter" xml:space="preserve">
-    <value>Use ? to represent any single character</value>
-    <comment>For ExcelLikeFiltering AdvanceFiltering ComboBoxItem</comment>
+    <value>使用表示任何单个字符</value>
   </data>
   <data name="AboveAverage" xml:space="preserve">
-    <value>Above Average</value>
-    <comment>For ExcelLikeFiltering</comment>
+    <value>高于平均值</value>
   </data>
   <data name="After" xml:space="preserve">
-    <value>After...</value>
-    <comment>For ExcelLikeFiltering</comment>
+    <value>在指定日期之后...</value>
   </data>
   <data name="Before" xml:space="preserve">
-    <value>Before...</value>
-    <comment>For ExcelLikeFiltering</comment>
+    <value>在指定日期之前...</value>
   </data>
   <data name="BeginsWithCaps" xml:space="preserve">
-    <value>Begins With...</value>
-    <comment>For ExcelLikeFiltering</comment>
+    <value>开头是...</value>
   </data>
   <data name="BelowAverage" xml:space="preserve">
-    <value>Below Average</value>
-    <comment>For ExcelLikeFiltering</comment>
+    <value>低于平均水平</value>
   </data>
   <data name="DateFilters" xml:space="preserve">
-    <value>Date Filters</value>
-    <comment>For ExcelLikeFiltering</comment>
+    <value>日期过滤器</value>
   </data>
   <data name="DoesNotContainCaps" xml:space="preserve">
-    <value>Does Not Contain</value>
-    <comment>For ExcelLikeFiltering</comment>
+    <value>不包含</value>
   </data>
   <data name="DoesNotEqual" xml:space="preserve">
-    <value>Does Not Equal...</value>
-    <comment>For ExcelLikeFiltering</comment>
+    <value>不等于。。。</value>
   </data>
   <data name="EndsWithCaps" xml:space="preserve">
-    <value>Ends With...</value>
-    <comment>For ExcelLikeFiltering</comment>
+    <value>结尾是...</value>
   </data>
   <data name="GreaterThanOrEqualTo" xml:space="preserve">
-    <value>Greater Than Or Equal To...</value>
-    <comment>For ExcelLikeFiltering</comment>
+    <value>大于或等于...</value>
   </data>
   <data name="isafter" xml:space="preserve">
-    <value>is after</value>
-    <comment>For ExcelLikeFiltering</comment>
+    <value>在指定日期之后</value>
   </data>
   <data name="isafterorequalto" xml:space="preserve">
-    <value>is after or equal to</value>
-    <comment>For ExcelLikeFiltering</comment>
+    <value>在指定日期之后或与之相同</value>
   </data>
   <data name="isbefore" xml:space="preserve">
-    <value>is before</value>
-    <comment>For ExcelLikeFiltering</comment>
+    <value>在指定日期之前</value>
   </data>
   <data name="isbeforeorequalto" xml:space="preserve">
-    <value>is before or equal to</value>
-    <comment>For ExcelLikeFiltering</comment>
+    <value>在指定日期之前或与之相同</value>
   </data>
   <data name="LastMonth" xml:space="preserve">
-    <value>Last Month</value>
-    <comment>For ExeclLikeFiltering</comment>
+    <value>上个月</value>
   </data>
   <data name="LastWeek" xml:space="preserve">
-    <value>Last Week</value>
-    <comment>For ExcelLikeFiltering</comment>
+    <value>上周</value>
   </data>
   <data name="LastYear" xml:space="preserve">
-    <value>Last Year</value>
-    <comment>For ExcelLikeFiltering</comment>
+    <value>去年</value>
   </data>
   <data name="LessThanOrEqualTo" xml:space="preserve">
-    <value>Less Than Or Equal To...</value>
-    <comment>For ExcelLikeFiltering</comment>
+    <value>小于或等于...</value>
   </data>
   <data name="LessThanWithSpace" xml:space="preserve">
-    <value>Less Than...</value>
-    <comment>For ExcelLikeFiltering</comment>
+    <value>小于...</value>
   </data>
   <data name="NextMonth" xml:space="preserve">
-    <value>Next Month</value>
-    <comment>For ExcelLikeFiltering</comment>
+    <value>下个月</value>
   </data>
   <data name="NextWeek" xml:space="preserve">
-    <value>Next Week</value>
-    <comment>For ExcelLikeFiltering</comment>
+    <value>下个星期</value>
   </data>
   <data name="NextYear" xml:space="preserve">
-    <value>Next Year</value>
-    <comment>For ExcelLikeFiltering</comment>
+    <value>明年</value>
   </data>
   <data name="NumberFilters" xml:space="preserve">
-    <value>Number Filters</value>
-    <comment>For ExcelLikeFiltering</comment>
+    <value>数字过滤器</value>
   </data>
   <data name="TextFilters" xml:space="preserve">
-    <value>Text Filters</value>
-    <comment>For ExcelLikeFiltering</comment>
+    <value>文本过滤器</value>
   </data>
   <data name="ThisMonth" xml:space="preserve">
-    <value>This Month</value>
-    <comment>For ExcelLikeFiltering</comment>
+    <value>本月</value>
   </data>
   <data name="ThisWeek" xml:space="preserve">
-    <value>This Week</value>
-    <comment>For ExcelLikeFiltering</comment>
+    <value>本周</value>
   </data>
   <data name="ThisYear" xml:space="preserve">
-    <value>This Year</value>
-    <comment>For ExcelLikeFiltering</comment>
+    <value>今年</value>
   </data>
   <data name="Today" xml:space="preserve">
-    <value>Today</value>
-    <comment>For ExcelLikeFiltering</comment>
+    <value>今天</value>
   </data>
   <data name="Tomorrow" xml:space="preserve">
-    <value>Tomorrow</value>
-    <comment>For ExcelLikeFiltering</comment>
+    <value>明天</value>
   </data>
   <data name="Top10" xml:space="preserve">
-    <value>Top 10</value>
-    <comment>For ExcelLikeFiltering</comment>
+    <value>前10项</value>
   </data>
   <data name="Yesterday" xml:space="preserve">
-    <value>Yesterday</value>
-    <comment>ForExcelLikeFiltering</comment>
+    <value>昨天</value>
   </data>
   <data name="NoItemMatch" xml:space="preserve">
-    <value>No items match your search.</value>
-    <comment>ForExcelLikeFiltering</comment>
+    <value>没有与您的搜索匹配的项目。</value>
   </data>
   <data name="CustomAutoFilter" xml:space="preserve">
-    <value>Custom AutoFilter</value>
-    <comment>ForExcelLikeFiltering</comment>
+    <value>自定义自动筛选</value>
   </data>
   <data name="DateTimeAscending" xml:space="preserve">
-    <value>Sort Oldest to Newest</value>
-    <comment>ForExcelLike Filtering</comment>
+    <value>从最旧到最新排序</value>
   </data>
   <data name="DateTimeDescending" xml:space="preserve">
-    <value>Sort Newest to Oldest</value>
-    <comment>ForExcelLike Filtering</comment>
+    <value>从最新到最旧排序</value>
   </data>
   <data name="NumberAscending" xml:space="preserve">
-    <value>Sort Smallest to Largest</value>
-    <comment>ForExcelLike Filtering</comment>
+    <value>从最小到最大排序</value>
   </data>
   <data name="NumberDescending" xml:space="preserve">
-    <value>Sort Largest to Smallest</value>
-    <comment>ForExcelLike Filtering</comment>
+    <value>从大到小排序</value>
   </data>
   <data name="StringAscending" xml:space="preserve">
-    <value>Sort A to Z</value>
-    <comment>ForExcelLike Filtering</comment>
+    <value>将 A 排序到 Z</value>
   </data>
   <data name="StringDescending" xml:space="preserve">
-    <value>Sort Z to A</value>
-    <comment>ForExcelLike Filtering</comment>
+    <value>将Z排序为A</value>
   </data>
   <data name="AdvanceFilteringContainsString" xml:space="preserve">
-    <value>Contains</value>
-    <comment>For AdvanceFilering</comment>
+    <value>包含</value>
   </data>
   <data name="AdvanceFilteringEqualsString" xml:space="preserve">
-    <value>Equals</value>
-    <comment>For Advance Filtering</comment>
+    <value>等于</value>
   </data>
   <data name="AdvanceFilteringGreaterThanString" xml:space="preserve">
-    <value>GreaterThan</value>
-    <comment>For AdvanceFiltering</comment>
+    <value>大于</value>
   </data>
   <data name="AdvnaceFilteringBetweenString" xml:space="preserve">
-    <value>Between</value>
-    <comment>For Advance Filtering</comment>
+    <value>之间</value>
   </data>
   <data name="BlankFilterText" xml:space="preserve">
-    <value>(Blanks)</value>
-    <comment>For Filtering</comment>
+    <value>（空白）</value>
   </data>
   <data name="ClearFilter" xml:space="preserve">
-    <value>Clear Filter</value>
+    <value>清除筛选器</value>
   </data>
   <data name="ShowColumnOptionsFilter" xml:space="preserve">
-    <value>Show Column Options</value>
+    <value>显示列选项</value>
   </data>
   <data name="AllFilter" xml:space="preserve">
-    <value>(All)</value>
+    <value>（全部）</value>
+  </data>
+  <data name="CurrentPageSuffix_TotalPageCountUnknown" xml:space="preserve">
+    <value>当前页数_总页数未知</value>
   </data>
 </root>

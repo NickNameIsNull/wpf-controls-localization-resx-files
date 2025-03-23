@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ContextMenuComment" xml:space="preserve">
+    <value>新建评论</value>
+  </data>
+  <data name="ContextMenuCopy" xml:space="preserve">
+    <value>复制</value>
+  </data>
+  <data name="ContextMenuCopyHyperlink" xml:space="preserve">
+    <value>复制超链接</value>
+  </data>
+  <data name="ContextMenuCut" xml:space="preserve">
+    <value>剪切</value>
+  </data>
+  <data name="ContextMenuDeleteComment" xml:space="preserve">
+    <value>删除评论</value>
+  </data>
+  <data name="ContextMenuEditHyperlink" xml:space="preserve">
+    <value>编辑超链接</value>
+  </data>
+  <data name="ContextMenuFontDialog" xml:space="preserve">
+    <value>字体...</value>
+  </data>
+  <data name="ContextMenuHyperlink" xml:space="preserve">
+    <value>超链接</value>
+  </data>
+  <data name="ContextMenuInsertLeftColumn" xml:space="preserve">
+    <value>向左插入列</value>
+  </data>
+  <data name="ContextMenuInsertRightColumn" xml:space="preserve">
+    <value>向右插入列</value>
+  </data>
+  <data name="ContextMenuInsertRowAbove" xml:space="preserve">
+    <value>在上方插入行</value>
+  </data>
+  <data name="ContextMenuInsertRowBelow" xml:space="preserve">
+    <value>在下面插入行</value>
+  </data>
+  <data name="ContextMenuInsertTable" xml:space="preserve">
+    <value>插入</value>
+  </data>
+  <data name="ContextMenuMergeCell" xml:space="preserve">
+    <value>合并单元格</value>
+  </data>
+  <data name="ContextMenuOpenHyperlink" xml:space="preserve">
+    <value>打开超链接</value>
+  </data>
+  <data name="ContextMenuParagraphDialog" xml:space="preserve">
+    <value>段落...</value>
+  </data>
+  <data name="ContextMenuPaste" xml:space="preserve">
+    <value>粘贴</value>
+  </data>
+  <data name="ContextMenuRemoveHyperlink" xml:space="preserve">
+    <value>删除超链接</value>
+  </data>
+  <data name="MiniToolBarDeleteTable" xml:space="preserve">
+    <value>删除</value>
+  </data>
+  <data name="DialogBoxCancel" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="New" xml:space="preserve">
+    <value>新增</value>
+  </data>
+  <data name="Modify" xml:space="preserve">
+    <value>修改</value>
+  </data>
+  <data name="DialogBoxOk" xml:space="preserve">
+    <value>确定</value>
+  </data>
+  <data name="FindReplaceDialogFind" xml:space="preserve">
+    <value>查找</value>
+  </data>
+  <data name="FindReplaceDialogFindNext" xml:space="preserve">
+    <value>查找下一个</value>
+  </data>
+  <data name="FindReplaceDialogFindText" xml:space="preserve">
+    <value>查找内容</value>
+  </data>
+  <data name="FindReplaceDialogLessOption" xml:space="preserve">
+    <value>少</value>
+  </data>
+  <data name="FindReplaceDialogMatchCase" xml:space="preserve">
+    <value>区分大小写</value>
+  </data>
+  <data name="FindReplaceDialogMoreOption" xml:space="preserve">
+    <value>更多</value>
+  </data>
+  <data name="FindReplaceDialogRegularExpression" xml:space="preserve">
+    <value>使用正则表达式</value>
+  </data>
+  <data name="FindReplaceDialogReplaceAll" xml:space="preserve">
+    <value>全部替换</value>
+  </data>
+  <data name="FindReplaceDialogReplace" xml:space="preserve">
+    <value>替换</value>
+  </data>
+  <data name="FindReplaceDialogReplaceText" xml:space="preserve">
+    <value>替换为</value>
+  </data>
+  <data name="FindReplaceDialogWholeWord" xml:space="preserve">
+    <value>仅查找整个单词</value>
+  </data>
+  <data name="FontDialogAutomaticColor" xml:space="preserve">
+    <value>自动</value>
+  </data>
+  <data name="Format" xml:space="preserve">
+    <value>格式</value>
+  </data>
+  <data name="FontDialogDoubleStrikeThrough" xml:space="preserve">
+    <value>双重删除线</value>
+  </data>
+  <data name="FontDialogEffects" xml:space="preserve">
+    <value>影响</value>
+  </data>
+  <data name="FontDialogFontColor" xml:space="preserve">
+    <value>字体颜色</value>
+  </data>
+  <data name="FontDialogFontSize" xml:space="preserve">
+    <value>大小</value>
+  </data>
+  <data name="FontDialogFontStyle" xml:space="preserve">
+    <value>字形</value>
+  </data>
+  <data name="FontDialogFontText" xml:space="preserve">
+    <value>字体</value>
+  </data>
+  <data name="FontDialogNoFontColor" xml:space="preserve">
+    <value>无颜色</value>
+  </data>
+  <data name="FontDialogPreview" xml:space="preserve">
+    <value>预览</value>
+  </data>
+  <data name="FontDialogStrikeThrough" xml:space="preserve">
+    <value>删除线</value>
+  </data>
+  <data name="FontDialogSubscript" xml:space="preserve">
+    <value>下标</value>
+  </data>
+  <data name="FontDialogSuperscript" xml:space="preserve">
+    <value>上标</value>
+  </data>
+  <data name="FontDialogUnderline" xml:space="preserve">
+    <value>下划线</value>
+  </data>
+  <data name="HyperlinkDialogAddress" xml:space="preserve">
+    <value>地址</value>
+  </data>
+  <data name="HyperlinkDialogDisplayText" xml:space="preserve">
+    <value>要显示的文本</value>
+  </data>
+  <data name="MiniToolBarInsertTable" xml:space="preserve">
+    <value>插入</value>
+  </data>
+  <data name="ListDialogChooseLevel" xml:space="preserve">
+    <value>选择要修改的级别</value>
+  </data>
+  <data name="ListDialogFormattingNumber" xml:space="preserve">
+    <value>数字格式</value>
+  </data>
+  <data name="ListDialogIndents" xml:space="preserve">
+    <value>缩进</value>
+  </data>
+  <data name="ListDialogListLevel" xml:space="preserve">
+    <value>列表级别</value>
+  </data>
+  <data name="ListDialogNumberFollow" xml:space="preserve">
+    <value>跟随数字</value>
+  </data>
+  <data name="ListDialogNumberFormat" xml:space="preserve">
+    <value>数字格式</value>
+  </data>
+  <data name="ListDialogNumberStyle" xml:space="preserve">
+    <value>此级别的数字样式</value>
+  </data>
+  <data name="ListDialogRestart" xml:space="preserve">
+    <value>重新启动方式</value>
+  </data>
+  <data name="ListDialogStartAt" xml:space="preserve">
+    <value>开始在</value>
+  </data>
+  <data name="ListDialogLeftIndents" xml:space="preserve">
+    <value>文本缩进位置</value>
+  </data>
+  <data name="MiniToolBarAlignmentToolTip" xml:space="preserve">
+    <value>对准</value>
+  </data>
+  <data name="MiniToolBarBlackHighlightToolTip" xml:space="preserve">
+    <value>黑色</value>
+  </data>
+  <data name="MiniToolBarBlueHighlightToolTip" xml:space="preserve">
+    <value>蓝色</value>
+  </data>
+  <data name="MiniToolBarBoldToolTip" xml:space="preserve">
+    <value>加粗</value>
+  </data>
+  <data name="MiniToolBarBrightGreenHighlightToolTip" xml:space="preserve">
+    <value>亮绿色</value>
+  </data>
+  <data name="MiniToolBarBulletsHeader" xml:space="preserve">
+    <value>Bullet Library</value>
+  </data>
+  <data name="MiniToolBarBulletToolTip" xml:space="preserve">
+    <value>Bullets</value>
+  </data>
+  <data name="MiniToolBarDarkBlueHighlightToolTip" xml:space="preserve">
+    <value>深蓝色</value>
+  </data>
+  <data name="MiniToolBarDarkRedHighlightToolTip" xml:space="preserve">
+    <value>暗红色</value>
+  </data>
+  <data name="MiniToolBarDarkYelowHighlightToolTip" xml:space="preserve">
+    <value>暗黄</value>
+  </data>
+  <data name="MiniToolBarDecreaseFontToolTip" xml:space="preserve">
+    <value>减小字体大小</value>
+  </data>
+  <data name="MiniToolBarDeleteTableColumns" xml:space="preserve">
+    <value>删除列</value>
+  </data>
+  <data name="MiniToolBarDeleteTableRows" xml:space="preserve">
+    <value>删除行</value>
+  </data>
+  <data name="MiniToolBarDeleteTableToolTip" xml:space="preserve">
+    <value>删除表</value>
+  </data>
+  <data name="MiniToolBarFontColorToolTip" xml:space="preserve">
+    <value>字体颜色</value>
+  </data>
+  <data name="MiniToolBarFontSizeToolTip" xml:space="preserve">
+    <value>字体大小</value>
+  </data>
+  <data name="MiniToolBarFontToolTip" xml:space="preserve">
+    <value>字体</value>
+  </data>
+  <data name="MiniToolBarGray25HighlightToolTip" xml:space="preserve">
+    <value>灰色-25%</value>
+  </data>
+  <data name="MiniToolBarGray50HighlightToolTip" xml:space="preserve">
+    <value>灰色-50%</value>
+  </data>
+  <data name="MiniToolBarGreenHighlightToolTip" xml:space="preserve">
+    <value>绿色</value>
+  </data>
+  <data name="MiniToolBarHighlightColorToolTip" xml:space="preserve">
+    <value>文本突出显示颜色</value>
+  </data>
+  <data name="MiniToolBarIncreaseFontToolTip" xml:space="preserve">
+    <value>增加字体大小</value>
+  </data>
+  <data name="MiniToolBarInsertTableAbove" xml:space="preserve">
+    <value>在上面插入</value>
+  </data>
+  <data name="MiniToolBarInsertTableBelow" xml:space="preserve">
+    <value>在下面插入</value>
+  </data>
+  <data name="MiniToolBarInsertTableLeft" xml:space="preserve">
+    <value>向左插入</value>
+  </data>
+  <data name="MiniToolBarInsertTableRight" xml:space="preserve">
+    <value>向右插入</value>
+  </data>
+  <data name="MiniToolBarInsertTableToolTip" xml:space="preserve">
+    <value>插入表格</value>
+  </data>
+  <data name="MiniToolBarItalicToolTip" xml:space="preserve">
+    <value>斜体</value>
+  </data>
+  <data name="MiniToolBarNoHighlightToolTip" xml:space="preserve">
+    <value>无颜色</value>
+  </data>
+  <data name="MiniToolBarNoListToolTip" xml:space="preserve">
+    <value>无</value>
+  </data>
+  <data name="MiniToolBarNumberingAlignLeftToolTip" xml:space="preserve">
+    <value>数字对齐方式：左对齐</value>
+  </data>
+  <data name="MiniToolBarNumberingAlignRightToolTip" xml:space="preserve">
+    <value>数字对齐方式：右对齐</value>
+  </data>
+  <data name="MiniToolBarNumberingHeader" xml:space="preserve">
+    <value>编号库</value>
+  </data>
+  <data name="MiniToolBarNumberingToolTip" xml:space="preserve">
+    <value>编号</value>
+  </data>
+  <data name="MiniToolBarPinkHighlightToolTip" xml:space="preserve">
+    <value>粉红色</value>
+  </data>
+  <data name="MiniToolBarRedHighlightToolTip" xml:space="preserve">
+    <value>红色</value>
+  </data>
+  <data name="MiniToolBarTealHighlightToolTip" xml:space="preserve">
+    <value>水鸭</value>
+  </data>
+  <data name="MiniToolBarTurquoiseHighlightToolTip" xml:space="preserve">
+    <value>绿松石</value>
+  </data>
+  <data name="MiniToolBarUnderlineToolTip" xml:space="preserve">
+    <value>下划线</value>
+  </data>
+  <data name="MiniToolBarVioletHighlightToolTip" xml:space="preserve">
+    <value>紫色</value>
+  </data>
+  <data name="MiniToolBarYellowHighlightToolTip" xml:space="preserve">
+    <value>黄色</value>
+  </data>
+  <data name="OptionsPaneSearch" xml:space="preserve">
+    <value>搜索</value>
+  </data>
+  <data name="ParagraphDialogAfterSpacing" xml:space="preserve">
+    <value>在指定日期之后</value>
+  </data>
+  <data name="ParagraphDialogAlignment" xml:space="preserve">
+    <value>对准</value>
+  </data>
+  <data name="ParagraphDialogLineSpacingAt" xml:space="preserve">
+    <value>在</value>
+  </data>
+  <data name="ParagraphDialogBeforeSpacing" xml:space="preserve">
+    <value>之前</value>
+  </data>
+  <data name="ParagraphDialogSpecialIndentBy" xml:space="preserve">
+    <value>由</value>
+  </data>
+  <data name="ParagraphDialogGeneralHeader" xml:space="preserve">
+    <value>常规</value>
+  </data>
+  <data name="StylesDialogGeneralHeader" xml:space="preserve">
+    <value>样式</value>
+  </data>
+  <data name="StyleDialogGeneralHeader" xml:space="preserve">
+    <value>属性</value>
+  </data>
+  <data name="StyleDialogFormattingHeader" xml:space="preserve">
+    <value>格式化</value>
+  </data>
+  <data name="StyleDialogName" xml:space="preserve">
+    <value>名称</value>
+  </data>
+  <data name="StyleDialogBasedOn" xml:space="preserve">
+    <value>样式基于</value>
+  </data>
+  <data name="StyleDialogStyleType" xml:space="preserve">
+    <value>样式类型</value>
+  </data>
+  <data name="StyleDialogFollowingParagraph" xml:space="preserve">
+    <value>以下段落的样式</value>
+  </data>
+  <data name="ParagraphDialogIndentHeader" xml:space="preserve">
+    <value>缩进</value>
+  </data>
+  <data name="ParagraphDialogLeftIndentValue" xml:space="preserve">
+    <value>左</value>
+  </data>
+  <data name="ParagraphDialogLineSpacingType" xml:space="preserve">
+    <value>行距</value>
+  </data>
+  <data name="ParagraphDialogRightIndent" xml:space="preserve">
+    <value>右</value>
+  </data>
+  <data name="ParagraphDialogSpacingHeader" xml:space="preserve">
+    <value>间距</value>
+  </data>
+  <data name="ParagraphDialogSpecialIndent" xml:space="preserve">
+    <value>特殊</value>
+  </data>
+  <data name="PasswordDialogEnterPassword" xml:space="preserve">
+    <value>输入密码</value>
+  </data>
+  <data name="OptionsPaneResultsHeader" xml:space="preserve">
+    <value>结果</value>
+  </data>
+  <data name="OptionsPaneDescription" xml:space="preserve">
+    <value>使用搜索框查找文档中的文本。</value>
+  </data>
+  <data name="TableDialogColumnSize" xml:space="preserve">
+    <value>列大小</value>
+  </data>
+  <data name="TableDialogRowSize" xml:space="preserve">
+    <value>行大小</value>
+  </data>
+  <data name="FindReplaceDialogTitle" xml:space="preserve">
+    <value>查找和替换</value>
+  </data>
+  <data name="FontDialogTitle" xml:space="preserve">
+    <value>字体</value>
+  </data>
+  <data name="FontDialogNoUnderline" xml:space="preserve">
+    <value>（无）</value>
+  </data>
+  <data name="HyperlinkDialogTitle" xml:space="preserve">
+    <value>插入超链接</value>
+  </data>
+  <data name="ArabicList" xml:space="preserve">
+    <value>阿拉伯语</value>
+  </data>
+  <data name="BulletList" xml:space="preserve">
+    <value>Bullet</value>
+  </data>
+  <data name="FarEastList" xml:space="preserve">
+    <value>远东</value>
+  </data>
+  <data name="FollowNumberWithNone" xml:space="preserve">
+    <value>无</value>
+  </data>
+  <data name="FollowNumberWithSpace" xml:space="preserve">
+    <value>空间</value>
+  </data>
+  <data name="FollowNumberWithTab" xml:space="preserve">
+    <value>标签</value>
+  </data>
+  <data name="LeadingZeroList" xml:space="preserve">
+    <value>前补零</value>
+  </data>
+  <data name="ListLevelOne" xml:space="preserve">
+    <value>级别 1</value>
+  </data>
+  <data name="ListLevelTwo" xml:space="preserve">
+    <value>级别 2</value>
+  </data>
+  <data name="ListLevelThree" xml:space="preserve">
+    <value>级别 3</value>
+  </data>
+  <data name="ListLevelFour" xml:space="preserve">
+    <value>级别 4</value>
+  </data>
+  <data name="ListLevelFive" xml:space="preserve">
+    <value>级别 5</value>
+  </data>
+  <data name="ListLevelSix" xml:space="preserve">
+    <value>级别 6</value>
+  </data>
+  <data name="ListLevelSeven" xml:space="preserve">
+    <value>级别 7</value>
+  </data>
+  <data name="ListLevelEight" xml:space="preserve">
+    <value>级别 8</value>
+  </data>
+  <data name="ListLevelNine" xml:space="preserve">
+    <value>级别 9</value>
+  </data>
+  <data name="LowLetterList" xml:space="preserve">
+    <value>小写字母</value>
+  </data>
+  <data name="LowRomanList" xml:space="preserve">
+    <value>小写罗马字符</value>
+  </data>
+  <data name="NumberList" xml:space="preserve">
+    <value>数字</value>
+  </data>
+  <data name="OrdinalList" xml:space="preserve">
+    <value>顺序</value>
+  </data>
+  <data name="OrdinalTextList" xml:space="preserve">
+    <value>顺序文本</value>
+  </data>
+  <data name="SpecialList" xml:space="preserve">
+    <value>特殊</value>
+  </data>
+  <data name="ListDialogTitle" xml:space="preserve">
+    <value>定义列表</value>
+  </data>
+  <data name="UpLetterList" xml:space="preserve">
+    <value>大写</value>
+  </data>
+  <data name="UpRomanList" xml:space="preserve">
+    <value>大写罗马字符</value>
+  </data>
+  <data name="CenteredAlignment" xml:space="preserve">
+    <value>居中</value>
+  </data>
+  <data name="JustifiedAlignment" xml:space="preserve">
+    <value>两端对齐</value>
+  </data>
+  <data name="LeftAlignment" xml:space="preserve">
+    <value>左</value>
+  </data>
+  <data name="RightAlignment" xml:space="preserve">
+    <value>右</value>
+  </data>
+  <data name="ParagraphDialogFirstLineIndent" xml:space="preserve">
+    <value>第一行</value>
+  </data>
+  <data name="ParagraphDialogHangingIndent" xml:space="preserve">
+    <value>悬挂</value>
+  </data>
+  <data name="LineSpacingAtleast" xml:space="preserve">
+    <value>至少</value>
+  </data>
+  <data name="LineSpacingExactly" xml:space="preserve">
+    <value>确切地</value>
+  </data>
+  <data name="LineSpacingMultiple" xml:space="preserve">
+    <value>倍数</value>
+  </data>
+  <data name="ParagraphDialogNoIndent" xml:space="preserve">
+    <value>（无）</value>
+  </data>
+  <data name="ParagraphDialogTitle" xml:space="preserve">
+    <value>段落</value>
+  </data>
+  <data name="StylesDialogTitle" xml:space="preserve">
+    <value>样式</value>
+  </data>
+  <data name="NewStyleDialogTitle" xml:space="preserve">
+    <value>创建新样式</value>
+  </data>
+  <data name="BulletsAndNumberingDialogTitle" xml:space="preserve">
+    <value>编号和项目符号</value>
+  </data>
+  <data name="ModifyStyleDialogTitle" xml:space="preserve">
+    <value>修改样式</value>
+  </data>
+  <data name="PasswordDialogTitle" xml:space="preserve">
+    <value>加密文档</value>
+  </data>
+  <data name="TableDialogTitle" xml:space="preserve">
+    <value>插入表格</value>
+  </data>
+  <data name="ListDialogFirstLineIndent" xml:space="preserve">
+    <value>对齐于</value>
+  </data>
+  <data name="FindReplaceDialogErrorMessage" xml:space="preserve">
+    <value>我们找不到您要找的内容。</value>
+  </data>
+  <data name="FindReplaceDialogSuccessMessage1" xml:space="preserve">
+    <value>全部完成 </value>
+  </data>
+  <data name="FindReplaceDialogSuccessMessage2" xml:space="preserve">
+    <value> 替换 。</value>
+  </data>
+  <data name="OptionsPaneSearchErrorMessage" xml:space="preserve">
+    <value>我们找不到您要找的内容。</value>
+  </data>
+  <data name="OptionsPaneSearchInformation" xml:space="preserve">
+    <value>使用搜索框查找文档中的文本。</value>
+  </data>
+  <data name="OptionsPaneSearchNoResult" xml:space="preserve">
+    <value>未找到结果</value>
+  </data>
+  <data name="OptionsPaneSearchOneResult" xml:space="preserve">
+    <value>找到1个结果</value>
+  </data>
+  <data name="OptionsPaneSearchPaused" xml:space="preserve">
+    <value>搜索已暂停</value>
+  </data>
+  <data name="OptionsPaneSearchResult" xml:space="preserve">
+    <value>结果 </value>
+  </data>
+  <data name="OptionsPaneSearchResultOf" xml:space="preserve">
+    <value> 之 </value>
+  </data>
+  <data name="OptionsPaneSearchManyResultsInfo" xml:space="preserve">
+    <value>这已经显现了很多。</value>
+  </data>
+  <data name="SearchButtonToolTip" xml:space="preserve">
+    <value>搜索更多内容</value>
+  </data>
+  <data name="HyperlinkToolTipContent" xml:space="preserve">
+    <value>点击关注链接</value>
+  </data>
+  <data name="SpellingPaneAddToDictionary" xml:space="preserve">
+    <value>增加</value>
+  </data>
+  <data name="SpellingPaneChange" xml:space="preserve">
+    <value>更改</value>
+  </data>
+  <data name="SpellingPaneChangeAll" xml:space="preserve">
+    <value>全部更改</value>
+  </data>
+  <data name="SpellingPaneIgnoreAll" xml:space="preserve">
+    <value>全部忽略</value>
+  </data>
+  <data name="SpellingPaneResume" xml:space="preserve">
+    <value>恢复</value>
+  </data>
+  <data name="SpellingPaneSpelling" xml:space="preserve">
+    <value>拼写</value>
+  </data>
+  <data name="SpellingPaneSuccessMessage" xml:space="preserve">
+    <value>拼写检查完成！</value>
+  </data>
+  <data name="ContextMenuAddToDictionary" xml:space="preserve">
+    <value>添加到词典</value>
+  </data>
+  <data name="ContextMenuIgnoreAll" xml:space="preserve">
+    <value>全部忽略</value>
+  </data>
+  <data name="DialogCloseButtonToolTip" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="OptionPaneCloseButtonToolTip" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="LoadingPage" xml:space="preserve">
+    <value>加载页面</value>
+  </data>
+  <data name="TableDialogAlignment" xml:space="preserve">
+    <value>对准</value>
+  </data>
+  <data name="TableDialogLeftIndent" xml:space="preserve">
+    <value>从左缩进</value>
+  </data>
+  <data name="TableDialogRightAlignment" xml:space="preserve">
+    <value>右</value>
+  </data>
+  <data name="Row" xml:space="preserve">
+    <value>行</value>
+  </data>
+  <data name="TablePropertiesDialogTitle" xml:space="preserve">
+    <value>表属性</value>
+  </data>
+  <data name="TableDialogRowHeightType" xml:space="preserve">
+    <value>行高为</value>
+  </data>
+  <data name="TableDialogRowHeight" xml:space="preserve">
+    <value>指定高度</value>
+  </data>
+  <data name="CellOptionsDialogTitle" xml:space="preserve">
+    <value>单元格选项</value>
+  </data>
+  <data name="TableDialogAllowRowBreak" xml:space="preserve">
+    <value>允许行跨页分隔</value>
+  </data>
+  <data name="TableDialogCellOptions" xml:space="preserve">
+    <value>选项</value>
+  </data>
+  <data name="TableDialogVerticalAlignment" xml:space="preserve">
+    <value>垂直对齐</value>
+  </data>
+  <data name="TableDialogRepeatHeader" xml:space="preserve">
+    <value>在每页顶部重复为标题行</value>
+  </data>
+  <data name="TableOptionsDialogTitle" xml:space="preserve">
+    <value>表选项</value>
+  </data>
+  <data name="ContextMenuTableProperties" xml:space="preserve">
+    <value>表属性...</value>
+  </data>
+  <data name="Percent" xml:space="preserve">
+    <value>百分之</value>
+  </data>
+  <data name="Pixel" xml:space="preserve">
+    <value>像素</value>
+  </data>
+  <data name="TableDialogPreferredWidth" xml:space="preserve">
+    <value>首选宽度</value>
+  </data>
+  <data name="TableDialogSize" xml:space="preserve">
+    <value>大小</value>
+  </data>
+  <data name="TableDialogPreferredWidthType" xml:space="preserve">
+    <value>测量范围</value>
+  </data>
+  <data name="Atleast" xml:space="preserve">
+    <value>至少</value>
+  </data>
+  <data name="Exactly" xml:space="preserve">
+    <value>确切地</value>
+  </data>
+  <data name="DialogBoxOptions" xml:space="preserve">
+    <value>选项</value>
+  </data>
+  <data name="TableDialogAllowCellSpacing" xml:space="preserve">
+    <value>允许单元格之间的间距</value>
+  </data>
+  <data name="BottomMargin" xml:space="preserve">
+    <value>底部</value>
+  </data>
+  <data name="LeftMargin" xml:space="preserve">
+    <value>左</value>
+  </data>
+  <data name="RightMargin" xml:space="preserve">
+    <value>右</value>
+  </data>
+  <data name="TopMargin" xml:space="preserve">
+    <value>顶部编辑</value>
+  </data>
+  <data name="TableDialogDefaultCellMargin" xml:space="preserve">
+    <value>默认单元格边距</value>
+  </data>
+  <data name="TableDialogDefaultCellSpacing" xml:space="preserve">
+    <value>默认单元格间距</value>
+  </data>
+  <data name="TableDialogCellMargin" xml:space="preserve">
+    <value>单元格边距</value>
+  </data>
+  <data name="TableDialogMarginSameAsTable" xml:space="preserve">
+    <value>与整个表相同</value>
+  </data>
+  <data name="BottomAlignment" xml:space="preserve">
+    <value>底部</value>
+  </data>
+  <data name="TopAlignment" xml:space="preserve">
+    <value>返回页首</value>
+  </data>
+  <data name="BordersShadingDialogTitle" xml:space="preserve">
+    <value>边框和底纹</value>
+  </data>
+  <data name="BordersShadingDialogApplyTo" xml:space="preserve">
+    <value>申请对象</value>
+  </data>
+  <data name="BordersShadingDialogBorders" xml:space="preserve">
+    <value>边框</value>
+  </data>
+  <data name="BordersShadingDialogColor" xml:space="preserve">
+    <value>颜色</value>
+  </data>
+  <data name="BordersShadingDialogFill" xml:space="preserve">
+    <value>填充</value>
+  </data>
+  <data name="BordersShadingDialogShading" xml:space="preserve">
+    <value>阴影</value>
+  </data>
+  <data name="BordersShadingDialogStyle" xml:space="preserve">
+    <value>样式</value>
+  </data>
+  <data name="BordersShadingDialogWidth" xml:space="preserve">
+    <value>宽度</value>
+  </data>
+  <data name="Cell" xml:space="preserve">
+    <value>单元格</value>
+  </data>
+  <data name="Table" xml:space="preserve">
+    <value>表格</value>
+  </data>
+  <data name="BordersShadingDialogAllBorder" xml:space="preserve">
+    <value>全部</value>
+  </data>
+  <data name="BordersShadingDialogBoxBorder" xml:space="preserve">
+    <value>盒子</value>
+  </data>
+  <data name="BordersShadingDialogCustomBorder" xml:space="preserve">
+    <value>自定义</value>
+  </data>
+  <data name="BordersShadingDialogNoBorder" xml:space="preserve">
+    <value>无</value>
+  </data>
+  <data name="BordersShadingDialogSetting" xml:space="preserve">
+    <value>设置</value>
+  </data>
+  <data name="BordersShadingDialogPreview" xml:space="preserve">
+    <value>预览</value>
+  </data>
+  <data name="Description" xml:space="preserve">
+    <value>描述</value>
+  </data>
+  <data name="AlternativeText" xml:space="preserve">
+    <value>可选文字</value>
+  </data>
+  <data name="Title" xml:space="preserve">
+    <value>标题</value>
+  </data>
+  <data name="ParagraphDialogDirection" xml:space="preserve">
+    <value>方向：</value>
+  </data>
+  <data name="DirectionLeftToRight" xml:space="preserve">
+    <value>从左到右</value>
+  </data>
+  <data name="DirectionRightToLeft" xml:space="preserve">
+    <value>从右到左</value>
+  </data>
+  <data name="TableDialogRightIndent" xml:space="preserve">
+    <value>从右缩进</value>
+  </data>
+  <data name="TableDialogTableDirection" xml:space="preserve">
+    <value>工作台方向</value>
+  </data>
+  <data name="ContextMenuAutoFit" xml:space="preserve">
+    <value>自动调整</value>
+  </data>
+  <data name="ContextMenuAutoFitToContents" xml:space="preserve">
+    <value>自动调整内容</value>
+  </data>
+  <data name="ContextMenuAutoFitToWindow" xml:space="preserve">
+    <value>自动调整到窗口</value>
+  </data>
+  <data name="ContextMenuFixedColumnWidth" xml:space="preserve">
+    <value>固定列宽</value>
+  </data>
+  <data name="TableOptionsDialogAllowAutoFit" xml:space="preserve">
+    <value>自动调整大小以适合内容</value>
+  </data>
+  <data name="TableOptionsDialogOptions" xml:space="preserve">
+    <value>选项</value>
+  </data>
+  <data name="Heading1" xml:space="preserve">
+    <value>标题 1</value>
+  </data>
+  <data name="Heading2" xml:space="preserve">
+    <value>标题 2</value>
+  </data>
+  <data name="Heading3" xml:space="preserve">
+    <value>标题 3</value>
+  </data>
+  <data name="Heading4" xml:space="preserve">
+    <value>标题 4</value>
+  </data>
+  <data name="Heading5" xml:space="preserve">
+    <value>标题 5</value>
+  </data>
+  <data name="Heading6" xml:space="preserve">
+    <value>标题 6</value>
+  </data>
+  <data name="Character" xml:space="preserve">
+    <value>字符</value>
+  </data>
+  <data name="Linked" xml:space="preserve">
+    <value>链接（段落和字符）</value>
+  </data>
+  <data name="MiniToolBarNoColorHighlight" xml:space="preserve">
+    <value>无颜色</value>
+  </data>
+  <data name="HyperlinkDialogScreenTipText" xml:space="preserve">
+    <value>屏幕提示文本</value>
+  </data>
+  <data name="SuggestionBoxErrorMessage" xml:space="preserve">
+    <value>我们找不到您要找的人。</value>
+  </data>
+  <data name="HyperlinkDialogTargetFrameText" xml:space="preserve">
+    <value>目标帧</value>
+  </data>
+  <data name="HyperlinkTargetNewWindow" xml:space="preserve">
+    <value>打开新窗口</value>
+  </data>
+  <data name="HyperlinkTargetNone" xml:space="preserve">
+    <value>无</value>
+  </data>
+  <data name="HyperlinkTargetParentFrame" xml:space="preserve">
+    <value>父框架</value>
+  </data>
+  <data name="HyperlinkTargetSameFrame" xml:space="preserve">
+    <value>同一帧</value>
+  </data>
+  <data name="HyperlinkTargetWholePage" xml:space="preserve">
+    <value>整页</value>
+  </data>
+</root>

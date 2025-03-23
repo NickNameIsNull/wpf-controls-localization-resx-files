@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -118,243 +118,243 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="OlapChart_Dialog_Appearance_Tab" xml:space="preserve">
-    <value>Appearance</value>
+    <value>外观</value>
   </data>
   <data name="OlapChart_Dialog_AxisLabel_FontColor" xml:space="preserve">
-    <value>Font Color</value>
+    <value>字体颜色</value>
   </data>
   <data name="OlapChart_Dialog_AxisLabel_FontFace" xml:space="preserve">
-    <value>Font Face</value>
+    <value>字体</value>
   </data>
   <data name="OlapChart_Dialog_AxisLabel_FontStyle" xml:space="preserve">
-    <value>Font Style</value>
+    <value>字体样式</value>
   </data>
   <data name="OlapChart_Dialog_Axis_Tab" xml:space="preserve">
-    <value>Axis Labels</value>
+    <value>轴标签</value>
   </data>
   <data name="OlapChart_Dialog_BackgroundStyle_Header" xml:space="preserve">
-    <value>Background Style</value>
+    <value>背景样式</value>
   </data>
   <data name="OlapChart_Dialog_BorderColor" xml:space="preserve">
-    <value>Color</value>
+    <value>颜色</value>
   </data>
   <data name="OlapChart_Dialog_BorderStyle_Header" xml:space="preserve">
-    <value>Border Style</value>
+    <value>边框样式</value>
   </data>
   <data name="OlapChart_Dialog_BorderWidth" xml:space="preserve">
-    <value>Width</value>
+    <value>宽度</value>
   </data>
   <data name="OlapChart_Dialog_CancleButton" xml:space="preserve">
-    <value>Cancel</value>
+    <value>取消</value>
   </data>
   <data name="OlapChart_Dialog_ChartBackground" xml:space="preserve">
-    <value>Chart Control</value>
+    <value>图表控件</value>
   </data>
   <data name="OlapChart_Dialog_ChartInterior" xml:space="preserve">
-    <value>Chart Interior</value>
+    <value>图表内部</value>
   </data>
   <data name="OlapChart_Dialog_ChartPalette" xml:space="preserve">
-    <value>Chart Palette</value>
+    <value>图表调色板</value>
   </data>
   <data name="OlapChart_Dialog_ChartStyle_Header" xml:space="preserve">
-    <value>Chart Style</value>
+    <value>图表样式</value>
   </data>
   <data name="OlapChart_Dialog_ChartType" xml:space="preserve">
-    <value>Chart Type</value>
+    <value>图表类型</value>
   </data>
   <data name="OlapChart_Dialog_Chart_Tab" xml:space="preserve">
-    <value>Chart</value>
+    <value>图表</value>
   </data>
   <data name="OlapChart_Dialog_CircleAsSymbol" xml:space="preserve">
-    <value>Circle</value>
+    <value>圆圈</value>
   </data>
   <data name="OlapChart_Dialog_LabelVisibility_Header" xml:space="preserve">
-    <value>Label Visibility</value>
+    <value>标签可见性</value>
   </data>
   <data name="OlapChart_Dialog_LegendCheckBoxVisiblity" xml:space="preserve">
-    <value>Show CheckBox</value>
+    <value>显示复选框</value>
   </data>
   <data name="OlapChart_Dialog_LegendPosition" xml:space="preserve">
-    <value>Position</value>
+    <value>位置</value>
   </data>
   <data name="OlapChart_Dialog_Legends_Header" xml:space="preserve">
-    <value>Legends</value>
+    <value>图例</value>
   </data>
   <data name="OlapChart_Dialog_LegendVisibility" xml:space="preserve">
-    <value>Show Legend</value>
+    <value>显示图例</value>
   </data>
   <data name="OlapChart_Dialog_OkButton" xml:space="preserve">
-    <value>OK</value>
+    <value>确定</value>
   </data>
   <data name="OlapChart_Context_Menu" xml:space="preserve">
-    <value>Chart Types</value>
+    <value>图表类型</value>
   </data>
   <data name="OlapChart_Dialog_Point_Labels_Tab" xml:space="preserve">
-    <value>Point Labels</value>
+    <value>点标签</value>
   </data>
   <data name="OlapChart_Dialog_RectanglAsSymbol" xml:space="preserve">
-    <value>Rectangle</value>
+    <value>矩形</value>
   </data>
   <data name="OlapChart_Dialog_SeriesNameAsLabelContent" xml:space="preserve">
-    <value>Series Name</value>
+    <value>系列名称</value>
   </data>
   <data name="OlapChart_Dialog_SymbolVisibility_Header" xml:space="preserve">
-    <value>Symbol Visibility</value>
+    <value>符号可见性</value>
   </data>
   <data name="OlapChart_Dialog_Title" xml:space="preserve">
-    <value>Chart Appearance Dialog</value>
+    <value>图表外观对话框</value>
   </data>
   <data name="OlapChart_Dialog_TriangleAsSymbol" xml:space="preserve">
-    <value>Triangle</value>
+    <value>三角形</value>
   </data>
   <data name="OlapChart_Dialog_XAxis_Header" xml:space="preserve">
-    <value>X Axis</value>
+    <value>X轴</value>
   </data>
   <data name="OlapChart_Dialog_XValueAsLabelContent" xml:space="preserve">
-    <value>X Value</value>
+    <value>X值</value>
   </data>
   <data name="OlapChart_Dialog_Yaxis_Header" xml:space="preserve">
-    <value>Y Axis</value>
+    <value>Y轴</value>
   </data>
   <data name="OlapChart_Dialog_YValueAsLabelContent" xml:space="preserve">
-    <value>Y Value</value>
+    <value>Y值</value>
   </data>
   <data name="OlapChart_ImageExport_Message" xml:space="preserve">
-    <value>Do you want to view the image?</value>
+    <value>是否要查看图像？</value>
   </data>
   <data name="OlapChart_ImageExport_Success" xml:space="preserve">
-    <value>Image Saved</value>
+    <value>图像已保存</value>
   </data>
   <data name="OlapChart_Appearance_ChartTypes_Area" xml:space="preserve">
-    <value>Area</value>
+    <value>区域</value>
   </data>
   <data name="OlapChart_Appearance_ChartTypes_Bar" xml:space="preserve">
-    <value>Bar</value>
+    <value>功能栏</value>
   </data>
   <data name="OlapChart_Appearance_ChartTypes_Column" xml:space="preserve">
-    <value>Column</value>
+    <value>列</value>
   </data>
   <data name="OlapChart_Appearance_ChartTypes_Funnel" xml:space="preserve">
-    <value>Funnel</value>
+    <value>漏斗</value>
   </data>
   <data name="OlapChart_Appearance_ChartTypes_Line" xml:space="preserve">
-    <value>Line</value>
+    <value>线条</value>
   </data>
   <data name="OlapChart_Appearance_ChartTypes_Pie" xml:space="preserve">
-    <value>Pie</value>
+    <value>饼状图</value>
   </data>
   <data name="OlapChart_Appearance_ChartTypes_Radar" xml:space="preserve">
-    <value>Radar</value>
+    <value>雷达</value>
   </data>
   <data name="OlapChart_Appearance_ChartTypes_RotatedSpline" xml:space="preserve">
-    <value>Rotated Spline</value>
+    <value>旋转样条曲线</value>
   </data>
   <data name="OlapChart_Appearance_ChartTypes_Scatter" xml:space="preserve">
-    <value>Scatter</value>
+    <value>分散</value>
   </data>
   <data name="OlapChart_Appearance_ChartTypes_Spline" xml:space="preserve">
-    <value>Spline</value>
+    <value>样条曲线</value>
   </data>
   <data name="OlapChart_Appearance_ChartTypes_SplineArea" xml:space="preserve">
-    <value>Spline Area</value>
+    <value>样条线区域</value>
   </data>
   <data name="OlapChart_Appearance_ChartTypes_StackingArea" xml:space="preserve">
-    <value>Stacking Area</value>
+    <value>堆叠区</value>
   </data>
   <data name="OlapChart_Appearance_ChartTypes_StackingBar" xml:space="preserve">
-    <value>Stacking Bar</value>
+    <value>堆叠条</value>
   </data>
   <data name="OlapChart_Appearance_ChartTypes_StackingColumn" xml:space="preserve">
-    <value>Stacking Column</value>
+    <value>堆叠柱</value>
   </data>
   <data name="OlapChart_Appearance_ChartTypes_StackingColumn100" xml:space="preserve">
-    <value>Stacking Column 100</value>
+    <value>堆叠柱100</value>
   </data>
   <data name="OlapChart_Appearance_ChartTypes_StepArea" xml:space="preserve">
-    <value>Step Area</value>
+    <value>步骤区</value>
   </data>
   <data name="OlapChart_Appearance_ChartTypes_StepLine" xml:space="preserve">
-    <value>Step Line</value>
+    <value>步骤线</value>
   </data>
   <data name="OlapChart_Appearance_ChartColorPalette_Analog" xml:space="preserve">
-    <value>Analog</value>
+    <value>模拟</value>
   </data>
   <data name="OlapChart_Appearance_ChartColorPalette_Colorful" xml:space="preserve">
-    <value>Colorful</value>
+    <value>丰富多彩的</value>
   </data>
   <data name="OlapChart_Appearance_ChartColorPalette_Custom" xml:space="preserve">
-    <value>Custom</value>
+    <value>自定义</value>
   </data>
   <data name="OlapChart_Appearance_ChartColorPalette_Earthtone" xml:space="preserve">
-    <value>Earth Tone</value>
+    <value>土色系</value>
   </data>
   <data name="OlapChart_Appearance_ChartColorPalette_GrayScale" xml:space="preserve">
-    <value>Gray Scale</value>
+    <value>灰度</value>
   </data>
   <data name="OlapChart_Appearance_ChartColorPalette_Nature" xml:space="preserve">
     <value>Nature</value>
   </data>
   <data name="OlapChart_Appearance_ChartColorPalette_Pastel" xml:space="preserve">
-    <value>Pastel</value>
+    <value>灰色系</value>
   </data>
   <data name="OlapChart_Appearance_ChartColorPalette_Triad" xml:space="preserve">
-    <value>Triad</value>
+    <value>三元组</value>
   </data>
   <data name="OlapChart_Appearance_ChartColorPalette_WarmCold" xml:space="preserve">
-    <value>Warm Cold</value>
+    <value>冷暖</value>
   </data>
   <data name="OlapChart_Appearance_ChartColorPalette_Default" xml:space="preserve">
-    <value>Default</value>
+    <value>默认</value>
   </data>
   <data name="OlapChart_Appearance_ChartColorPalette_DefaultAlpha" xml:space="preserve">
-    <value>Default Alpha</value>
+    <value>默认Alpha</value>
   </data>
   <data name="OlapChart_Appearance_Dialog_Error" xml:space="preserve">
-    <value>Error in Opening Property Dialog</value>
+    <value>打开属性对话框时出错</value>
   </data>
   <data name="OlapChart_ImageExport_NotValid_Message" xml:space="preserve">
-    <value>is not a valid image format.</value>
+    <value>不是有效的图像格式。</value>
   </data>
   <data name="OlapChart_ImageExport_Warning" xml:space="preserve">
-    <value>Warning</value>
+    <value>警告</value>
   </data>
   <data name="OlapChart_AfterRefreshEvent" xml:space="preserve">
-    <value>AfterRefresh event</value>
+    <value>刷新事件后</value>
   </data>
   <data name="OlapChart_AreaBorder_Exception" xml:space="preserve">
-    <value>OLAP Chart must have border with name \"PART_AreaBorder\" in the root of its template tree</value>
+    <value>OLAP图表必须在其模板树的根部有名称为 \"PARTAreaBorder\"的边框</value>
   </data>
   <data name="OlapChart_BeforeRefreshEvent" xml:space="preserve">
-    <value>BeforeRefresh event</value>
+    <value>刷新事件之前</value>
   </data>
   <data name="OlapChart_ChartArea_Exception" xml:space="preserve">
-    <value>OlapChart template must contain OlapChartArea</value>
+    <value>OlapChart模板必须包含OlapChartArea</value>
   </data>
   <data name="OlapChart_ColorModelProperty" xml:space="preserve">
-    <value>ColorModel property</value>
+    <value>ColorModel属性</value>
   </data>
   <data name="OlapChart_LabelPanel_Exception" xml:space="preserve">
-    <value>Back conversion is not supported by OlapPanel</value>
+    <value>OlapPanel不支持反向转换</value>
   </data>
   <data name="OlapChart_LabelPanel_OrientationException" xml:space="preserve">
-    <value>orientation is not supported by OlapPanel</value>
+    <value>OlapPanel不支持方向</value>
   </data>
   <data name="OlapChart_OnSaveCommand_Exception" xml:space="preserve">
-    <value>\"PART_OlapArea\" templated part of chart control cannot be retrieved.</value>
+    <value>\"PARTOlapArea\"图表控件的模板部分不能被检索到。</value>
   </data>
   <data name="OlapChart_PrimaryAxis_Exception" xml:space="preserve">
-    <value>Use PrimaryOlapAxis property for OlapArea</value>
+    <value>对OlapArea使用PrimaryOlapAxis属性</value>
   </data>
   <data name="OlapChart_SeriesProperty" xml:space="preserve">
-    <value>Series property</value>
+    <value>系列属性</value>
   </data>
   <data name="OlapChart_SeriesToolTip_Converter_Exception" xml:space="preserve">
-    <value>Cannot convert ToolTip to corresponding chart type</value>
+    <value>无法将工具提示转换为相应的图表类型</value>
   </data>
   <data name="OlapChart_VerifyAreaAccess_Exception" xml:space="preserve">
-    <value>OlapChart template should be applied before accessing</value>
+    <value>访问前应应用OlapChart模板</value>
   </data>
   <data name="StackTrace_Exception_Description" xml:space="preserve">
-    <value>For more details, please refer the log file from : </value>
+    <value>有关更多详细信息，请参阅以下位置的日志文件 : </value>
   </data>
 </root>

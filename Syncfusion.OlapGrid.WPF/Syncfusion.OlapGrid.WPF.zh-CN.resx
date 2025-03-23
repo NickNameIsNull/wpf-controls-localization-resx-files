@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,148 +117,166 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AddShape" xml:space="preserve">
-    <value>Add Shape</value>
+  <data name="ConditionalFormatEditor_AddCondition" xml:space="preserve">
+    <value>添加条件</value>
   </data>
-  <data name="AddText" xml:space="preserve">
-    <value>Add Text</value>
+  <data name="ConditionalFormatEditor_CellColor" xml:space="preserve">
+    <value>单元格颜色</value>
   </data>
-  <data name="AlignLeft" xml:space="preserve">
-    <value>Align Left</value>
+  <data name="ConditionalFormatEditor_ConditionName" xml:space="preserve">
+    <value>名称</value>
   </data>
-  <data name="AlignRight" xml:space="preserve">
-    <value>Align Right</value>
+  <data name="ConditionalFormatEditor_ConditionsList" xml:space="preserve">
+    <value>条件</value>
   </data>
-  <data name="Arrow" xml:space="preserve">
-    <value>Arrow</value>
+  <data name="ConditionalFormatEditor_ConditionType" xml:space="preserve">
+    <value>条件类型</value>
   </data>
-  <data name="Automatic" xml:space="preserve">
-    <value>Automatic</value>
+  <data name="ConditionalFormatEditor_Exception" xml:space="preserve">
+    <value>请输入条件值</value>
   </data>
-  <data name="Bold" xml:space="preserve">
-    <value>Bold</value>
+  <data name="ConditionalFormatEditor_ExceptionCaption" xml:space="preserve">
+    <value>异常消息：条件格式编辑器</value>
   </data>
-  <data name="BrowseImage" xml:space="preserve">
-    <value>Browse Image</value>
+  <data name="ConditionalFormatEditor_FontStyle" xml:space="preserve">
+    <value>字体样式</value>
   </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+  <data name="ConditionalFormatEditor_FontWeight" xml:space="preserve">
+    <value>字体权重</value>
   </data>
-  <data name="Center" xml:space="preserve">
-    <value>Center</value>
+  <data name="ConditionalFormatEditor_Foreground" xml:space="preserve">
+    <value>前景色</value>
   </data>
-  <data name="Circle" xml:space="preserve">
-    <value>Circle</value>
+  <data name="ConditionalFormatEditor_HeaderText" xml:space="preserve">
+    <value>条件格式编辑器</value>
   </data>
-  <data name="Crop" xml:space="preserve">
-    <value>Crop</value>
+  <data name="ConditionalFormatEditor_Measure" xml:space="preserve">
+    <value>测量</value>
   </data>
-  <data name="CropHeight" xml:space="preserve">
-    <value>Height. Click Enter to change crop height</value>
+  <data name="ConditionalFormatEditor_PredicateType" xml:space="preserve">
+    <value>谓词类型</value>
   </data>
-  <data name="CropWidth" xml:space="preserve">
-    <value>Width. Click Enter to change crop width</value>
+  <data name="ConditionalFormatEditor_Reset" xml:space="preserve">
+    <value>全部删除</value>
   </data>
-  <data name="DefaultText" xml:space="preserve">
-    <value>Enter Text</value>
+  <data name="ConditionalFormatEditor_Value1" xml:space="preserve">
+    <value>值1</value>
   </data>
-  <data name="Fill" xml:space="preserve">
-    <value>Fill</value>
+  <data name="ConditionalFormatEditor_Value2" xml:space="preserve">
+    <value>值2</value>
   </data>
-  <data name="Flip" xml:space="preserve">
-    <value>Flip</value>
+  <data name="OlapGrid_Column_Tooltip" xml:space="preserve">
+    <value>列</value>
   </data>
-  <data name="FlipHorizontal" xml:space="preserve">
-    <value>Flip Horizontal</value>
+  <data name="OlapGrid_ContextMenu_Collapse" xml:space="preserve">
+    <value>折叠</value>
   </data>
-  <data name="FlipVertical" xml:space="preserve">
-    <value>Flip Vertical</value>
+  <data name="OlapGrid_ContextMenu_Entirely" xml:space="preserve">
+    <value>完全</value>
   </data>
-  <data name="Font" xml:space="preserve">
-    <value>Font</value>
+  <data name="OlapGrid_ContextMenu_Expand" xml:space="preserve">
+    <value>暂开</value>
   </data>
-  <data name="FontColor" xml:space="preserve">
-    <value>Font Color</value>
+  <data name="OlapGrid_ContextMenu_To" xml:space="preserve">
+    <value>到</value>
   </data>
-  <data name="FontSize" xml:space="preserve">
-    <value>Font Size</value>
+  <data name="OlapGrid_Dialog_Background_Color" xml:space="preserve">
+    <value>背景色</value>
   </data>
-  <data name="Height" xml:space="preserve">
-    <value>Height</value>
+  <data name="OlapGrid_Dialog_Cancel" xml:space="preserve">
+    <value>取消</value>
   </data>
-  <data name="Italic" xml:space="preserve">
-    <value>Italic</value>
+  <data name="OlapGrid_Dialog_CellStyles" xml:space="preserve">
+    <value>单元格样式</value>
   </data>
-  <data name="Pan" xml:space="preserve">
-    <value>Pan</value>
+  <data name="OlapGrid_Dialog_ColumnHeader" xml:space="preserve">
+    <value>行标题</value>
   </data>
-  <data name="Path" xml:space="preserve">
-    <value>Pen</value>
+  <data name="OlapGrid_Dialog_ColumnSummary" xml:space="preserve">
+    <value>列摘要</value>
   </data>
-  <data name="RecentlyUsed" xml:space="preserve">
-    <value>Recently Used</value>
+  <data name="OlapGrid_Dialog_Font_Color" xml:space="preserve">
+    <value>字体颜色</value>
   </data>
-  <data name="Rectangle" xml:space="preserve">
-    <value>Rectangle</value>
+  <data name="OlapGrid_Dialog_Font_Name" xml:space="preserve">
+    <value>字体名称</value>
   </data>
-  <data name="Redo" xml:space="preserve">
-    <value>Redo</value>
+  <data name="OlapGrid_Dialog_Font_Size" xml:space="preserve">
+    <value>字体大小</value>
   </data>
-  <data name="Reset" xml:space="preserve">
-    <value>Reset</value>
+  <data name="OlapGrid_Dialog_Font_Style" xml:space="preserve">
+    <value>字体样式</value>
   </data>
-  <data name="ResetZoom" xml:space="preserve">
-    <value>Reset Zoom</value>
+  <data name="OlapGrid_Dialog_Foreground_Color" xml:space="preserve">
+    <value>前景色</value>
   </data>
-  <data name="Rotate" xml:space="preserve">
-    <value>Rotate</value>
+  <data name="OlapGrid_Dialog_HeaderFont" xml:space="preserve">
+    <value>标题字体</value>
   </data>
-  <data name="Save" xml:space="preserve">
-    <value>Save</value>
+  <data name="OlapGrid_Dialog_HeaderStyle" xml:space="preserve">
+    <value>标题样式</value>
   </data>
-  <data name="Select" xml:space="preserve">
-    <value>Select</value>
+  <data name="OlapGrid_Dialog_Ok" xml:space="preserve">
+    <value>确定</value>
   </data>
-  <data name="ShapeStroke" xml:space="preserve">
-    <value>Border</value>
+  <data name="OlapGrid_Dialog_RowHeader" xml:space="preserve">
+    <value>行标题</value>
   </data>
-  <data name="ShapeStrokeWidth" xml:space="preserve">
-    <value>Border Width</value>
+  <data name="OlapGrid_Dialog_RowSummary" xml:space="preserve">
+    <value>行摘要</value>
   </data>
-  <data name="StandardColors" xml:space="preserve">
-    <value>Standard Colors</value>
+  <data name="OlapGrid_Dialog_SummaryFont" xml:space="preserve">
+    <value>摘要字体</value>
   </data>
-  <data name="Stroke" xml:space="preserve">
-    <value>Stroke</value>
+  <data name="OlapGrid_Dialog_SummaryStyle" xml:space="preserve">
+    <value>摘要样式</value>
   </data>
-  <data name="StrokeWidth" xml:space="preserve">
-    <value>Stroke Width</value>
+  <data name="OlapGrid_Dialog_Title" xml:space="preserve">
+    <value>应用样式</value>
   </data>
-  <data name="ThemeColors" xml:space="preserve">
-    <value>Theme Colors</value>
+  <data name="OlapGrid_Measure_Tooltip" xml:space="preserve">
+    <value>测量</value>
   </data>
-  <data name="Underline" xml:space="preserve">
-    <value>Underline</value>
+  <data name="OlapGrid_Row_Tooltip" xml:space="preserve">
+    <value>行</value>
   </data>
-  <data name="Undo" xml:space="preserve">
-    <value>Undo</value>
+  <data name="OlapGrid_Value_Tooltip" xml:space="preserve">
+    <value>值</value>
   </data>
-  <data name="Width" xml:space="preserve">
-    <value>Width</value>
+  <data name="ConditionalFormatEditor_InvalidNameInfo" xml:space="preserve">
+    <value>请提供替代名称。条件已作为存在</value>
   </data>
-  <data name="Zoom" xml:space="preserve">
-    <value>Zoom</value>
+  <data name="ConditionalFormatEditor_MessageBoxErrorInfo" xml:space="preserve">
+    <value>错误</value>
   </data>
-  <data name="ZoomIn" xml:space="preserve">
-    <value>Zoom In</value>
+  <data name="ConditionalFormatEditor_NoMeasureInfo" xml:space="preserve">
+    <value>没有与当前报告关联的度量元素</value>
   </data>
-  <data name="ZoomLevel" xml:space="preserve">
-    <value>Zoom Level</value>
+  <data name="ConditionalFormatEditor_NoNameInfo" xml:space="preserve">
+    <value>请提供指定条件格式的名称</value>
   </data>
-  <data name="ZoomOut" xml:space="preserve">
-    <value>Zoom Out</value>
+  <data name="ConditionalFormatEditor_InvalidValuesInfo" xml:space="preserve">
+    <value>无效值：值1必须低于值2</value>
   </data>
-    <data name="Ellipse" xml:space="preserve">
-    <value>Ellipse</value>
+  <data name="ConditionalFormatEditor_RemoveCondition" xml:space="preserve">
+    <value>所选条件将被删除。是否确实要删除该条件？</value>
+  </data>
+  <data name="ConditionalFormatEditor_RemoveAllConditionsInfo" xml:space="preserve">
+    <value>将删除所有应用的条件格式。你确定要继续吗？</value>
+  </data>
+  <data name="ConditionalFormatEditor_MessageInfo" xml:space="preserve">
+    <value>删除条件</value>
+  </data>
+  <data name="ConditionalFormatEditor_RemoveButtonToolTip" xml:space="preserve">
+    <value>删除当前条件</value>
+  </data>
+  <data name="OlapGrid_HexStringToColor_Exception" xml:space="preserve">
+    <value>无效的十六进制字符串</value>
+  </data>
+  <data name="OlapGrid_PageNotFound_Exception" xml:space="preserve">
+    <value>在分页网格中找不到指定索引的页面。</value>
+  </data>
+  <data name="StackTrace_Exception_Description" xml:space="preserve">
+    <value>有关更多详细信息，请参阅以下位置的日志文件 : </value>
   </data>
 </root>

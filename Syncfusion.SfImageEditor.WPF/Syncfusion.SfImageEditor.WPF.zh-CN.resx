@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -118,147 +118,147 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AddShape" xml:space="preserve">
-    <value>Add Shape</value>
+    <value>添加形状</value>
   </data>
   <data name="AddText" xml:space="preserve">
-    <value>Add Text</value>
+    <value>添加文本</value>
   </data>
   <data name="AlignLeft" xml:space="preserve">
-    <value>Align Left</value>
+    <value>左对齐</value>
   </data>
   <data name="AlignRight" xml:space="preserve">
-    <value>Align Right</value>
+    <value>右对齐</value>
   </data>
   <data name="Arrow" xml:space="preserve">
-    <value>Arrow</value>
+    <value>箭头</value>
   </data>
   <data name="Automatic" xml:space="preserve">
-    <value>Automatic</value>
+    <value>自动</value>
   </data>
   <data name="Bold" xml:space="preserve">
-    <value>Bold</value>
+    <value>加粗</value>
   </data>
   <data name="BrowseImage" xml:space="preserve">
-    <value>Browse Image</value>
+    <value>浏览图像</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>取消</value>
   </data>
   <data name="Center" xml:space="preserve">
-    <value>Center</value>
+    <value>居中</value>
   </data>
   <data name="Circle" xml:space="preserve">
-    <value>Circle</value>
+    <value>圆圈</value>
   </data>
   <data name="Crop" xml:space="preserve">
-    <value>Crop</value>
+    <value>作物</value>
   </data>
   <data name="CropHeight" xml:space="preserve">
-    <value>Height. Click Enter to change crop height</value>
+    <value>高度。单击 Enter 以更改裁剪高度</value>
   </data>
   <data name="CropWidth" xml:space="preserve">
-    <value>Width. Click Enter to change crop width</value>
+    <value>宽度。单击 Enter 以更改裁剪宽度</value>
   </data>
   <data name="DefaultText" xml:space="preserve">
-    <value>Enter Text</value>
+    <value>输入文本</value>
   </data>
   <data name="Fill" xml:space="preserve">
-    <value>Fill</value>
+    <value>填充</value>
   </data>
   <data name="Flip" xml:space="preserve">
-    <value>Flip</value>
+    <value>翻转</value>
   </data>
   <data name="FlipHorizontal" xml:space="preserve">
-    <value>Flip Horizontal</value>
+    <value>水平翻转</value>
   </data>
   <data name="FlipVertical" xml:space="preserve">
-    <value>Flip Vertical</value>
+    <value>垂直翻转</value>
   </data>
   <data name="Font" xml:space="preserve">
-    <value>Font</value>
+    <value>字体</value>
   </data>
   <data name="FontColor" xml:space="preserve">
-    <value>Font Color</value>
+    <value>字体颜色</value>
   </data>
   <data name="FontSize" xml:space="preserve">
-    <value>Font Size</value>
+    <value>字体大小</value>
   </data>
   <data name="Height" xml:space="preserve">
-    <value>Height</value>
+    <value>高度</value>
   </data>
   <data name="Italic" xml:space="preserve">
-    <value>Italic</value>
+    <value>斜体</value>
   </data>
   <data name="Pan" xml:space="preserve">
     <value>Pan</value>
   </data>
   <data name="Path" xml:space="preserve">
-    <value>Pen</value>
+    <value>笔</value>
   </data>
   <data name="RecentlyUsed" xml:space="preserve">
-    <value>Recently Used</value>
+    <value>最近使用</value>
   </data>
   <data name="Rectangle" xml:space="preserve">
-    <value>Rectangle</value>
+    <value>矩形</value>
   </data>
   <data name="Redo" xml:space="preserve">
-    <value>Redo</value>
+    <value>重做</value>
   </data>
   <data name="Reset" xml:space="preserve">
-    <value>Reset</value>
+    <value>重置</value>
   </data>
   <data name="ResetZoom" xml:space="preserve">
-    <value>Reset Zoom</value>
+    <value>重置缩放</value>
   </data>
   <data name="Rotate" xml:space="preserve">
-    <value>Rotate</value>
+    <value>旋转</value>
   </data>
   <data name="Save" xml:space="preserve">
-    <value>Save</value>
+    <value>保存</value>
   </data>
   <data name="Select" xml:space="preserve">
-    <value>Select</value>
+    <value>选择</value>
   </data>
   <data name="ShapeStroke" xml:space="preserve">
-    <value>Border</value>
+    <value>边框</value>
   </data>
   <data name="ShapeStrokeWidth" xml:space="preserve">
-    <value>Border Width</value>
+    <value>边框宽度</value>
   </data>
   <data name="StandardColors" xml:space="preserve">
-    <value>Standard Colors</value>
+    <value>标准颜色</value>
   </data>
   <data name="Stroke" xml:space="preserve">
-    <value>Stroke</value>
+    <value>斜线</value>
   </data>
   <data name="StrokeWidth" xml:space="preserve">
-    <value>Stroke Width</value>
+    <value>斜线宽度</value>
   </data>
   <data name="ThemeColors" xml:space="preserve">
-    <value>Theme Colors</value>
+    <value>主题颜色</value>
   </data>
   <data name="Underline" xml:space="preserve">
-    <value>Underline</value>
+    <value>下划线</value>
   </data>
   <data name="Undo" xml:space="preserve">
-    <value>Undo</value>
+    <value>撤消</value>
   </data>
   <data name="Width" xml:space="preserve">
-    <value>Width</value>
+    <value>宽度</value>
   </data>
   <data name="Zoom" xml:space="preserve">
-    <value>Zoom</value>
+    <value>缩放</value>
   </data>
   <data name="ZoomIn" xml:space="preserve">
-    <value>Zoom In</value>
+    <value>放大</value>
   </data>
   <data name="ZoomLevel" xml:space="preserve">
-    <value>Zoom Level</value>
+    <value>缩放级别</value>
   </data>
   <data name="ZoomOut" xml:space="preserve">
-    <value>Zoom Out</value>
+    <value>缩小</value>
   </data>
-    <data name="Ellipse" xml:space="preserve">
-    <value>Ellipse</value>
+  <data name="Ellipse" xml:space="preserve">
+    <value>椭圆</value>
   </data>
 </root>

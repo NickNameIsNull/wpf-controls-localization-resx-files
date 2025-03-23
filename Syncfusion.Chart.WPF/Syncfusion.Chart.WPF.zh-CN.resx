@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Analog" xml:space="preserve">
+    <value>模拟</value>
+  </data>
+  <data name="Area" xml:space="preserve">
+    <value>区域</value>
+  </data>
+  <data name="Bar" xml:space="preserve">
+    <value>功能栏</value>
+  </data>
+  <data name="BoxAndWhisker" xml:space="preserve">
+    <value>箱线图</value>
+  </data>
+  <data name="Bubble" xml:space="preserve">
+    <value>气泡</value>
+  </data>
+  <data name="Candle" xml:space="preserve">
+    <value>烛光</value>
+  </data>
+  <data name="ChangeType" xml:space="preserve">
+    <value>更改类型</value>
+  </data>
+  <data name="Close" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="Colorful" xml:space="preserve">
+    <value>丰富多彩的</value>
+  </data>
+  <data name="ColorPalette" xml:space="preserve">
+    <value>调色板</value>
+  </data>
+  <data name="Column" xml:space="preserve">
+    <value>列</value>
+  </data>
+  <data name="contextMenuPalettes" xml:space="preserve">
+    <value>调色板</value>
+  </data>
+  <data name="contextMenuSeries" xml:space="preserve">
+    <value>系列</value>
+  </data>
+  <data name="contextMenuZoomAll" xml:space="preserve">
+    <value>缩放全部视图</value>
+  </data>
+  <data name="contextMenuZooming" xml:space="preserve">
+    <value>缩放</value>
+  </data>
+  <data name="Copy" xml:space="preserve">
+    <value>复制</value>
+  </data>
+  <data name="Custom" xml:space="preserve">
+    <value>自定义</value>
+  </data>
+  <data name="Default" xml:space="preserve">
+    <value>默认</value>
+  </data>
+  <data name="DefaultAlpha" xml:space="preserve">
+    <value>默认Alpha</value>
+  </data>
+  <data name="DefaultDark" xml:space="preserve">
+    <value>默认深色</value>
+  </data>
+  <data name="Doughnut" xml:space="preserve">
+    <value>炸圈饼</value>
+  </data>
+  <data name="EarthTone" xml:space="preserve">
+    <value>土色系</value>
+  </data>
+  <data name="EnableZooming" xml:space="preserve">
+    <value>启用缩放</value>
+  </data>
+  <data name="FastColumn" xml:space="preserve">
+    <value>快速列</value>
+  </data>
+  <data name="FastHiLoOpenClose" xml:space="preserve">
+    <value>FastHiLoOpenClose</value>
+  </data>
+  <data name="FastLine" xml:space="preserve">
+    <value>快速行</value>
+  </data>
+  <data name="FastScatter" xml:space="preserve">
+    <value>快速散射</value>
+  </data>
+  <data name="FastStackingColumn" xml:space="preserve">
+    <value>快速堆叠列</value>
+  </data>
+  <data name="Funnel" xml:space="preserve">
+    <value>漏斗</value>
+  </data>
+  <data name="Gantt" xml:space="preserve">
+    <value>甘特图</value>
+  </data>
+  <data name="Gradient" xml:space="preserve">
+    <value>渐变</value>
+  </data>
+  <data name="Grayscale" xml:space="preserve">
+    <value>灰度</value>
+  </data>
+  <data name="HiLo" xml:space="preserve">
+    <value>HiLo</value>
+  </data>
+  <data name="HiLoArea" xml:space="preserve">
+    <value>HiLoArea</value>
+  </data>
+  <data name="HiLoOpenClose" xml:space="preserve">
+    <value>HiLoOpenClose</value>
+  </data>
+  <data name="Histogram" xml:space="preserve">
+    <value>直方图</value>
+  </data>
+  <data name="Kagi" xml:space="preserve">
+    <value>Kagi</value>
+  </data>
+  <data name="LegendWindowCancel" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="LegendWindowCheckBox" xml:space="preserve">
+    <value>复选框</value>
+  </data>
+  <data name="LegendWindowIcon" xml:space="preserve">
+    <value>图标</value>
+  </data>
+  <data name="LegendWindowOK" xml:space="preserve">
+    <value>确定</value>
+  </data>
+  <data name="LegendWindowTitle" xml:space="preserve">
+    <value>图表图例属性</value>
+  </data>
+  <data name="Line" xml:space="preserve">
+    <value>线条</value>
+  </data>
+  <data name="Nature" xml:space="preserve">
+    <value>Nature</value>
+  </data>
+  <data name="Office2007Black" xml:space="preserve">
+    <value>Office 2007 黑色</value>
+  </data>
+  <data name="Office2007Blue" xml:space="preserve">
+    <value>Office 2007 蓝色</value>
+  </data>
+  <data name="Office2007Silver" xml:space="preserve">
+    <value>Office 2007 Silver</value>
+  </data>
+  <data name="MixedGray" xml:space="preserve">
+    <value>亮灰色</value>
+  </data>
+  <data name="BlueScale" xml:space="preserve">
+    <value>蓝波快信</value>
+  </data>
+  <data name="MaroonRed" xml:space="preserve">
+    <value>马龙红</value>
+  </data>
+  <data name="GreenScale" xml:space="preserve">
+    <value>春绿色</value>
+  </data>
+  <data name="MixedViolet" xml:space="preserve">
+    <value>混合紫</value>
+  </data>
+  <data name="CoolBlueScale" xml:space="preserve">
+    <value>酷蓝</value>
+  </data>
+  <data name="ChocolateOrange" xml:space="preserve">
+    <value>巧克力橙</value>
+  </data>
+  <data name="MixedFantasy" xml:space="preserve">
+    <value>混合幻想</value>
+  </data>
+  <data name="Panning" xml:space="preserve">
+    <value>平移</value>
+  </data>
+  <data name="Pastel" xml:space="preserve">
+    <value>灰色系</value>
+  </data>
+  <data name="Pie" xml:space="preserve">
+    <value>饼状图</value>
+  </data>
+  <data name="PointAndFigure" xml:space="preserve">
+    <value>点和图</value>
+  </data>
+  <data name="Polar" xml:space="preserve">
+    <value>极地的</value>
+  </data>
+  <data name="printDialogAdvanced" xml:space="preserve">
+    <value>高级...</value>
+  </data>
+  <data name="printDialogBWMode" xml:space="preserve">
+    <value>黑白模式</value>
+  </data>
+  <data name="printDialogCancel" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="printDialogColorMode" xml:space="preserve">
+    <value>颜色模式</value>
+  </data>
+  <data name="printDialogPrint" xml:space="preserve">
+    <value>打印</value>
+  </data>
+  <data name="printDialogPrintStretch" xml:space="preserve">
+    <value>打印拉伸</value>
+  </data>
+  <data name="printDialogPrintMode" xml:space="preserve">
+    <value>打印模式</value>
+  </data>
+  <data name="Properties" xml:space="preserve">
+    <value>属性</value>
+  </data>
+  <data name="Pyramid" xml:space="preserve">
+    <value>金字塔</value>
+  </data>
+  <data name="Radar" xml:space="preserve">
+    <value>雷达</value>
+  </data>
+  <data name="RangeArea" xml:space="preserve">
+    <value>范围面积</value>
+  </data>
+  <data name="RangeColumn" xml:space="preserve">
+    <value>范围列</value>
+  </data>
+  <data name="Renko" xml:space="preserve">
+    <value>Renko</value>
+  </data>
+  <data name="ResetZoom" xml:space="preserve">
+    <value>重置缩放</value>
+  </data>
+  <data name="RotatedSpline" xml:space="preserve">
+    <value>旋转样条</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>保存</value>
+  </data>
+  <data name="Scatter" xml:space="preserve">
+    <value>分散</value>
+  </data>
+  <data name="Spline" xml:space="preserve">
+    <value>样条曲线</value>
+  </data>
+  <data name="SplineArea" xml:space="preserve">
+    <value>夹板耳</value>
+  </data>
+  <data name="StackingArea" xml:space="preserve">
+    <value>堆叠区域</value>
+  </data>
+  <data name="StackingLine" xml:space="preserve">
+    <value>堆垛线</value>
+  </data>
+  <data name="StackingLine100" xml:space="preserve">
+    <value>堆叠线路100</value>
+  </data>
+  <data name="StackingSpline" xml:space="preserve">
+    <value>堆叠样条</value>
+  </data>
+  <data name="StackingSpline100" xml:space="preserve">
+    <value>堆叠样条100</value>
+  </data>
+  <data name="StackingSplineArea" xml:space="preserve">
+    <value>堆叠样条区域</value>
+  </data>
+  <data name="StackingSplineArea100" xml:space="preserve">
+    <value>堆叠样品EA100</value>
+  </data>
+  <data name="StackingBar" xml:space="preserve">
+    <value>堆叠条</value>
+  </data>
+  <data name="StackingBar100" xml:space="preserve">
+    <value>堆叠杆100</value>
+  </data>
+  <data name="StackingColumn" xml:space="preserve">
+    <value>堆叠柱</value>
+  </data>
+  <data name="StackingColumn100" xml:space="preserve">
+    <value>堆叠柱100</value>
+  </data>
+  <data name="StepArea" xml:space="preserve">
+    <value>步骤区</value>
+  </data>
+  <data name="StepLine" xml:space="preserve">
+    <value>步骤线</value>
+  </data>
+  <data name="style" xml:space="preserve">
+    <value>样式</value>
+  </data>
+  <data name="ThreeLineBreak" xml:space="preserve">
+    <value>三换行符</value>
+  </data>
+  <data name="ToolbarLegend" xml:space="preserve">
+    <value>显示/隐藏图例</value>
+  </data>
+  <data name="ToolbarPrint" xml:space="preserve">
+    <value>打印</value>
+  </data>
+  <data name="ToolbarSwitchPrint" xml:space="preserve">
+    <value>切换打印模式</value>
+  </data>
+  <data name="Tornado" xml:space="preserve">
+    <value>Tornado</value>
+  </data>
+  <data name="Triad" xml:space="preserve">
+    <value>三元组</value>
+  </data>
+  <data name="WarmCold" xml:space="preserve">
+    <value>冷暖</value>
+  </data>
+  <data name="ZoomIn" xml:space="preserve">
+    <value>放大</value>
+  </data>
+  <data name="ZoomOut" xml:space="preserve">
+    <value>缩小</value>
+  </data>
+  <data name="AlternatingGridBackground" xml:space="preserve">
+    <value>背景：</value>
+  </data>
+  <data name="AlternatingGridBackgrounDirection" xml:space="preserve">
+    <value>背景方向：</value>
+  </data>
+  <data name="AlternatingGridBackgrounMode" xml:space="preserve">
+    <value>背景模式：</value>
+  </data>
+  <data name="AnimationOption" xml:space="preserve">
+    <value>动画选项：</value>
+  </data>
+  <data name="Appearance" xml:space="preserve">
+    <value>外观</value>
+  </data>
+  <data name="AutoSetRange" xml:space="preserve">
+    <value>自动设置范围</value>
+  </data>
+  <data name="Background" xml:space="preserve">
+    <value>背景：</value>
+  </data>
+  <data name="BorderBrush" xml:space="preserve">
+    <value>边框笔刷：</value>
+  </data>
+  <data name="BorderThickness" xml:space="preserve">
+    <value>边框厚度：</value>
+  </data>
+  <data name="ChartAxis" xml:space="preserve">
+    <value>图表轴</value>
+  </data>
+  <data name="ChartVisualStyle" xml:space="preserve">
+    <value>图表视觉样式</value>
+  </data>
+  <data name="ChartArea" xml:space="preserve">
+    <value>图表区域</value>
+  </data>
+  <data name="ChartAreaLegend" xml:space="preserve">
+    <value>图表区图例</value>
+  </data>
+  <data name="ChartLegend" xml:space="preserve">
+    <value>图表图例</value>
+  </data>
+  <data name="ChartSeries" xml:space="preserve">
+    <value>成套海图</value>
+  </data>
+  <data name="CheckBoxVisibility" xml:space="preserve">
+    <value>复选框可见性：</value>
+  </data>
+  <data name="CornerRadius" xml:space="preserve">
+    <value>拐角半径：</value>
+  </data>
+  <data name="Data" xml:space="preserve">
+    <value>数据</value>
+  </data>
+  <data name="DateTimeInterval" xml:space="preserve">
+    <value>日期时间间隔：</value>
+  </data>
+  <data name="DateTimeRange" xml:space="preserve">
+    <value>日期时间范围：</value>
+  </data>
+  <data name="DesiredIntervalCount" xml:space="preserve">
+    <value>所需间隔计数：</value>
+  </data>
+  <data name="EdgeLabelDrawingMode" xml:space="preserve">
+    <value>边缘标签绘制模式：</value>
+  </data>
+  <data name="EmptyPointsInterior" xml:space="preserve">
+    <value>内部空位：</value>
+  </data>
+  <data name="EnableContextMenu" xml:space="preserve">
+    <value>启用上下文菜单</value>
+  </data>
+  <data name="EnableZoomOnScroll" xml:space="preserve">
+    <value>启用滚动缩放</value>
+  </data>
+  <data name="Foreground" xml:space="preserve">
+    <value>前景色：</value>
+  </data>
+  <data name="GridRegionProperties" xml:space="preserve">
+    <value>替代性背景 </value>
+  </data>
+  <data name="GridBackground" xml:space="preserve">
+    <value>网格背景：</value>
+  </data>
+  <data name="Header" xml:space="preserve">
+    <value>标题：</value>
+  </data>
+  <data name="HeaderAlignment" xml:space="preserve">
+    <value>标题对齐：</value>
+  </data>
+  <data name="HidePartialLabels" xml:space="preserve">
+    <value>隐藏部分标签</value>
+  </data>
+  <data name="IconVisibility" xml:space="preserve">
+    <value>图标可见性：</value>
+  </data>
+  <data name="InteractiveFeatures" xml:space="preserve">
+    <value>交互式功能</value>
+  </data>
+  <data name="Interior" xml:space="preserve">
+    <value>内部：</value>
+  </data>
+  <data name="IntersectAction" xml:space="preserve">
+    <value>相交动作：</value>
+  </data>
+  <data name="Interval" xml:space="preserve">
+    <value>时间间隔：</value>
+  </data>
+  <data name="IsRotated" xml:space="preserve">
+    <value>旋转</value>
+  </data>
+  <data name="IsSorted" xml:space="preserve">
+    <value>已排序</value>
+  </data>
+  <data name="IsVisibleOnLegend" xml:space="preserve">
+    <value>在图例上可见</value>
+  </data>
+  <data name="IsZoomable" xml:space="preserve">
+    <value>可缩放</value>
+  </data>
+  <data name="IsLograthimic" xml:space="preserve">
+    <value>是Lograthimic</value>
+  </data>
+  <data name="LabelBorderBrush" xml:space="preserve">
+    <value>标签边框画刷：</value>
+  </data>
+  <data name="LabelBorderThickness" xml:space="preserve">
+    <value>标签边框厚度：</value>
+  </data>
+  <data name="LabelCornerRadius" xml:space="preserve">
+    <value>标签角半径：</value>
+  </data>
+  <data name="LabelDateTimeFormat" xml:space="preserve">
+    <value>标签日期时间格式：</value>
+  </data>
+  <data name="LabelForeground" xml:space="preserve">
+    <value>标签前景色：</value>
+  </data>
+  <data name="LabelFormat" xml:space="preserve">
+    <value>标签格式：</value>
+  </data>
+  <data name="LabelRotateAngle" xml:space="preserve">
+    <value>标签旋转角度：</value>
+  </data>
+  <data name="LabelsMode" xml:space="preserve">
+    <value>标签模式：</value>
+  </data>
+  <data name="LagrathimicRange" xml:space="preserve">
+    <value>Lagrathimic范围</value>
+  </data>
+  <data name="Legend" xml:space="preserve">
+    <value>图例</value>
+  </data>
+  <data name="LegendIcon" xml:space="preserve">
+    <value>图例图标：</value>
+  </data>
+  <data name="LegendLabel" xml:space="preserve">
+    <value>图例标签：</value>
+  </data>
+  <data name="LineStroke" xml:space="preserve">
+    <value>线条描边：</value>
+  </data>
+  <data name="LograthimicBase" xml:space="preserve">
+    <value>对数基：</value>
+  </data>
+  <data name="Margin" xml:space="preserve">
+    <value>边距：</value>
+  </data>
+  <data name="OpposedPosition" xml:space="preserve">
+    <value>相对位置</value>
+  </data>
+  <data name="Orientation" xml:space="preserve">
+    <value>方向：</value>
+  </data>
+  <data name="Origin" xml:space="preserve">
+    <value>源：</value>
+  </data>
+  <data name="Padding" xml:space="preserve">
+    <value>内边距：</value>
+  </data>
+  <data name="Range" xml:space="preserve">
+    <value>范围：</value>
+  </data>
+  <data name="RangeCalculationMode" xml:space="preserve">
+    <value>范围计算模式：</value>
+  </data>
+  <data name="RangePadding" xml:space="preserve">
+    <value>范围填充：</value>
+  </data>
+  <data name="SelectChartArea" xml:space="preserve">
+    <value>选择图表区域：</value>
+  </data>
+  <data name="SelectChartAxis" xml:space="preserve">
+    <value>选择图表轴</value>
+  </data>
+  <data name="SelectChartLegend" xml:space="preserve">
+    <value>选择图表图例</value>
+  </data>
+  <data name="SelectChartSeries" xml:space="preserve">
+    <value>选择图表系列</value>
+  </data>
+  <data name="ShowSeriesEmptyPoints" xml:space="preserve">
+    <value>显示序列空点</value>
+  </data>
+  <data name="ShowSymbol" xml:space="preserve">
+    <value>显示符号</value>
+  </data>
+  <data name="SmallTickLinesStroke" xml:space="preserve">
+    <value>小刻度线笔划：</value>
+  </data>
+  <data name="SmallTickSize" xml:space="preserve">
+    <value>小刻度大小：</value>
+  </data>
+  <data name="SmallTicksPerInterval" xml:space="preserve">
+    <value>每个间隔的小刻度：</value>
+  </data>
+  <data name="Stroke" xml:space="preserve">
+    <value>斜线：</value>
+  </data>
+  <data name="StrokeThickness" xml:space="preserve">
+    <value>斜线厚度：</value>
+  </data>
+  <data name="TickLineStroke" xml:space="preserve">
+    <value>刻度线笔划：</value>
+  </data>
+  <data name="TickSize" xml:space="preserve">
+    <value>刻度大小：</value>
+  </data>
+  <data name="Type" xml:space="preserve">
+    <value>类型</value>
+  </data>
+  <data name="Value Type" xml:space="preserve">
+    <value>值类型</value>
+  </data>
+  <data name="VisualStyle" xml:space="preserve">
+    <value>视觉样式</value>
+  </data>
+  <data name="AnimateSeriesonebyone" xml:space="preserve">
+    <value>逐个制作系列动画</value>
+  </data>
+  <data name="EmptyPointsStyle" xml:space="preserve">
+    <value>空点样式：</value>
+  </data>
+  <data name="Settings" xml:space="preserve">
+    <value>设置</value>
+  </data>
+  <data name="LabelBackground" xml:space="preserve">
+    <value>标签背景色：</value>
+  </data>
+  <data name="ValueType" xml:space="preserve">
+    <value>值类型：</value>
+  </data>
+  <data name="AxisHeader" xml:space="preserve">
+    <value>轴标题</value>
+  </data>
+  <data name="AxisPosition" xml:space="preserve">
+    <value>轴位置</value>
+  </data>
+  <data name="AxisType" xml:space="preserve">
+    <value>轴类型</value>
+  </data>
+  <data name="LabelSettings" xml:space="preserve">
+    <value>标签设置</value>
+  </data>
+  <data name="RangeAndInterval" xml:space="preserve">
+    <value>范围和间隔</value>
+  </data>
+  <data name="EnableAnimation" xml:space="preserve">
+    <value>启用动画</value>
+  </data>
+  <data name="LograthimicRange" xml:space="preserve">
+    <value>对数范围：</value>
+  </data>
+  <data name="ChartType" xml:space="preserve">
+    <value>图表类型：</value>
+  </data>
+  <data name="ChartProperties" xml:space="preserve">
+    <value>图表属性</value>
+  </data>
+  <data name="LegendPosition" xml:space="preserve">
+    <value>图例位置</value>
+  </data>
+  <data name="Chart" xml:space="preserve">
+    <value>图表</value>
+  </data>
+  <data name="ChartPropertiesDialogTitle" xml:space="preserve">
+    <value>图表属性对话框</value>
+  </data>
+  <data name="ChartTypeHeader" xml:space="preserve">
+    <value>图表类型</value>
+  </data>
+  <data name="HeaderSettings" xml:space="preserve">
+    <value>标题</value>
+  </data>
+  <data name="FastBar" xml:space="preserve">
+    <value>快捷栏</value>
+  </data>
+  <data name="StackingArea100" xml:space="preserve">
+    <value>堆叠区域100</value>
+  </data>
+</root>
