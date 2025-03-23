@@ -729,4 +729,55 @@
   <data name="TextMarkupAnnotation" xml:space="preserve">
     <value>文本标记注释</value>
   </data>
+  <data name="Annotations" xml:space="preserve">
+    <value>显示注释</value>
+  </data>
+  <data name="CloseAnnotationsToolbarMessage" xml:space="preserve">
+    <value>单击关闭注释工具栏。</value>
+  </data>
+  <data name="Accepted" xml:space="preserve">
+    <value>接受</value>
+  </data>
+  <data name="AddReply" xml:space="preserve">
+    <value>添加回复</value>
+  </data>
+  <data name="Cancelled" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>评论</value>
+  </data>
+  <data name="CommentsPanel" xml:space="preserve">
+    <value>评论面板</value>
+  </data>
+  <data name="Completed" xml:space="preserve">
+    <value>完成</value>
+  </data>
+  <data name="Edit" xml:space="preserve">
+    <value>编辑</value>
+  </data>
+  <data name="Export annotation to JSON file" xml:space="preserve">
+    <value>导出注释到JSON文件</value>
+  </data>
+  <data name="Export annotation to XFDF file" xml:space="preserve">
+    <value>导出注释到XFDF文件</value>
+  </data>
+  <data name="Import annotation from JSON file" xml:space="preserve">
+    <value>从JSON文件中导入注释</value>
+  </data>
+  <data name="Import annotation from XFDF file" xml:space="preserve">
+    <value>从XFDF文件中导入注释</value>
+  </data>
+  <data name="Page" xml:space="preserve">
+    <value>页面</value>
+  </data>
+  <data name="Post" xml:space="preserve">
+    <value>发送</value>
+  </data>
+  <data name="Rejected" xml:space="preserve">
+    <value>拒绝</value>
+  </data>
+  <data name="SetStatus" xml:space="preserve">
+    <value>设置状态</value>
+  </data>
 </root>

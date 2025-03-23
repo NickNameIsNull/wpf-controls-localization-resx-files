@@ -375,4 +375,8 @@
   <data name="PositivePageNumberValidationMessage" xml:space="preserve">
     <value>输入必须为正值</value>
   </data>
+  <data name="Items" xml:space="preserve">
+    <value>项目</value>
+    <comment>要显示的项目</comment>
+  </data>
 </root>

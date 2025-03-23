@@ -2565,4 +2565,25 @@
   <data name="String1" xml:space="preserve">
     <value>String1</value>
   </data>
+  <data name="ValidationMessage_IntersectCells" xml:space="preserve">
+    <value>此选择无效。确保复制和粘贴区域不重叠，除非它们大小和形状相同。</value>
+  </data>
+  <data name="InsertCutCells" xml:space="preserve">
+    <value>插入剪切单元格</value>
+  </data>
+  <data name="InsertCopiedCells" xml:space="preserve">
+    <value>插入复制单元格</value>
+  </data>
+  <data name="ShiftCellsRight" xml:space="preserve">
+    <value>向右移动单元格</value>
+  </data>
+  <data name="ShiftCellsDown" xml:space="preserve">
+    <value>向下移动单元格</value>
+  </data>
+  <data name="ShiftCellsLeft" xml:space="preserve">
+    <value>向左移动单元格</value>
+  </data>
+  <data name="ShiftCellsUp" xml:space="preserve">
+    <value>向上移动单元格</value>
+  </data>
 </root>

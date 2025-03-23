@@ -264,4 +264,7 @@
   <data name="XMLExport" xml:space="preserve">
     <value>XML导出</value>
   </data>
+  <data name="TaskId" xml:space="preserve">
+    <value>任务 Id</value>
+  </data>
 </root>

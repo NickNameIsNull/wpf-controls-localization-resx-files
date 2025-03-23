@@ -261,4 +261,7 @@
   <data name="Ellipse" xml:space="preserve">
     <value>椭圆</value>
   </data>
+  <data name="Background" xml:space="preserve">
+    <value>背景</value>
+  </data>
 </root>
